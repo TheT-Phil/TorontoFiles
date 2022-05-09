@@ -21,6 +21,7 @@
 ; Modified Dec-2021 for AIRAC 2112
 ; Modified Jan-2022 for AIRAC 2201
 ; Modified Mar-2022 for AIRAC 2203
+; Modified May-2022 for AIRAC 2205
 
 ; This version updated for Canscope 3.2
 ; Contributions From:
@@ -112,7 +113,7 @@
 #define final 16777215
 
 [INFO]
-CZYZ 2203 24/03/2022 ;DD/MM/YYYY
+CZYZ 2205 18/05/2022 ;DD/MM/YYYY
 CZYZ_CTR
 CYYZ
 N043.39.29.000
@@ -15209,7 +15210,7 @@ CYYZ ILS 33L              APMAM          APMAM          N043.34.40.200 W079.30.4
                           N043.25.23.002 W079.18.36.849 N043.25.24.801 W079.18.39.332 MMarker ;
 ;-
 
-CYYZ ILS 33R              ZYZ            ZYZ            N043.34.43.700 W079.29.41.000 dijon
+CYYZ ILS 33R              LETAG          LETAG          N043.34.43.700 W079.29.41.000 dijon
 ;40 GS
                           N043.32.49.712 W079.27.07.505 N043.32.37.906 W079.27.04.625 GPATH
                           N043.32.42.765 W079.27.14.201 N043.32.44.853 W079.26.57.929 GPATH
@@ -28100,29 +28101,23 @@ CYYZ RNAV (GNSS) Z 23     MAROD          MAROD          LETAP          LETAP    
 CYYZ RNAV (GNSS) Z 24L    MAROD          MAROD          ELVUD          ELVUD          APPR
                           DAVIK          DAVIK          ELVUD          ELVUD          APPR
                           DUTEX          DUTEX          ELVUD          ELVUD          APPR
-                          ELVUD          ELVUD          APMIK          APMIK          APPR
-                          APMIK          APMIK          KIREX          KIREX          APPR
+                          ELVUD          ELVUD          KIREX          KIREX          APPR
 ;
 CYYZ RNAV (GNSS) Z 24R    MAROD          MAROD          TIDAP          TIDAP          APPR
                           DAVIK          DAVIK          TIDAP          TIDAP          APPR
                           EPNUT          EPNUT          TIDAP          TIDAP          APPR
-                          TIDAP          TIDAP          MEPNA          MEPNA          APPR
-                          MEPNA          MEPNA          NOAHA          NOAHA          APPR
+                          TIDAP          TIDAP          NOAHA          NOAHA          APPR
                           NOAHA          NOAHA          ONDUT          ONDUT          APPR
 ;
 CYYZ RNAV (GNSS) Z 33L    GUBOV          GUBOV          ONBUS          ONBUS          APPR
                           NOXER          NOXER          ONBUS          ONBUS          APPR
                           KEKLU          KEKLU          ONBUS          ONBUS          APPR
-                          ONBUS          ONBUS          EBKOV          EBKOV          APPR
-                          EBKOV          EBKOV          VESDA          VESDA          APPR
-                          VESDA          VESDA          APMAM          APMAM          APPR
+                          ONBUS          ONBUS          APMAM          APMAM          APPR
 ;
 CYYZ RNAV (GNSS) Z 33R    GUBOV          GUBOV          MISAV          MISAV          APPR
                           NOXER          NOXER          MISAV          MISAV          APPR
                           NAGTI          NAGTI          MISAV          MISAV          APPR
-                          MISAV	         MISAV          TESAK          TESAK          APPR
-                          TESAK          TESAK          UKUDO          UKUDO          APPR
-                          UKUDO          UKUDO          LETAG          LETAG          APPR
+                          MISAV	         MISAV          LETAG          LETAG          APPR
                           LETAG          LETAG          XUGUM          XUGUM          APPR
 ;-
 
@@ -28674,12 +28669,12 @@ CNF4 RNAV (GNSS) 31       TIKOP          TIKOP          UDLUS          UDLUS    
 ;***************
 ;     CNK4     *
 ;***************
-CNK4 RNAV (GNSS) 17       SASUD          SASUD          ELSIL          ELSIL          APPR
+CNK4 RNAV (GNSS) Z 17     SASUD          SASUD          ELSIL          ELSIL          APPR
                           MAVAK          MAVAK          ELSIL          ELSIL          APPR
                           ELSIL          ELSIL          GADKO          GADKO          APPR
                           GADKO          GADKO          NAKPU          NAKPU          APPR
 ;
-CNK4 RNAV (GNSS) 35       DANEP          DANEP          BIRPA          BIRPA          APPR
+CNK4 RNAV (GNSS) Z 35     DANEP          DANEP          BIRPA          BIRPA          APPR
                           GOSEN          GOSEN          BIRPA          BIRPA          APPR
                           BIRPA          BIRPA          APLUN          APLUN          APPR
 ;-
