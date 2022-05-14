@@ -21,6 +21,7 @@
 ; Modified Dec-2021 for AIRAC 2112
 ; Modified Jan-2022 for AIRAC 2201
 ; Modified Mar-2022 for AIRAC 2203
+; Modified May-2022 for AIRAC 2205
 
 ; This version updated for Canscope 3.2
 ; Contributions From:
@@ -112,7 +113,7 @@
 #define final 16777215
 
 [INFO]
-CZYZ 2203 24/03/2022 ;DD/MM/YYYY
+CZYZ 2205 18/05/2022 ;DD/MM/YYYY
 CZYZ_CTR
 CYYZ
 N043.39.29.000
