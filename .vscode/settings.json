@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.sct": "plaintext",
+        "*.ese": "plaintext",
+        "*.prf": "plaintext",
+        "*.asr": "plaintext",
+        "*.txt": "plaintext"
+    },
+    "[plaintext]": {
+        "files.encoding": "windows1252"
+    }
+}
