@@ -28519,7 +28519,7 @@ CYGK RNAV (GNSS) 25       MEMVO          MEMVO          PUTUD          PUTUD    
 ;***************
 ;     CYKZ     *
 ;***************
-CYKZ LOC 15               RODMO          RODMO          SIMTU          SIMTU          APPR
+CYKZ LOC 15               ROMDO          ROMDO          SIMTU          SIMTU          APPR
                           SIMTU          SIMTU          XUBUK          XUBUK          APPR
 ;
 CYKZ RNAV (GNSS) 03       UDGIG          UDGIG          SEDOR          SEDOR          APPR
