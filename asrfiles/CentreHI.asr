@@ -1,0 +1,149 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORTITLE:CZYZ.sct
+ARTCC boundary:Border with USA High:
+ARTCC boundary:Canada High:
+ARTCC boundary:High Sectors:
+ARTCC boundary:Low Sectors:
+ARTCC boundary:ZULZYZ:
+ARTCC boundary:ZWGZYZ:
+ARTCC high boundary:ZBW Splits:
+ARTCC high boundary:ZMP Splits:
+ARTCC high boundary:ZOB High Splits:
+ARTCC high boundary:ZUL Splits:
+ARTCC low boundary:TOR YUL:
+ARTCC low boundary:XU Extensions:
+ARTCC low boundary:ZOB High Split:
+ARTCC low boundary:ZUL Low:
+Fixes:AHPAH:symbol
+Fixes:AIRCO:symbol
+Fixes:AIRRA:symbol
+Fixes:ANCOL:symbol
+Fixes:APDAX:symbol
+Fixes:AVSEP:symbol
+Fixes:BMPAH:symbol
+Fixes:BOBSU:symbol
+Fixes:BOXUM:symbol
+Fixes:DEDKI:symbol
+Fixes:DERLO:symbol
+Fixes:DUSOM:symbol
+Fixes:DUXIT:symbol
+Fixes:EBKIN:symbol
+Fixes:ELSUB:symbol
+Fixes:FINGL:symbol
+Fixes:FOXEE:symbol
+Fixes:GGUCE:symbol
+Fixes:GNTRY:symbol
+Fixes:IKLEN:symbol
+Fixes:IKMOK:symbol
+Fixes:IMEBA:symbol
+Fixes:IPTOS:symbol
+Fixes:IRKIM:symbol
+Fixes:KANIK:symbol
+Fixes:KASED:symbol
+Fixes:LETAK:symbol
+Fixes:LINNG:symbol
+Fixes:LOKPU:symbol
+Fixes:LORKA:symbol
+Fixes:MIGLO:symbol
+Fixes:MIVOK:symbol
+Fixes:MIXUT:symbol
+Fixes:MONEE:symbol
+Fixes:MUSIT:symbol
+Fixes:NADUM:symbol
+Fixes:NUBER:symbol
+Fixes:OAKVL:symbol
+Fixes:OLABA:symbol
+Fixes:OTNIK:symbol
+Fixes:OXMAN:symbol
+Fixes:POLTY:symbol
+Fixes:QWERI:symbol
+Fixes:RAGID:symbol
+Fixes:RAKAM:symbol
+Fixes:RIKEM:symbol
+Fixes:SEDOG:symbol
+Fixes:SILVU:symbol
+Fixes:SLLAP:symbol
+Fixes:TANGI:symbol
+Fixes:TESUK:symbol
+Fixes:TONNY:symbol
+Fixes:TORNI:symbol
+Fixes:TUKIR:symbol
+Fixes:TULEG:symbol
+Fixes:TULEK:symbol
+Fixes:URSAL:symbol
+Fixes:VERDO:symbol
+Fixes:WOZEE:symbol
+Fixes:YZEMN:symbol
+Fixes:ZOHAN:symbol
+Stars:SIDs ANCOL/PERLO (transitions):
+Stars:SIDs AVSEP/NUGOP (transitions):
+Stars:SIDs BETES/OAKVL (transitions):
+Stars:SIDs BOMET (transitions):
+Stars:SIDs DEDKI (transitions):
+Stars:SIDs DUSOM/RIGUS (transitions):
+Stars:SIDs EBKIN/KISEP (transitions):
+Stars:SIDs GOPUP/TULEK (transitions):
+Stars:SIDs IKLEN/MATES (transitions):
+Stars:SIDs KEPTA/MAVAN (transitions):
+Stars:SIDs MIXUT/PEMBA (transitions):
+Stars:SIDs NOSIK/URSAL (transitions):
+Stars:SIDs SEDOG/LAKES (transitions):
+Stars:SIDs TEVAD (transitions):
+Stars:SIDs VERDO (transitions):
+Stars:STARs BOXUM/DUVOS Transitions:
+Stars:STARs IMEBA/VIBLI Transitions:
+Stars:STARs LINNG/VERKO Transitions:
+Stars:STARs NUBER/NAKBO Transitions:
+Stars:STARs RAGID/UNDOX Transitions:
+VORs:APN:symbol
+VORs:ART:symbol
+VORs:BUF:symbol
+VORs:CMX:symbol
+VORs:ECK:symbol
+VORs:ERI:symbol
+VORs:FNT:symbol
+VORs:GEE:symbol
+VORs:JHW:symbol
+VORs:MSS:symbol
+VORs:PLN:symbol
+VORs:PSB:symbol
+VORs:ROC:symbol
+VORs:SAW:symbol
+VORs:SSM:symbol
+VORs:SVM:symbol
+VORs:SYR:symbol
+VORs:UTR:symbol
+VORs:VIE:symbol
+VORs:YEE:symbol
+VORs:YGQ:symbol
+VORs:YMO:symbol
+VORs:YMS:symbol
+VORs:YOW:symbol
+VORs:YQT:symbol
+VORs:YSP:symbol
+VORs:YTS:symbol
+VORs:YUL:symbol
+VORs:YVO:symbol
+VORs:YVV:symbol
+VORs:YXU:symbol
+VORs:YXZ:symbol
+VORs:YYB:symbol
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:10.40000
+TAGFAMILY:CSiT
+WINDOWAREA:39.726193:-101.131923:55.872965:-59.060157
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:7
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

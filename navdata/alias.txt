@@ -1,0 +1,134 @@
+;ALIAS
+
+;*** ARRIVAL ***
+.d Descend $1.
+.tldes Turn left heading $1. Descend $2.
+.trdes Turn right heading $1. Descend $2.
+.sq $radioname, squawk $squawk.
+.appic $radioname, runway $1 altimeter $altim($arr), info $2 is current.
+.ca turn $1 heading $2 to intercept the localizer, cleared ILS runway $3 approach
+.int on present heading, intercept the localizer, cleared ILS runway $1 approach
+.sight airport is a your $1 o'clock, $2 miles, report in sigh
+.cva not below $1 until final, cleared visual approach runway $2
+.rs reduce speed to $1 knots
+.cra Proceed direct $1. Cleared RNAV runway $2 approach.
+
+;*** CIRCUITS ***
+.toccts $1 hand CCTs are approved, not above $2, report midfield downwind, wind $wind($dep), cleared for take-off Runway $3
+.rdw $1 hand circuits are approved, wind $wind($dep), report intentions downwind runway $2
+.rf Report final for runway $1
+.hold Turn $1 360 degs, and repo
+.rho Make one Right Hand Orbit on your downwind leg
+.lho Make one Left Hand Orbit on your downwind leg
+.tg Wind $wind($dep), cleared Touch & Go runway $1
+.opt Wind $wind($dep), cleared for the option, Runway $1
+
+;*** CLEARANCE DELIVERY ***
+.pdcr Departure Clearance Request RECEIVED - REQUEST BEING PROCESSED - STANDBY.
+.pdc *PRE-DEPARTURE CLEARANCE* FLT $aircraft $dep - $type $alt XPDR $squawk - USE SID $sid DEPARTURE RUNWAY $deprwy DEST $arr - $route. -- CONTACT $radioname on $freq WITHIN 10 MINS BEFORE *PUSHBACK* WITH ATIS, GATE NUMBER and *IDENTIFIER $3* -- END OF ACARS MESSAGE
+.pdcd *PRE-DEPARTURE CLEARANCE* FLT $aircraft $dep - $type $alt XPDR $squawk - USE SID $sid DEPARTURE RUNWAY $deprwy DEST $arr - $route. -- CONTACT Toronto Delivery on 121.300 WITHIN 10 MINS BEFORE *PUSHBACK* WITH ATIS, GATE NUMBER and *IDENTIFIER $3* -- END OF ACARS MESSAGE
+.pdc1 ADDITIONAL INFORMATION - All INITIAL ALTITUDE and NAVIGATION Restrictions are PUBLISHED on the SID -- END OF ACARS MESSAGE
+.pdcc Departure Clearance Readback RECEIVED ? CLEARANCE CONFIRMED
+.mxcr EXPECT MAX CRUISE FL290 UNTIL OTHERWISE ASSIGNED -- END OF ACARS MESSAGE
+.pdcrtv REVERT TO VOICE
+.pdcrej Departure Clearance Request REJECTED ? ERROR IN MESSAGE ? REVERT TO VOICE PROCEDURES
+.pdcrejfp Departure Clearance Request REJECTED ? FLIGHT PLAN INVALID ? REVERT TO VOICE PROCEDURES
+.amd Please plan $1.
+.lvl Your altitude is invalid for your direction of flight, would you prefer FL$2 or FL$3?
+.clvl roger. Check $1 for your final cruise.
+.acsid You have filed the $SID, this is invalid for your aircraft type, can you accept the $1 Departure, $2 Transition?
+.dirsid The SID you have filed is invalid for your direction of flight, can you accept the $1 Departure, $2 Transition?
+.sid cleared to $arr airport via the $sid departure, flight planned route, Depart runway $deprwy, Squawk $squawk.
+.sidthen cleared to $arr airport via the $sid departure via $1 then flight planned route, depart runway $deprwy, squawk $squawk.
+.sidrnav cleared to $arr airport via the $sid departure, $1 transition, flight planned route. Depart runway $deprwy. Squawk $squawk.
+.sidrnavthen cleared to $arr airport via the $sid departure $1 transition, direct $3 then as filed. Depart runway $deprwy. Squawk $squawk.
+.nosid cleared to $arr airport, flight planned route, maintain $1, depart runway $deprwy, climb runway heading, squawk $squawk.
+.nosidthen cleared to $arr airport via $1 then flight planned route, maintain $2, depart runway $deprwy, climb runway heading for vectors, squawk $squawk.
+.vfr check VFR to $arr airport, plan runway $2 for departure, not above $3 initially and Squawk $squawk.
+.cct check VFR circuits, plan runwway $1, $2-hand circuits, not above $3, squawk $squawk.
+.psc readback correct. Pushback is at your discretion. Call $radioname($1) on $freq($1) for taxi.
+.psb readback correct. Pushback is at your discretion. Call when ready for taxi.
+.psu readback correct. Pushback is at your your discretion. No further ATC available. Monitor UNICOM on 122.8. Enjoy your flight.
+
+;*** DEPARTURE ***
+.spa say passing altitude
+.rtfm For future reference, all jet departures out of CYYZ are maintain runway heading up to 5000ft until instructed otherwise.
+.id $radioname(), identified
+.idm $radioname(), identified, climb $1.
+.c climb $1.
+.idtrc $radioname(), identified, turn right heading $1, climb $2.
+.idtlc $radioname(), identified, turn left heading $1, climb $2.
+.tld turn left direct $1.
+.trd turn right direct $1.
+.tl turn left heading $1
+.tr turn right heading $1
+.intl turn left heading $1, intercept $2 on course
+.intr turn right heading $1, intercept $2 on course
+.tldc Turn left direct $1 on course. Climb $2.
+.trdc Turn right direct $1 on course. Climb $3.
+
+;*** ENROUTE ***
+.idinfo Identified, $1. Welcome aboard! Runway $2. $3 is currrent.
+.des When ready, descend $1. Runway $2. altimeter $3.
+.tlseq Turn left heading $1. Vectors for Sequencing.
+.trseq Turn right heading $1. Vectors for Sequencing.
+.cal Turn $1 heading $2, Intercept the localizer. Cleared to the $3 airport via the Localizer Runway $4 apporach.
+.calb Turn $1 heading $2, Intercept the localizer. Cleared to the $3 airport via the Localizer Backcourse Runway $4 apporach.
+.car Proceed direct $1. Cleared to the $2 airport via the RNAV runway $3 approach.
+.cav Turn $1 heading $2, Intercept the inbound radial. Cleared to the $3 airport via the VOR Runway $4 apporach.
+.can Turn $1 heading $2, Intercept the inbound Track. Cleared to the $3 airport via the NDB Runway $4 apporach.
+.cca Turn $1 heading $2, Intercept the inbound $3. Cleared to the $4 airport via the $5 apporach, Circling $6 for runway $7.
+.caa Turn $1 heading $2, Intercept the inbound $3. Cleared to the $4 airport, $5 approach via the $6 DME arc.
+.msp Handoff, $1 of $2, on a $squawk($aircraft) code, $aircraft at $calt($aircraft)
+.rc Radar Contact $1
+
+;*** GROUND ***
+.taxi runway $1, altimeter $altim($dep), Taxi via $2 h/s $1.
+.icetaxi for de-ice, taxi via $1. Taxi on CDF your discretion monitor unicom on deice pads and advise de-icing complete, this frequency.
+.holdtaxi hold short of $1 on $2.
+.restaxi continue taxi via $1.
+.traffic traffic your $1 o'clock, type $2, report them in sight.
+.giveway give way to the $1 passing from your right $2 to $3 and continue taxi via $4.
+.g2t when holding short of $1, contact $radioname($2) on $freq($2).
+.g2u when holding short of $1, no further ATC available. Frequency changed approved. Monitor UNICOM on 122.8. Enjoy your flight.
+.iwel Welcome to $arr. Where would you like to park?.
+.itaxi taxi via $1 to $2
+.park where would you like to park?
+
+;*** INITIAL CONTACT ***
+.c1 .vis ysb
+.c2 .visrange 6
+.squawk $radioname $squawk
+.sqid $radioname, squawk ident.
+.sby roger, standby
+.wait standby, you are number $1.
+.rtc advise ready to copy.
+.noatc leaving my airspace to the $1, $2 Centre is not online, surveillance services terminated, frequency change is approved, have a good flight.
+.call contact $radioname($1) on $freq($1).
+.ss squawk standby please.
+.sc squawk mode C please.
+.vr are you able to recieve voice?
+.wx The $1 weather is $metar($1)
+.shutdown roger, copy your shutdown at $time. Thanks for flying Toronto FIR.
+.bye Thanks for flying Toronto FIR. Good $1.
+
+;*** TOWER ***
+.lu line up and wait, runway $1.
+.lui at $1, line up and wait, runway $2 for $reason.
+.to wind $wind($dep), cleared for takeoff runway $1.
+.toc contact $radioname($1) on $freq($1) when airborne, wind $wind($dep), cleared takeoff runway $2.
+.toi contact $radioname($1) on $freq($1) when airbone, wind $wind($dep), from $2 cleared takeoff runway $3.
+.tou monitor UNICOM on 122.8 when airborne, wind $wind($dep), cleared takeoff runway $1.
+.toui monitor UNICOM on 122.8 when airborne, wind $wind($dep), from $1 cleared takeoff runway $2.
+.prop turn $1 heading $2, contact $radioname($3) on $freq($3) when airborne, wind $wind($dep), cleared takeoff runway $2.
+.propi turn $1 heading $2, contact $radioname($3) on $freq($3) when airbone, wind $wind($dep), from $4 cleared takeoff runway $5.
+.propu turn $1 heading $2, monitor UNICOM on 122.8 when airborne, wind $wind($dep), cleared takeoff runway $3.
+.propiu turn $1 heading $2, monitor UNICOM on 122.8 when airborne when airbone, wind $wind($dep), from $3 cleared takeoff runway $4.
+.cont wind $wind($arr), number $1 runway $2, continue.
+.land wind $wind($arr), cleared to land runway $1.
+.land2 you are number $1 behind a $2, wind $wind($arr$), clear to land runway $3.
+.exitl Welcome to Toronto, exit left when able and report clear.
+.exitr Welcome to Toronto, exit right when able and report clear.
+.exits Welcome to Toronto, exit $1 onto taxiway $2 and report clear.
+.exitc Welcome to Toronto Exit $1 when able and contact Ground on $ when clear.
+.ga Pull up and go around. Climb 3000, maintain runway heading.

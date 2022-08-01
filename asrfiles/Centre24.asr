@@ -1,0 +1,287 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORTITLE:CZYZ.sct
+Airports:CYBN:symbol
+Airports:CYEL:symbol
+Airports:CYGK:symbol
+Airports:CYMO:symbol
+Airports:CYPQ:symbol
+Airports:CYQA:symbol
+Airports:CYSB:symbol
+Airports:CYSN:symbol
+Airports:CYTS:symbol
+Airports:CYVV:symbol
+Airports:CYXR:symbol
+Airports:CYXZ:symbol
+Airports:CYYB:symbol
+Airports:CYYU:symbol
+Airports:CYZE:symbol
+Airports:CYZR:symbol
+ARTCC boundary:Border with USA Low:
+ARTCC boundary:ER/CN:
+ARTCC boundary:Low Sectors:
+ARTCC boundary:SI/CN:
+ARTCC boundary:SI/ER:
+ARTCC boundary:SI/ER (23/24's):
+ARTCC boundary:ZULZYZ:
+ARTCC boundary:ZWGZYZ:
+ARTCC high boundary:ZBW Splits:
+ARTCC high boundary:ZOB Low Splits:
+ARTCC low boundary:Air Routes:
+ARTCC low boundary:High/Low TS/YB:
+ARTCC low boundary:Restricted Airspace:
+ARTCC low boundary:SI/ER:
+ARTCC low boundary:ZOB Splits:
+ARTCC low boundary:ZUL Low:
+ARTCC low boundary:ZUL Low Split:
+ARTCC low boundary:ZWG Low Split:
+Fixes:ADRIE:symbol
+Fixes:AGDUT:symbol
+Fixes:AGLIN:symbol
+Fixes:AGNEX:symbol
+Fixes:AHPAH:symbol
+Fixes:AIRCO:symbol
+Fixes:AIRRA:symbol
+Fixes:ALIDO:symbol
+Fixes:ANCOL:symbol
+Fixes:APDAX:symbol
+Fixes:AVSEP:symbol
+Fixes:AXOBU:symbol
+Fixes:AXXIS:symbol
+Fixes:BEMOG:symbol
+Fixes:BIGBE:symbol
+Fixes:BILII:symbol
+Fixes:BIMRO:symbol
+Fixes:BLUEZ:symbol
+Fixes:BMPAH:symbol
+Fixes:BOBSU:symbol
+Fixes:BOLMO:symbol
+Fixes:BOMET:symbol
+Fixes:BOSEP:symbol
+Fixes:BOXUM:symbol
+Fixes:BUDAG:symbol
+Fixes:BUGSY:symbol
+Fixes:CATOG:symbol
+Fixes:CYRIL:symbol
+Fixes:DAVSI:symbol
+Fixes:DEBUM:symbol
+Fixes:DEDKI:symbol
+Fixes:DERLO:symbol
+Fixes:DESKI:symbol
+Fixes:DUGBU:symbol
+Fixes:DUSOM:symbol
+Fixes:EBKIN:symbol
+Fixes:ELSUB:symbol
+Fixes:EPTOS:symbol
+Fixes:FINGL:symbol
+Fixes:FOXEE:symbol
+Fixes:GGUCE:symbol
+Fixes:GNTRY:symbol
+Fixes:GOTIP:symbol
+Fixes:GRIBY:symbol
+Fixes:HANKY:symbol
+Fixes:HAVOK:symbol
+Fixes:HOCKE:symbol
+Fixes:IGSUB:symbol
+Fixes:IKLEN:symbol
+Fixes:IKMOK:symbol
+Fixes:ILUSI:symbol
+Fixes:IMEBA:symbol
+Fixes:IMIXA:symbol
+Fixes:IPTOS:symbol
+Fixes:IRKIM:symbol
+Fixes:KANUR:symbol
+Fixes:KASED:symbol
+Fixes:KATNO:symbol
+Fixes:KATTY:symbol
+Fixes:KEBMA:symbol
+Fixes:KEMVI:symbol
+Fixes:KENDI:symbol
+Fixes:KENLU:symbol
+Fixes:LANRK:symbol
+Fixes:LEPOS:symbol
+Fixes:LETAK:symbol
+Fixes:LIDAG:symbol
+Fixes:LINNG:symbol
+Fixes:LOKPU:symbol
+Fixes:LORKA:symbol
+Fixes:MARGN:symbol
+Fixes:MENTI:symbol
+Fixes:MEPKA:symbol
+Fixes:MIGLO:symbol
+Fixes:MIVOK:symbol
+Fixes:MIXUT:symbol
+Fixes:MONEE:symbol
+Fixes:MUSIT:symbol
+Fixes:NADUM:symbol
+Fixes:NOPOT:symbol
+Fixes:NUBAM:symbol
+Fixes:NUBER:symbol
+Fixes:OAKVL:symbol
+Fixes:OLABA:symbol
+Fixes:OLAMO:symbol
+Fixes:OLIGO:symbol
+Fixes:ONDOB:symbol
+Fixes:OTNIK:symbol
+Fixes:OTONA:symbol
+Fixes:OVORA:symbol
+Fixes:OXASA:symbol
+Fixes:OXMAN:symbol
+Fixes:PICUP:symbol
+Fixes:POLTY:symbol
+Fixes:QWERI:symbol
+Fixes:RABAV:symbol
+Fixes:RAGID:symbol
+Fixes:RAKAM:symbol
+Fixes:RAKAP:symbol
+Fixes:REVUD:symbol
+Fixes:REZIN:symbol
+Fixes:RIKEM:symbol
+Fixes:SASOB:symbol
+Fixes:SEDOG:symbol
+Fixes:SILVU:symbol
+Fixes:SLLAP:symbol
+Fixes:SMARE:symbol
+Fixes:TAKOL:symbol
+Fixes:TALEB:symbol
+Fixes:TANGI:symbol
+Fixes:TESUK:symbol
+Fixes:THURO:symbol
+Fixes:TIGET:symbol
+Fixes:TONNY:symbol
+Fixes:TORNI:symbol
+Fixes:TUKIR:symbol
+Fixes:TULEG:symbol
+Fixes:TULEK:symbol
+Fixes:UDMUG:symbol
+Fixes:UKNIX:symbol
+Fixes:UKPAG:symbol
+Fixes:URSAL:symbol
+Fixes:URSSA:symbol
+Fixes:VERDO:symbol
+Fixes:VERTI:symbol
+Fixes:VILRO:symbol
+Fixes:VITOV:symbol
+Fixes:WOZEE:symbol
+Fixes:XEXUL:symbol
+Fixes:YZEMN:symbol
+Fixes:ZOHAN:symbol
+Low airways:B7:line
+Low airways:V13:line
+Low airways:V193:line
+Low airways:V300:line
+Low airways:V332:line
+Low airways:V348:line
+Low airways:V36:line
+Low airways:V365:line
+Low airways:V37:line
+Low airways:V45:line
+Low airways:V487:line
+Low airways:V8:line
+NDBs:YLD:symbol
+NDBs:YMW:symbol
+NDBs:YPQ:symbol
+NDBs:YTA:symbol
+NDBs:YTR:symbol
+NDBs:YUY:symbol
+NDBs:ZKF:symbol
+Runways:CYAM 04-22:centerline
+Runways:CYAM 12-30:centerline
+Runways:CYHM 06-24:centerline
+Runways:CYHM 12-30:centerline
+Runways:CYKF 08-26:centerline
+Runways:CYKF 14-32:centerline
+Runways:CYND 09-27:centerline
+Runways:CYOO 05-23:centerline
+Runways:CYOO 12-30:centerline
+Runways:CYOW 04-22:centerline
+Runways:CYOW 07-25:centerline
+Runways:CYOW 14-32:centerline
+Runways:CYRO 09-27:centerline
+Runways:CYRP 04-22:centerline
+Runways:CYRP 10-28:centerline
+Runways:CYTR 06-24:centerline
+Runways:CYXU 09-27:centerline
+Runways:CYXU 15-33:centerline
+Sids:CYOW (TCA) CLASS B & C:
+Stars:Airport Speciality:
+Stars:Airport Toronto (TCA):
+Stars:Control Zones (All):
+Stars:SIDs ANCOL/PERLO (transitions):
+Stars:SIDs AVSEP/NUGOP (transitions):
+Stars:SIDs BETES/OAKVL (transitions):
+Stars:SIDs BOMET (transitions):
+Stars:SIDs DEDKI (transitions):
+Stars:SIDs DUSOM/RIGUS (transitions):
+Stars:SIDs EBKIN/KISEP (transitions):
+Stars:SIDs GOPUP/TULEK (transitions):
+Stars:SIDs IKLEN/MATES (transitions):
+Stars:SIDs KEPTA/MAVAN (transitions):
+Stars:SIDs MIXUT/PEMBA (transitions):
+Stars:SIDs NOSIK/URSAL (transitions):
+Stars:SIDs SEDOG/LAKES (transitions):
+Stars:SIDs TEVAD (transitions):
+Stars:SIDs VERDO (transitions):
+Stars:STARs BOXUM/DUVOS Transitions:
+Stars:STARs CAPTL Transitions:
+Stars:STARs DEANS Transitions:
+Stars:STARs ILIXU Transitions:
+Stars:STARs IMEBA/VIBLI Transitions:
+Stars:STARs LEAMY Transitions:
+Stars:STARs LINNG/VERKO Transitions:
+Stars:STARs MEECH Transitions:
+Stars:STARs NUBER/NAKBO Transitions:
+Stars:STARs RAGID/UNDOX Transitions:
+Stars:STARs RIVER Transitions:
+Stars:Tango Airways:
+VORs:APN:symbol
+VORs:ART:symbol
+VORs:BUF:symbol
+VORs:CMX:symbol
+VORs:ECK:symbol
+VORs:ERI:symbol
+VORs:FNT:symbol
+VORs:GEE:symbol
+VORs:JHW:symbol
+VORs:MSS:symbol
+VORs:PLN:symbol
+VORs:PSB:symbol
+VORs:ROC:symbol
+VORs:SAW:symbol
+VORs:SSM:symbol
+VORs:SVM:symbol
+VORs:SYR:symbol
+VORs:UTR:symbol
+VORs:VIE:symbol
+VORs:YEE:symbol
+VORs:YGQ:symbol
+VORs:YMO:symbol
+VORs:YMS:symbol
+VORs:YOW:symbol
+VORs:YQT:symbol
+VORs:YSP:symbol
+VORs:YTS:symbol
+VORs:YUL:symbol
+VORs:YVO:symbol
+VORs:YVV:symbol
+VORs:YXU:symbol
+VORs:YXZ:symbol
+VORs:YYB:symbol
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:10.40000
+TAGFAMILY:CSiT
+WINDOWAREA:39.726193:-101.131923:55.872965:-59.060157
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:7
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

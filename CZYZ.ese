@@ -1,11 +1,11 @@
 ; CZYZ.ese
 
-; This is the CZYZ.ese file built for euroscope 3.1d and the canscope 1.2. plugin. This file is mostly
+; This is the CZYZ.ese file built for EuroScope and the CanScope plugin. This file is mostly
 ; responsible for airspace, sector ownership and how other controllers are displayed on your scope.
 ; This file only affects the way controllers appear to you, and does not affect the way others see you.
 
-; Modified on September 18th, 2012 by Stephen Yang
-; Modified on July 13th, 2013 by Devin Slauenwhite
+; Modified on September 18 2012 by Stephen Yang
+; Modified on July 13 2013 by Devin Slauenwhite
 ; Modified on May 13 2014 by Richard Dobbs
 ; Modified on June 13 2014 by Richard Dobbs
 ; Modified on November 8 2014 by Richard Dobbs and Brent Neil
@@ -14,15 +14,9 @@
 ; Modified on August 3 2019 by Tyson Phillips
 ; Modified on December 5 2019 by Tyson Phillips
 ; Modified on January 22 2020 by Tyson Phillips <airplane987@gmail.com> for AIRAC 2002
-; Modified 25-Mar-2020 for AIRAC 2004 by Tyson Phillips <airplane987@gmail.com>
-; Modified Apr-2021 for AIRAC 2104
-; Modified Jun-2021 for AIRAC 2106
-; Modified Aug-2021 for AIRAC 2108
-; Modified Oct-2021 for AIRAC 2110
-; Modified Dec-2021 for AIRAC 2112
-; Modified Jan-2022 for AIRAC 2201
-; Modified Mar-2022 for AIRAC 2203
-; Modified May-2022 for AIRAC 2205
+; Modified on March 25 2020 by Tyson Phillips <airplane987@gmail.com> for AIRAC 2004
+; Modified April, June, August, October, December, 2021 by Tyson Phillips and Tristan Mann for AIRAC 2104-2112
+; Modified January, March, May, July, 2022 by Tyson Phillips and Tristan Mann for AIRAC 2201-2207
 
 [RADAR]
 
@@ -2265,9 +2259,9 @@ STAR:CYCN:31:KEVMO愛NAV:KEVMO NOVOX EPVUP
 STAR:CYEE:16:AGDUX愛NAV:AGDUX UBTOS OBRIM
 STAR:CYEE:16:ADREG愛NAV:ADREG UBTOS OBRIM
 STAR:CYEE:16:UBTOS愛NAV:UBTOS OBRIM
-STAR:CYEE:34:DASUV愛NAV:DASUV EBGAX GADES MARED
-STAR:CYEE:34:BEPIR愛NAV:BEPIR EBGAX GADES MARED
-STAR:CYEE:34:EBGAX愛NAV:EBGAX GADES MARED
+STAR:CYEE:34:DASUV愛NAV:DASUV EBGAX GADES
+STAR:CYEE:34:BEPIR愛NAV:BEPIR EBGAX GADES
+STAR:CYEE:34:EBGAX愛NAV:EBGAX GADES
 
 ******
 *CYEM*
@@ -2408,9 +2402,6 @@ STAR:CYOS:18:BOMGA愛NAV:BOMGA TIFAM
 STAR:CYOS:36:KEKTI愛NAV:KEKTI DUDPA ELOGI
 STAR:CYOS:36:IKNUM愛NAV:IKNUM DUDPA ELOGI
 STAR:CYOS:36:DUDPA愛NAV:DUDPA ELOGI
-STAR:CYOS::YEE慎OR:YEE ELTIV IMEBU
-STAR:CYOS::MEDNA慎OR:MEDNA ELTIV IMEBU
-STAR:CYOS::TABLI慎OR:TABLI MEDNA ELTIV IMEBU
 
 ******
 *CYQA*

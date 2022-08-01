@@ -1,0 +1,274 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORTITLE:CZYZ.sct
+Airports:CYBN:symbol
+Airports:CYEL:symbol
+Airports:CYGK:symbol
+Airports:CYMO:symbol
+Airports:CYPQ:symbol
+Airports:CYQA:symbol
+Airports:CYSB:symbol
+Airports:CYSN:symbol
+Airports:CYTS:symbol
+Airports:CYVV:symbol
+Airports:CYXR:symbol
+Airports:CYXZ:symbol
+Airports:CYYB:symbol
+Airports:CYYU:symbol
+Airports:CYZE:symbol
+Airports:CYZR:symbol
+ARTCC boundary:Border with USA Low:
+ARTCC boundary:Control Zones:
+ARTCC boundary:ZULZYZ:
+ARTCC boundary:ZWGZYZ:
+ARTCC low boundary:Restricted Airspace:
+Free Text:SCT2\/\:freetext
+Free Text:SCT2\/\:freetext
+Free Text:SCT2\/\:freetext
+Free Text:SCT2\/\:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Geo:Shoreline:
+Geo:Toronto Highways:
+Geo:Toronto Shoreline:
+NDBs:CI:symbol
+Runways:CNC3 08-26:centerline
+Runways:CNC3 15-33:centerline
+Runways:CPF2 11-29:centerline
+Runways:CPF2 18-36:centerline
+Runways:CYAM 04-22:centerline
+Runways:CYAM 12-30:centerline
+Runways:CYHM 06-24:centerline
+Runways:CYHM 12-30:centerline
+Runways:CYKF 08-26:centerline
+Runways:CYKF 14-32:centerline
+Runways:CYKZ 03-21:centerline
+Runways:CYKZ 15-33:centerline
+Runways:CYND 09-27:centerline
+Runways:CYOO 05-23:centerline
+Runways:CYOO 12-30:centerline
+Runways:CYOW 04-22:centerline
+Runways:CYOW 07-25:centerline
+Runways:CYOW 14-32:centerline
+Runways:CYQG 07-25:centerline
+Runways:CYQG 12-30:centerline
+Runways:CYRO 09-27:centerline
+Runways:CYRP 04-22:centerline
+Runways:CYRP 10-28:centerline
+Runways:CYTR 06-24:centerline
+Runways:CYTZ 06-24:centerline
+Runways:CYTZ 08-26:centerline
+Runways:CYXU 09-27:centerline
+Runways:CYXU 15-33:centerline
+Runways:CYYZ 05-23:centerline
+Runways:CYYZ 06L-24R:centerline
+Runways:CYYZ 06R-24L:centerline
+Runways:CYYZ 15L-33R:centerline
+Runways:CYYZ 15R-33L:centerline
+Runways:CYZD 15-33:centerline
+Runways:CZBA 09-27:centerline
+Runways:CZBA 14-32:centerline
+Runways:KANJ 14-32:centerline
+Runways:KCIU 10-28:centerline
+Runways:KCIU 16-34:centerline
+Sids:CN TOWER (1 NM):
+Sids:CYOW (TCA) CLASS B & C:
+Sids:Range Rings YAM:
+Stars:Airport Speciality:
+Stars:Control Zones (All):
+Stars:Control Zones (CYQG):
+Stars:Control Zones (KCIU):
+Stars:Control Zones (Toronto):
+VORs:SSM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:10.40000
+TAGFAMILY:CSiT
+WINDOWAREA:46.193212:-85.293533:46.794141:-83.727763
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:7
+PLUGIN:VATCANSitu:DisplayTypeName:IFR
