@@ -1,0 +1,754 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORTITLE:CZYZ.sct
+Free Text:Apron Taxilanes - CYYZ\1:freetext
+Free Text:Apron Taxilanes - CYYZ\10:freetext
+Free Text:Apron Taxilanes - CYYZ\11E:freetext
+Free Text:Apron Taxilanes - CYYZ\13E:freetext
+Free Text:Apron Taxilanes - CYYZ\2:freetext
+Free Text:Apron Taxilanes - CYYZ\3:freetext
+Free Text:Apron Taxilanes - CYYZ\4:freetext
+Free Text:Apron Taxilanes - CYYZ\5:freetext
+Free Text:Apron Taxilanes - CYYZ\6:freetext
+Free Text:Apron Taxilanes - CYYZ\7:freetext
+Free Text:Apron Taxilanes - CYYZ\8:freetext
+Free Text:Apron Taxilanes - CYYZ\9:freetext
+Free Text:Gates - CYHM\1:freetext
+Free Text:Gates - CYHM\10:freetext
+Free Text:Gates - CYHM\11:freetext
+Free Text:Gates - CYHM\12:freetext
+Free Text:Gates - CYHM\13:freetext
+Free Text:Gates - CYHM\14:freetext
+Free Text:Gates - CYHM\15:freetext
+Free Text:Gates - CYHM\2:freetext
+Free Text:Gates - CYHM\3:freetext
+Free Text:Gates - CYHM\4:freetext
+Free Text:Gates - CYHM\5:freetext
+Free Text:Gates - CYHM\6:freetext
+Free Text:Gates - CYHM\7:freetext
+Free Text:Gates - CYHM\8:freetext
+Free Text:Gates - CYHM\9:freetext
+Free Text:Gates - CYKF\1:freetext
+Free Text:Gates - CYKF\2:freetext
+Free Text:Gates - CYKF\3:freetext
+Free Text:Gates - CYKF\4:freetext
+Free Text:Gates - CYKF\5:freetext
+Free Text:Gates - CYKF\6:freetext
+Free Text:Gates - CYKF\7:freetext
+Free Text:Gates - CYOW\1:freetext
+Free Text:Gates - CYOW\11:freetext
+Free Text:Gates - CYOW\12:freetext
+Free Text:Gates - CYOW\13:freetext
+Free Text:Gates - CYOW\14:freetext
+Free Text:Gates - CYOW\15:freetext
+Free Text:Gates - CYOW\16:freetext
+Free Text:Gates - CYOW\17:freetext
+Free Text:Gates - CYOW\18:freetext
+Free Text:Gates - CYOW\19:freetext
+Free Text:Gates - CYOW\2:freetext
+Free Text:Gates - CYOW\20:freetext
+Free Text:Gates - CYOW\21:freetext
+Free Text:Gates - CYOW\22:freetext
+Free Text:Gates - CYOW\23:freetext
+Free Text:Gates - CYOW\24:freetext
+Free Text:Gates - CYOW\25:freetext
+Free Text:Gates - CYOW\26:freetext
+Free Text:Gates - CYOW\27:freetext
+Free Text:Gates - CYOW\28:freetext
+Free Text:Gates - CYOW\29:freetext
+Free Text:Gates - CYOW\3:freetext
+Free Text:Gates - CYOW\30:freetext
+Free Text:Gates - CYOW\4:freetext
+Free Text:Gates - CYOW\40:freetext
+Free Text:Gates - CYOW\41:freetext
+Free Text:Gates - CYOW\42:freetext
+Free Text:Gates - CYOW\43:freetext
+Free Text:Gates - CYOW\5:freetext
+Free Text:Gates - CYOW\50:freetext
+Free Text:Gates - CYOW\50A:freetext
+Free Text:Gates - CYOW\50B:freetext
+Free Text:Gates - CYOW\51:freetext
+Free Text:Gates - CYOW\52:freetext
+Free Text:Gates - CYOW\53:freetext
+Free Text:Gates - CYOW\54:freetext
+Free Text:Gates - CYOW\55:freetext
+Free Text:Gates - CYOW\56:freetext
+Free Text:Gates - CYOW\6:freetext
+Free Text:Gates - CYOW\60:freetext
+Free Text:Gates - CYOW\61:freetext
+Free Text:Gates - CYOW\62:freetext
+Free Text:Gates - CYOW\63:freetext
+Free Text:Gates - CYOW\64:freetext
+Free Text:Gates - CYOW\65:freetext
+Free Text:Gates - CYOW\66:freetext
+Free Text:Gates - CYQG\1:freetext
+Free Text:Gates - CYQG\2:freetext
+Free Text:Gates - CYQG\3:freetext
+Free Text:Gates - CYQG\4:freetext
+Free Text:Gates - CYTZ\1:freetext
+Free Text:Gates - CYTZ\10:freetext
+Free Text:Gates - CYTZ\11:freetext
+Free Text:Gates - CYTZ\2:freetext
+Free Text:Gates - CYTZ\3:freetext
+Free Text:Gates - CYTZ\4:freetext
+Free Text:Gates - CYTZ\5:freetext
+Free Text:Gates - CYTZ\6:freetext
+Free Text:Gates - CYTZ\7:freetext
+Free Text:Gates - CYTZ\8:freetext
+Free Text:Gates - CYTZ\9:freetext
+Free Text:Gates - CYXU\1:freetext
+Free Text:Gates - CYXU\2:freetext
+Free Text:Gates - CYXU\3:freetext
+Free Text:Gates - CYXU\4:freetext
+Free Text:Gates - CYXU\4A:freetext
+Free Text:Gates - CYXU\5:freetext
+Free Text:Gates - CYXU\6:freetext
+Free Text:Gates - CYXU\7:freetext
+Free Text:Gates - CYXU\8:freetext
+Free Text:Gates - CYYZ\101:freetext
+Free Text:Gates - CYYZ\101A:freetext
+Free Text:Gates - CYYZ\103:freetext
+Free Text:Gates - CYYZ\105:freetext
+Free Text:Gates - CYYZ\107:freetext
+Free Text:Gates - CYYZ\109:freetext
+Free Text:Gates - CYYZ\110:freetext
+Free Text:Gates - CYYZ\111:freetext
+Free Text:Gates - CYYZ\112:freetext
+Free Text:Gates - CYYZ\120:freetext
+Free Text:Gates - CYYZ\122:freetext
+Free Text:Gates - CYYZ\124:freetext
+Free Text:Gates - CYYZ\126:freetext
+Free Text:Gates - CYYZ\128:freetext
+Free Text:Gates - CYYZ\131:freetext
+Free Text:Gates - CYYZ\132:freetext
+Free Text:Gates - CYYZ\133:freetext
+Free Text:Gates - CYYZ\134:freetext
+Free Text:Gates - CYYZ\135:freetext
+Free Text:Gates - CYYZ\136:freetext
+Free Text:Gates - CYYZ\137:freetext
+Free Text:Gates - CYYZ\138:freetext
+Free Text:Gates - CYYZ\139:freetext
+Free Text:Gates - CYYZ\140:freetext
+Free Text:Gates - CYYZ\141:freetext
+Free Text:Gates - CYYZ\142:freetext
+Free Text:Gates - CYYZ\143:freetext
+Free Text:Gates - CYYZ\144:freetext
+Free Text:Gates - CYYZ\145:freetext
+Free Text:Gates - CYYZ\151:freetext
+Free Text:Gates - CYYZ\153:freetext
+Free Text:Gates - CYYZ\155:freetext
+Free Text:Gates - CYYZ\157:freetext
+Free Text:Gates - CYYZ\160:freetext
+Free Text:Gates - CYYZ\161:freetext
+Free Text:Gates - CYYZ\162:freetext
+Free Text:Gates - CYYZ\163:freetext
+Free Text:Gates - CYYZ\164A:freetext
+Free Text:Gates - CYYZ\164B:freetext
+Free Text:Gates - CYYZ\165:freetext
+Free Text:Gates - CYYZ\166A:freetext
+Free Text:Gates - CYYZ\166B:freetext
+Free Text:Gates - CYYZ\167:freetext
+Free Text:Gates - CYYZ\168:freetext
+Free Text:Gates - CYYZ\169:freetext
+Free Text:Gates - CYYZ\170:freetext
+Free Text:Gates - CYYZ\171:freetext
+Free Text:Gates - CYYZ\172:freetext
+Free Text:Gates - CYYZ\173*:freetext
+Free Text:Gates - CYYZ\174:freetext
+Free Text:Gates - CYYZ\175*:freetext
+Free Text:Gates - CYYZ\176:freetext
+Free Text:Gates - CYYZ\177:freetext
+Free Text:Gates - CYYZ\178:freetext
+Free Text:Gates - CYYZ\179:freetext
+Free Text:Gates - CYYZ\180:freetext
+Free Text:Gates - CYYZ\181:freetext
+Free Text:Gates - CYYZ\191:freetext
+Free Text:Gates - CYYZ\193:freetext
+Free Text:Gates - CYYZ\245A:freetext
+Free Text:Gates - CYYZ\245B:freetext
+Free Text:Gates - CYYZ\245C:freetext
+Free Text:Gates - CYYZ\246:freetext
+Free Text:Gates - CYYZ\247:freetext
+Free Text:Gates - CYYZ\248:freetext
+Free Text:Gates - CYYZ\249:freetext
+Free Text:Gates - CYYZ\250:freetext
+Free Text:Gates - CYYZ\251:freetext
+Free Text:Gates - CYYZ\252:freetext
+Free Text:Gates - CYYZ\253:freetext
+Free Text:Gates - CYYZ\254:freetext
+Free Text:Gates - CYYZ\255:freetext
+Free Text:Gates - CYYZ\256:freetext
+Free Text:Gates - CYYZ\500:freetext
+Free Text:Gates - CYYZ\501:freetext
+Free Text:Gates - CYYZ\502:freetext
+Free Text:Gates - CYYZ\503:freetext
+Free Text:Gates - CYYZ\504:freetext
+Free Text:Gates - CYYZ\505:freetext
+Free Text:Gates - CYYZ\506:freetext
+Free Text:Gates - CYYZ\507:freetext
+Free Text:Gates - CYYZ\508:freetext
+Free Text:Gates - CYYZ\509:freetext
+Free Text:Gates - CYYZ\510:freetext
+Free Text:Gates - CYYZ\512:freetext
+Free Text:Gates - CYYZ\521:freetext
+Free Text:Gates - CYYZ\522:freetext
+Free Text:Gates - CYYZ\523:freetext
+Free Text:Gates - CYYZ\524:freetext
+Free Text:Gates - CYYZ\525:freetext
+Free Text:Gates - CYYZ\526:freetext
+Free Text:Gates - CYYZ\527:freetext
+Free Text:Gates - CYYZ\528:freetext
+Free Text:Gates - CYYZ\529:freetext
+Free Text:Gates - CYYZ\530:freetext
+Free Text:Gates - CYYZ\531:freetext
+Free Text:Gates - CYYZ\541:freetext
+Free Text:Gates - CYYZ\542:freetext
+Free Text:Gates - CYYZ\543:freetext
+Free Text:Gates - CYYZ\544:freetext
+Free Text:Gates - CYYZ\545:freetext
+Free Text:Gates - CYYZ\547:freetext
+Free Text:Gates - CYYZ\601:freetext
+Free Text:Gates - CYYZ\602:freetext
+Free Text:Gates - CYYZ\603:freetext
+Free Text:Gates - CYYZ\604:freetext
+Free Text:Gates - CYYZ\605:freetext
+Free Text:Gates - CYYZ\606:freetext
+Free Text:Gates - CYYZ\607:freetext
+Free Text:Gates - CYYZ\609:freetext
+Free Text:Gates - CYYZ\A1A:freetext
+Free Text:Gates - CYYZ\A1B:freetext
+Free Text:Gates - CYYZ\A1C:freetext
+Free Text:Gates - CYYZ\A1D:freetext
+Free Text:Gates - CYYZ\A2:freetext
+Free Text:Gates - CYYZ\A3:freetext
+Free Text:Gates - CYYZ\A4:freetext
+Free Text:Gates - CYYZ\A5:freetext
+Free Text:Gates - CYYZ\A6:freetext
+Free Text:Gates - CYYZ\B10A:freetext
+Free Text:Gates - CYYZ\B10B:freetext
+Free Text:Gates - CYYZ\B11:freetext
+Free Text:Gates - CYYZ\B12:freetext
+Free Text:Gates - CYYZ\B13:freetext
+Free Text:Gates - CYYZ\B14:freetext
+Free Text:Gates - CYYZ\B15:freetext
+Free Text:Gates - CYYZ\B16:freetext
+Free Text:Gates - CYYZ\B17:freetext
+Free Text:Gates - CYYZ\B18:freetext
+Free Text:Gates - CYYZ\B19:freetext
+Free Text:Gates - CYYZ\B20:freetext
+Free Text:Gates - CYYZ\B22:freetext
+Free Text:Gates - CYYZ\B7D:freetext
+Free Text:Gates - CYYZ\B7E:freetext
+Free Text:Gates - CYYZ\B7F:freetext
+Free Text:Gates - CYYZ\B8:freetext
+Free Text:Gates - CYYZ\B9:freetext
+Free Text:Gates - CYYZ\C24:freetext
+Free Text:Gates - CYYZ\C25:freetext
+Free Text:Gates - CYYZ\C26:freetext
+Free Text:Gates - CYYZ\C27:freetext
+Free Text:Gates - CYYZ\C28:freetext
+Free Text:Gates - CYYZ\C29:freetext
+Free Text:Gates - CYYZ\C30:freetext
+Free Text:Gates - CYYZ\C31:freetext
+Free Text:Gates - CYYZ\C32:freetext
+Free Text:Gates - CYYZ\C33:freetext
+Free Text:Gates - CYYZ\C34:freetext
+Free Text:Gates - CYYZ\C35:freetext
+Free Text:Gates - CYYZ\C36:freetext
+Free Text:Gates - CYYZ\C37:freetext
+Free Text:Gates - CYYZ\C38:freetext
+Free Text:Gates - CYYZ\C39:freetext
+Free Text:Gates - CYYZ\C40:freetext
+Free Text:Gates - CYYZ\C41:freetext
+Free Text:Gates - CYYZ\H1:freetext
+Free Text:Gates - CYYZ\H10:freetext
+Free Text:Gates - CYYZ\H11:freetext
+Free Text:Gates - CYYZ\H12:freetext
+Free Text:Gates - CYYZ\H13:freetext
+Free Text:Gates - CYYZ\H14:freetext
+Free Text:Gates - CYYZ\H15:freetext
+Free Text:Gates - CYYZ\H16:freetext
+Free Text:Gates - CYYZ\H17:freetext
+Free Text:Gates - CYYZ\H2:freetext
+Free Text:Gates - CYYZ\H3:freetext
+Free Text:Gates - CYYZ\H4:freetext
+Free Text:Gates - CYYZ\H5:freetext
+Free Text:Gates - CYYZ\H6:freetext
+Free Text:Gates - CYYZ\H7:freetext
+Free Text:Gates - CYYZ\H8:freetext
+Free Text:Gates - CYYZ\H9:freetext
+Free Text:Labels - CYAM\Humphrey:freetext
+Free Text:Labels - CYAM\JD Aero/Eagle Feather:freetext
+Free Text:Labels - CYAM\Sault College:freetext
+Free Text:Labels - CYAM\Terminal:freetext
+Free Text:Labels - CYAM\Tower:freetext
+Free Text:Labels - CYHM\Apron 1:freetext
+Free Text:Labels - CYHM\Apron 2:freetext
+Free Text:Labels - CYHM\Apron 3:freetext
+Free Text:Labels - CYHM\Cargojet:freetext
+Free Text:Labels - CYHM\CJT:freetext
+Free Text:Labels - CYHM\DHL:freetext
+Free Text:Labels - CYHM\Glanford:freetext
+Free Text:Labels - CYHM\Jetport:freetext
+Free Text:Labels - CYHM\KF Aero:freetext
+Free Text:Labels - CYHM\Latitude:freetext
+Free Text:Labels - CYHM\Museum:freetext
+Free Text:Labels - CYHM\Purolator:freetext
+Free Text:Labels - CYHM\TC:freetext
+Free Text:Labels - CYHM\Terminal:freetext
+Free Text:Labels - CYHM\Tower:freetext
+Free Text:Labels - CYHM\UPS:freetext
+Free Text:Labels - CYKF\Apron 1:freetext
+Free Text:Labels - CYKF\Apron 2A:freetext
+Free Text:Labels - CYKF\Apron 2B:freetext
+Free Text:Labels - CYKF\Apron 3A:freetext
+Free Text:Labels - CYKF\Apron 3B:freetext
+Free Text:Labels - CYKF\Apron 4:freetext
+Free Text:Labels - CYKF\Apron 5:freetext
+Free Text:Labels - CYKF\Apron 7:freetext
+Free Text:Labels - CYKF\Chartright:freetext
+Free Text:Labels - CYKF\Flight Centre:freetext
+Free Text:Labels - CYKF\Flite Line:freetext
+Free Text:Labels - CYKF\Terminal:freetext
+Free Text:Labels - CYKF\Tower:freetext
+Free Text:Labels - CYKF\YKF Ops/Firehall:freetext
+Free Text:Labels - CYOO\1/Grass Apron:freetext
+Free Text:Labels - CYOO\1/North Apron:freetext
+Free Text:Labels - CYOO\2/Tie-Downs:freetext
+Free Text:Labels - CYOO\3/CFA:freetext
+Free Text:Labels - CYOO\4/Enterprise:freetext
+Free Text:Labels - CYOO\5/Optech:freetext
+Free Text:Labels - CYOO\6/Aviation Unltd.:freetext
+Free Text:Labels - CYOO\7/Ryan:freetext
+Free Text:Labels - CYOO\Corporate:freetext
+Free Text:Labels - CYOO\DME:freetext
+Free Text:Labels - CYOO\E Service Rd.:freetext
+Free Text:Labels - CYOO\Farm:freetext
+Free Text:Labels - CYOO\FEC:freetext
+Free Text:Labels - CYOO\NDB:freetext
+Free Text:Labels - CYOO\S Service Rd.:freetext
+Free Text:Labels - CYOO\The Tee's:freetext
+Free Text:Labels - CYOO\Tower:freetext
+Free Text:Labels - CYOW\Apron 1:freetext
+Free Text:Labels - CYOW\Apron 2:freetext
+Free Text:Labels - CYOW\Cargo:freetext
+Free Text:Labels - CYOW\CDF:freetext
+Free Text:Labels - CYOW\CJT:freetext
+Free Text:Labels - CYOW\Customs:freetext
+Free Text:Labels - CYOW\East:freetext
+Free Text:Labels - CYOW\East:freetext
+Free Text:Labels - CYOW\East:freetext
+Free Text:Labels - CYOW\FDX:freetext
+Free Text:Labels - CYOW\General Aviation:freetext
+Free Text:Labels - CYOW\Innotech:freetext
+Free Text:Labels - CYOW\MPE:freetext
+Free Text:Labels - CYOW\Skyservice:freetext
+Free Text:Labels - CYOW\Terminal:freetext
+Free Text:Labels - CYOW\Tower:freetext
+Free Text:Labels - CYOW\West:freetext
+Free Text:Labels - CYOW\West:freetext
+Free Text:Labels - CYOW\West:freetext
+Free Text:Labels - CYOW\WJA:freetext
+Free Text:Labels - CYQG\AAR Aircraft Services:freetext
+Free Text:Labels - CYQG\Aircraft Association:freetext
+Free Text:Labels - CYQG\Flight Centre:freetext
+Free Text:Labels - CYQG\Flying Club:freetext
+Free Text:Labels - CYQG\Terminal/Tower:freetext
+Free Text:Labels - CYTR\CDF:freetext
+Free Text:Labels - CYTR\East Apron:freetext
+Free Text:Labels - CYTR\Helipads:freetext
+Free Text:Labels - CYTR\North Apron:freetext
+Free Text:Labels - CYTR\Tower:freetext
+Free Text:Labels - CYTR\West Apron:freetext
+Free Text:Labels - CYTZ\GRE:freetext
+Free Text:Labels - CYTZ\Hangars 1-2:freetext
+Free Text:Labels - CYTZ\Hangars 3-4:freetext
+Free Text:Labels - CYTZ\Hangars 5-6:freetext
+Free Text:Labels - CYTZ\Helitours:freetext
+Free Text:Labels - CYTZ\Island Air:freetext
+Free Text:Labels - CYTZ\Ornge:freetext
+Free Text:Labels - CYTZ\Porter:freetext
+Free Text:Labels - CYTZ\Run-Up Bay:freetext
+Free Text:Labels - CYTZ\Stolport:freetext
+Free Text:Labels - CYTZ\Terminal:freetext
+Free Text:Labels - CYTZ\Tower:freetext
+Free Text:Labels - CYXU\Apron 1:freetext
+Free Text:Labels - CYXU\Apron 2:freetext
+Free Text:Labels - CYXU\Apron 3:freetext
+Free Text:Labels - CYXU\Diamond:freetext
+Free Text:Labels - CYXU\Exec Aviation:freetext
+Free Text:Labels - CYXU\Fanshawe:freetext
+Free Text:Labels - CYXU\Flight Centre:freetext
+Free Text:Labels - CYXU\Flight Exec:freetext
+Free Text:Labels - CYXU\Flite Line:freetext
+Free Text:Labels - CYXU\Terminal:freetext
+Free Text:Labels - CYXU\Tower:freetext
+Free Text:Taxiways - CYAM\B:freetext
+Free Text:Taxiways - CYAM\B:freetext
+Free Text:Taxiways - CYAM\B:freetext
+Free Text:Taxiways - CYAM\C:freetext
+Free Text:Taxiways - CYAM\C:freetext
+Free Text:Taxiways - CYAM\E:freetext
+Free Text:Taxiways - CYAM\F:freetext
+Free Text:Taxiways - CYAM\F:freetext
+Free Text:Taxiways - CYAM\F:freetext
+Free Text:Taxiways - CYAM\G:freetext
+Free Text:Taxiways - CYAM\G:freetext
+Free Text:Taxiways - CYAM\J:freetext
+Free Text:Taxiways - CYGK\A:freetext
+Free Text:Taxiways - CYGK\B:freetext
+Free Text:Taxiways - CYGK\B:freetext
+Free Text:Taxiways - CYGK\B:freetext
+Free Text:Taxiways - CYHM\A:freetext
+Free Text:Taxiways - CYHM\B:freetext
+Free Text:Taxiways - CYHM\C:freetext
+Free Text:Taxiways - CYHM\C:freetext
+Free Text:Taxiways - CYHM\D:freetext
+Free Text:Taxiways - CYHM\D:freetext
+Free Text:Taxiways - CYHM\G:freetext
+Free Text:Taxiways - CYHM\G:freetext
+Free Text:Taxiways - CYHM\J:freetext
+Free Text:Taxiways - CYHM\J:freetext
+Free Text:Taxiways - CYHM\L:freetext
+Free Text:Taxiways - CYHM\W:freetext
+Free Text:Taxiways - CYHM\W:freetext
+Free Text:Taxiways - CYKF\A:freetext
+Free Text:Taxiways - CYKF\A:freetext
+Free Text:Taxiways - CYKF\A:freetext
+Free Text:Taxiways - CYKF\A:freetext
+Free Text:Taxiways - CYKF\A:freetext
+Free Text:Taxiways - CYKF\B:freetext
+Free Text:Taxiways - CYKF\B:freetext
+Free Text:Taxiways - CYKF\BA:freetext
+Free Text:Taxiways - CYKF\BB:freetext
+Free Text:Taxiways - CYKF\C:freetext
+Free Text:Taxiways - CYKF\C:freetext
+Free Text:Taxiways - CYKF\C:freetext
+Free Text:Taxiways - CYKF\E:freetext
+Free Text:Taxiways - CYKF\F:freetext
+Free Text:Taxiways - CYMO\1:freetext
+Free Text:Taxiways - CYMO\2:freetext
+Free Text:Taxiways - CYMO\A:freetext
+Free Text:Taxiways - CYMO\A:freetext
+Free Text:Taxiways - CYMO\B:freetext
+Free Text:Taxiways - CYMO\B:freetext
+Free Text:Taxiways - CYMO\C:freetext
+Free Text:Taxiways - CYMO\C:freetext
+Free Text:Taxiways - CYMO\D:freetext
+Free Text:Taxiways - CYOO\A:freetext
+Free Text:Taxiways - CYOO\B:freetext
+Free Text:Taxiways - CYOO\B:freetext
+Free Text:Taxiways - CYOO\B:freetext
+Free Text:Taxiways - CYOO\C:freetext
+Free Text:Taxiways - CYOO\C:freetext
+Free Text:Taxiways - CYOO\C:freetext
+Free Text:Taxiways - CYOO\D:freetext
+Free Text:Taxiways - CYOO\T1:freetext
+Free Text:Taxiways - CYOO\T2:freetext
+Free Text:Taxiways - CYOW\A:freetext
+Free Text:Taxiways - CYOW\A:freetext
+Free Text:Taxiways - CYOW\A:freetext
+Free Text:Taxiways - CYOW\AA:freetext
+Free Text:Taxiways - CYOW\B:freetext
+Free Text:Taxiways - CYOW\B:freetext
+Free Text:Taxiways - CYOW\B:freetext
+Free Text:Taxiways - CYOW\BB:freetext
+Free Text:Taxiways - CYOW\C:freetext
+Free Text:Taxiways - CYOW\C:freetext
+Free Text:Taxiways - CYOW\CC:freetext
+Free Text:Taxiways - CYOW\D:freetext
+Free Text:Taxiways - CYOW\E:freetext
+Free Text:Taxiways - CYOW\E:freetext
+Free Text:Taxiways - CYOW\E:freetext
+Free Text:Taxiways - CYOW\F:freetext
+Free Text:Taxiways - CYOW\G:freetext
+Free Text:Taxiways - CYOW\G:freetext
+Free Text:Taxiways - CYOW\G:freetext
+Free Text:Taxiways - CYOW\J:freetext
+Free Text:Taxiways - CYOW\K:freetext
+Free Text:Taxiways - CYOW\L:freetext
+Free Text:Taxiways - CYOW\M:freetext
+Free Text:Taxiways - CYOW\M:freetext
+Free Text:Taxiways - CYOW\P:freetext
+Free Text:Taxiways - CYOW\P:freetext
+Free Text:Taxiways - CYOW\Q:freetext
+Free Text:Taxiways - CYOW\T:freetext
+Free Text:Taxiways - CYQG\A:freetext
+Free Text:Taxiways - CYQG\C:freetext
+Free Text:Taxiways - CYQG\D:freetext
+Free Text:Taxiways - CYQG\E:freetext
+Free Text:Taxiways - CYQG\F:freetext
+Free Text:Taxiways - CYQG\F:freetext
+Free Text:Taxiways - CYQG\F:freetext
+Free Text:Taxiways - CYQG\G:freetext
+Free Text:Taxiways - CYQG\G:freetext
+Free Text:Taxiways - CYQG\H:freetext
+Free Text:Taxiways - CYQG\H:freetext
+Free Text:Taxiways - CYQG\H:freetext
+Free Text:Taxiways - CYQG\I:freetext
+Free Text:Taxiways - CYSB\1:freetext
+Free Text:Taxiways - CYSB\2:freetext
+Free Text:Taxiways - CYSB\3:freetext
+Free Text:Taxiways - CYSB\A:freetext
+Free Text:Taxiways - CYSB\B:freetext
+Free Text:Taxiways - CYSB\B:freetext
+Free Text:Taxiways - CYSB\C:freetext
+Free Text:Taxiways - CYSB\D:freetext
+Free Text:Taxiways - CYSN\A:freetext
+Free Text:Taxiways - CYSN\B:freetext
+Free Text:Taxiways - CYSN\C:freetext
+Free Text:Taxiways - CYSN\D:freetext
+Free Text:Taxiways - CYTR\A:freetext
+Free Text:Taxiways - CYTR\A:freetext
+Free Text:Taxiways - CYTR\B:freetext
+Free Text:Taxiways - CYTR\C:freetext
+Free Text:Taxiways - CYTR\C:freetext
+Free Text:Taxiways - CYTR\F:freetext
+Free Text:Taxiways - CYTR\G:freetext
+Free Text:Taxiways - CYTR\H:freetext
+Free Text:Taxiways - CYTR\J:freetext
+Free Text:Taxiways - CYTR\J:freetext
+Free Text:Taxiways - CYTR\J:freetext
+Free Text:Taxiways - CYTR\L:freetext
+Free Text:Taxiways - CYTR\L:freetext
+Free Text:Taxiways - CYTR\M:freetext
+Free Text:Taxiways - CYTR\M:freetext
+Free Text:Taxiways - CYTR\N:freetext
+Free Text:Taxiways - CYTR\P:freetext
+Free Text:Taxiways - CYTR\P:freetext
+Free Text:Taxiways - CYTR\P:freetext
+Free Text:Taxiways - CYTR\P:freetext
+Free Text:Taxiways - CYTR\P:freetext
+Free Text:Taxiways - CYTR\Q:freetext
+Free Text:Taxiways - CYTS\A:freetext
+Free Text:Taxiways - CYTS\B:freetext
+Free Text:Taxiways - CYTS\C:freetext
+Free Text:Taxiways - CYTZ\A:freetext
+Free Text:Taxiways - CYTZ\A:freetext
+Free Text:Taxiways - CYTZ\A:freetext
+Free Text:Taxiways - CYTZ\B:freetext
+Free Text:Taxiways - CYTZ\C:freetext
+Free Text:Taxiways - CYTZ\C:freetext
+Free Text:Taxiways - CYTZ\D:freetext
+Free Text:Taxiways - CYTZ\E:freetext
+Free Text:Taxiways - CYTZ\E:freetext
+Free Text:Taxiways - CYTZ\E:freetext
+Free Text:Taxiways - CYTZ\F:freetext
+Free Text:Taxiways - CYXU\A:freetext
+Free Text:Taxiways - CYXU\A:freetext
+Free Text:Taxiways - CYXU\A:freetext
+Free Text:Taxiways - CYXU\A:freetext
+Free Text:Taxiways - CYXU\B:freetext
+Free Text:Taxiways - CYXU\C:freetext
+Free Text:Taxiways - CYXU\D:freetext
+Free Text:Taxiways - CYXU\E:freetext
+Free Text:Taxiways - CYXU\F:freetext
+Free Text:Taxiways - CYXU\F:freetext
+Free Text:Taxiways - CYXU\G:freetext
+Free Text:Taxiways - CYXU\G:freetext
+Free Text:Taxiways - CYXU\G:freetext
+Free Text:Taxiways - CYXU\G:freetext
+Free Text:Taxiways - CYXU\G:freetext
+Free Text:Taxiways - CYXU\H:freetext
+Free Text:Taxiways - CYYB\1:freetext
+Free Text:Taxiways - CYYB\2:freetext
+Free Text:Taxiways - CYYB\3:freetext
+Free Text:Taxiways - CYYB\4:freetext
+Free Text:Taxiways - CYYB\5:freetext
+Free Text:Taxiways - CYYB\E:freetext
+Free Text:Taxiways - CYYB\F:freetext
+Free Text:Taxiways - CYYB\G:freetext
+Free Text:Taxiways - CYYB\H:freetext
+Free Text:Taxiways - CYYB\H:freetext
+Free Text:Taxiways - CYYB\J:freetext
+Free Text:Taxiways - CYYB\L:freetext
+Free Text:Taxiways - CYYB\L:freetext
+Free Text:Taxiways - CYYB\L:freetext
+Free Text:Taxiways - CYYZ\A:freetext
+Free Text:Taxiways - CYYZ\A:freetext
+Free Text:Taxiways - CYYZ\A:freetext
+Free Text:Taxiways - CYYZ\A:freetext
+Free Text:Taxiways - CYYZ\AD:freetext
+Free Text:Taxiways - CYYZ\AE:freetext
+Free Text:Taxiways - CYYZ\AF:freetext
+Free Text:Taxiways - CYYZ\AG:freetext
+Free Text:Taxiways - CYYZ\AJ:freetext
+Free Text:Taxiways - CYYZ\AK:freetext
+Free Text:Taxiways - CYYZ\AL:freetext
+Free Text:Taxiways - CYYZ\AM:freetext
+Free Text:Taxiways - CYYZ\AT:freetext
+Free Text:Taxiways - CYYZ\B:freetext
+Free Text:Taxiways - CYYZ\B:freetext
+Free Text:Taxiways - CYYZ\B:freetext
+Free Text:Taxiways - CYYZ\B:freetext
+Free Text:Taxiways - CYYZ\B:freetext
+Free Text:Taxiways - CYYZ\B:freetext
+Free Text:Taxiways - CYYZ\B1:freetext
+Free Text:Taxiways - CYYZ\B2:freetext
+Free Text:Taxiways - CYYZ\B3:freetext
+Free Text:Taxiways - CYYZ\B4:freetext
+Free Text:Taxiways - CYYZ\C:freetext
+Free Text:Taxiways - CYYZ\C:freetext
+Free Text:Taxiways - CYYZ\C:freetext
+Free Text:Taxiways - CYYZ\C:freetext
+Free Text:Taxiways - CYYZ\C:freetext
+Free Text:Taxiways - CYYZ\C:freetext
+Free Text:Taxiways - CYYZ\C1:freetext
+Free Text:Taxiways - CYYZ\C2:freetext
+Free Text:Taxiways - CYYZ\C3:freetext
+Free Text:Taxiways - CYYZ\C4:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D:freetext
+Free Text:Taxiways - CYYZ\D1:freetext
+Free Text:Taxiways - CYYZ\D2:freetext
+Free Text:Taxiways - CYYZ\D3:freetext
+Free Text:Taxiways - CYYZ\D3:freetext
+Free Text:Taxiways - CYYZ\D4:freetext
+Free Text:Taxiways - CYYZ\D5:freetext
+Free Text:Taxiways - CYYZ\D5:freetext
+Free Text:Taxiways - CYYZ\D6:freetext
+Free Text:Taxiways - CYYZ\D7:freetext
+Free Text:Taxiways - CYYZ\DP:freetext
+Free Text:Taxiways - CYYZ\DQ:freetext
+Free Text:Taxiways - CYYZ\DR:freetext
+Free Text:Taxiways - CYYZ\DT:freetext
+Free Text:Taxiways - CYYZ\DV:freetext
+Free Text:Taxiways - CYYZ\E:freetext
+Free Text:Taxiways - CYYZ\E:freetext
+Free Text:Taxiways - CYYZ\E:freetext
+Free Text:Taxiways - CYYZ\E:freetext
+Free Text:Taxiways - CYYZ\E:freetext
+Free Text:Taxiways - CYYZ\EA:freetext
+Free Text:Taxiways - CYYZ\EB:freetext
+Free Text:Taxiways - CYYZ\EY:freetext
+Free Text:Taxiways - CYYZ\F:freetext
+Free Text:Taxiways - CYYZ\F:freetext
+Free Text:Taxiways - CYYZ\F:freetext
+Free Text:Taxiways - CYYZ\F:freetext
+Free Text:Taxiways - CYYZ\F:freetext
+Free Text:Taxiways - CYYZ\F:freetext
+Free Text:Taxiways - CYYZ\F1:freetext
+Free Text:Taxiways - CYYZ\F2:freetext
+Free Text:Taxiways - CYYZ\F3:freetext
+Free Text:Taxiways - CYYZ\F4:freetext
+Free Text:Taxiways - CYYZ\FA:freetext
+Free Text:Taxiways - CYYZ\G:freetext
+Free Text:Taxiways - CYYZ\H:freetext
+Free Text:Taxiways - CYYZ\H:freetext
+Free Text:Taxiways - CYYZ\H:freetext
+Free Text:Taxiways - CYYZ\H:freetext
+Free Text:Taxiways - CYYZ\H2:freetext
+Free Text:Taxiways - CYYZ\H3:freetext
+Free Text:Taxiways - CYYZ\H4:freetext
+Free Text:Taxiways - CYYZ\H6:freetext
+Free Text:Taxiways - CYYZ\J:freetext
+Free Text:Taxiways - CYYZ\J:freetext
+Free Text:Taxiways - CYYZ\J:freetext
+Free Text:Taxiways - CYYZ\J:freetext
+Free Text:Taxiways - CYYZ\J2:freetext
+Free Text:Taxiways - CYYZ\JD:freetext
+Free Text:Taxiways - CYYZ\JE:freetext
+Free Text:Taxiways - CYYZ\K:freetext
+Free Text:Taxiways - CYYZ\N:freetext
+Free Text:Taxiways - CYYZ\N5:freetext
+Free Text:Taxiways - CYYZ\P:freetext
+Free Text:Taxiways - CYYZ\Q:freetext
+Free Text:Taxiways - CYYZ\R:freetext
+Free Text:Taxiways - CYYZ\R:freetext
+Free Text:Taxiways - CYYZ\S:freetext
+Free Text:Taxiways - CYYZ\S:freetext
+Free Text:Taxiways - CYYZ\T:freetext
+Free Text:Taxiways - CYYZ\T:freetext
+Free Text:Taxiways - CYYZ\T:freetext
+Free Text:Taxiways - CYYZ\TC:freetext
+Free Text:Taxiways - CYYZ\V:freetext
+Free Text:Taxiways - CYYZ\V:freetext
+Free Text:Taxiways - CYYZ\V:freetext
+Free Text:Taxiways - CYYZ\VP:freetext
+Free Text:Taxiways - CYYZ\W:freetext
+Free Text:Taxiways - CYYZ\Y:freetext
+Geo:Ground Holdbars:
+Geo:Ground Lead-In Lines:
+Geo:Ground Taxilanes:
+Geo:Ground Thresholds:
+Regions:CYAM Ground:polygon
+Regions:CYGK Ground:polygon
+Regions:CYHM Ground:polygon
+Regions:CYKF Ground:polygon
+Regions:CYMO Ground:polygon
+Regions:CYOO Ground:polygon
+Regions:CYOW Ground:polygon
+Regions:CYQA Ground:polygon
+Regions:CYQG Ground:polygon
+Regions:CYSB Ground:polygon
+Regions:CYSN Ground:polygon
+Regions:CYTR Ground:polygon
+Regions:CYTS Ground:polygon
+Regions:CYTZ Ground:polygon
+Regions:CYXU Ground:polygon
+Regions:CYYB Ground:polygon
+Regions:CYYZ Ground:polygon
+Runways:CYAM 04-22:name
+Runways:CYAM 12-30:name
+Runways:CYGK 01-19:name
+Runways:CYGK 07-25:name
+Runways:CYHM 06-24:name
+Runways:CYHM 12-30:name
+Runways:CYKF 08-26:name
+Runways:CYKF 14-32:name
+Runways:CYMO 06-24:name
+Runways:CYMO 14-32:name
+Runways:CYOO 05-23:name
+Runways:CYOO 12-30:name
+Runways:CYOW 04-22:name
+Runways:CYOW 07-25:name
+Runways:CYOW 14-32:name
+Runways:CYQA 09-27:centerline
+Runways:CYQA 09-27:name
+Runways:CYQA 18-36:name
+Runways:CYQG 07-25:name
+Runways:CYQG 12-30:name
+Runways:CYSB 04-22:name
+Runways:CYSB 12-30:name
+Runways:CYSN 01-19:name
+Runways:CYSN 06-24:name
+Runways:CYSN 11-29:name
+Runways:CYTR 06-24:name
+Runways:CYTS 03-21:name
+Runways:CYTS 10-28:name
+Runways:CYTZ 06-24:name
+Runways:CYTZ 08-26:name
+Runways:CYXU 09-27:name
+Runways:CYXU 15-33:name
+Runways:CYYB 08-26:name
+Runways:CYYB 18-36:name
+Runways:CYYZ 05-23:name
+Runways:CYYZ 06L-24R:name
+Runways:CYYZ 06R-24L:name
+Runways:CYYZ 15L-33R:name
+Runways:CYYZ 15R-33L:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:5
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:10.40000
+TAGFAMILY:NARDS
+WINDOWAREA:46.477347:-84.527362:46.492738:-84.487259
+PLUGIN:VATCANSitu:altFilterHigh:1
+PLUGIN:VATCANSitu:altFilterLow:1
+PLUGIN:VATCANSitu:DisplayTypeName:GND

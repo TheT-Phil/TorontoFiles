@@ -1,0 +1,180 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORTITLE:CZYZ.sct
+Airports:CYBN:symbol
+Airports:CYEL:symbol
+Airports:CYGK:symbol
+Airports:CYMO:symbol
+Airports:CYPQ:symbol
+Airports:CYQA:symbol
+Airports:CYSB:symbol
+Airports:CYSN:symbol
+Airports:CYTS:symbol
+Airports:CYVV:symbol
+Airports:CYXR:symbol
+Airports:CYXZ:symbol
+Airports:CYYB:symbol
+Airports:CYYU:symbol
+Airports:CYZE:symbol
+Airports:CYZR:symbol
+ARTCC boundary:Control Zones:
+ARTCC low boundary:Restricted Airspace:
+Fixes:ALIXO:name
+Fixes:ALIXO:symbol
+Fixes:AXORA:name
+Fixes:AXORA:symbol
+Fixes:DUTIV:name
+Fixes:DUTIV:symbol
+Fixes:DUTUT:name
+Fixes:DUTUT:symbol
+Fixes:EPLOD:name
+Fixes:EPLOD:symbol
+Fixes:ESRUP:name
+Fixes:ESRUP:symbol
+Fixes:IKLOG:symbol
+Fixes:ITSED:name
+Fixes:ITSED:symbol
+Fixes:KEVGO:name
+Fixes:KEVGO:symbol
+Fixes:KIPIX:name
+Fixes:KIPIX:symbol
+Fixes:KIVOR:name
+Fixes:KIVOR:symbol
+Fixes:MAPAP:name
+Fixes:MAPAP:symbol
+Fixes:MODAV:name
+Fixes:MODAV:symbol
+Fixes:MURPI:symbol
+Fixes:NADVA:name
+Fixes:NADVA:symbol
+Fixes:NUDED:name
+Fixes:NUDED:symbol
+Fixes:OLOVU:name
+Fixes:OLOVU:symbol
+Fixes:TOXUK:name
+Fixes:TOXUK:symbol
+Free Text:SCT2\/\:freetext
+Free Text:SCT2\/\:freetext
+Free Text:SCT2\/\:freetext
+Free Text:SCT2\/\:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Geo:Toronto Highways:
+Geo:Toronto Shoreline:
+NDBs:OO:symbol
+Runways:CNC3 08-26:centerline
+Runways:CNC3 15-33:centerline
+Runways:CYAM 04-22:centerline
+Runways:CYAM 12-30:centerline
+Runways:CYHM 06-24:centerline
+Runways:CYHM 12-30:centerline
+Runways:CYKF 08-26:centerline
+Runways:CYKF 14-32:centerline
+Runways:CYKZ 03-21:centerline
+Runways:CYKZ 15-33:centerline
+Runways:CYND 09-27:centerline
+Runways:CYOO 05-23:centerline
+Runways:CYOO 12-30:centerline
+Runways:CYOW 04-22:centerline
+Runways:CYOW 07-25:centerline
+Runways:CYOW 14-32:centerline
+Runways:CYQG 07-25:centerline
+Runways:CYQG 12-30:centerline
+Runways:CYRO 09-27:centerline
+Runways:CYRP 04-22:centerline
+Runways:CYRP 10-28:centerline
+Runways:CYTR 06-24:centerline
+Runways:CYTZ 06-24:centerline
+Runways:CYTZ 08-26:centerline
+Runways:CYXU 09-27:centerline
+Runways:CYXU 15-33:centerline
+Runways:CYYZ 05-23:centerline
+Runways:CYYZ 06L-24R:centerline
+Runways:CYYZ 06R-24L:centerline
+Runways:CYYZ 15L-33R:centerline
+Runways:CYYZ 15R-33L:centerline
+Runways:CYZD 15-33:centerline
+Runways:CZBA 09-27:centerline
+Runways:CZBA 14-32:centerline
+Sids:CN TOWER (1 NM):
+Sids:CYOW (TCA) CLASS B & C:
+Sids:Range Rings YOO:
+Stars:Control Zones (All):
+Stars:Control Zones (CYQG):
+Stars:Control Zones (KCIU):
+Stars:Control Zones (Toronto):
+Stars:CYOO RNAV (GNSS) 05:
+Stars:CYOO RNAV (GNSS) 12:
+Stars:CYOO RNAV (GNSS) 23:
+Stars:CYOO RNAV (GNSS) 30:
+Stars:YOO Powerlines:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:14.40000
+TAGFAMILY:CSiT
+WINDOWAREA:43.696225:-79.494137:44.176968:-78.241522
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:7
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

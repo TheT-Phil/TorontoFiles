@@ -1,0 +1,128 @@
+************************
+* CZYZ 2207 14/07/2022 *
+************************
+-Updated to AIRAC 2207
+-Demomission TZ, FD, ZKF NDBs
+-Updated KZOB Sector definitions
+-Updated CZUL Airspace definitions
+
+************************
+* CZYZ 2205 19/05/2022 *
+************************
+-Updated to AIRAC 2205
+-Added CYTZ 3nm extended centrelines
+-Moved all "BOX CYYZ -runway-" to sids
+-Moved all "Arrival Corridor -runway-" to ARTCC LOW
+-Added "Terminal Config -runway-" to represent the internal yellow lines
+-All arrival screens and Airport specialties will need to be updated
+
+************************
+* CZYZ 2203 24/03/2022 *
+************************
+-Updated to AIRAC 2203
+-Added SID/STARs to DTW and CLE satellite airports
+-Removed Mode S capability from radar sites
+-Add new Montreal Centre frequencies
+-Update duplicate CJS for BW/OB/MP
+
+************************
+* CZYZ 2201 02/12/2021 *
+************************
+-Updated to AIRAC 2201
+-Fixed random taxiline on TorontoGround.asr
+-Updated detailed shoreline around Hamilton
+-Added extended centreline (green dots) for Hamilton
+-Updated CYR514 (Ipperwash)
+-Update KZOB centre splits
+-Update all positions for 25KHz spacing
+-Added TOR_APP logins
+
+************************
+* CZYZ 2112 02/12/2021 *
+************************
+-Updated to AIRAC 2112
+-Updated ground layouts (again)
+-Updated highways and detailed shoreline
+-Approach overlays updates
+-Added custom tower views
+
+************************
+* CZYZ 2110 07/10/2021 *
+************************
+-Updated to AIRAC 2110
+-Updated Ground Layouts
+-Updated VFR Callup Points
+-Active/Closed Runways added to London and Oshawa
+-Added Toronto Highways & Detailed Shoreline
+-Fixed WS Frequency and RA Ownership
+-Updated Windsor Tower CJS to QG
+-Updated Sault Tower CJS to AM
+-Added ILS Monitor Airspace
+-Added 1NM CN Tower Ring
+
+************************
+* CZYZ 2108 12/08/2021 *
+************************
+-Updated to AIRAC 2108
+-Groundlayout Updates
+	-YKF,YQG,YHM,YTZ,YYZ,YOW redrawn and updated
+	-YYZ,YTZ,YKF,YHM feature active runway outlines and closure overlays
+-Added TCU Coordinator, Apron Coordinator and ILS Monitor positions
+-Fixed ownership for Killaloe airspace designated to Pontiac
+-Customized ground NARDS tags
+
+************************
+* CZYZ 2106 17/06/2021 *
+************************
+-Updated to AIRAC 2106
+-Updated KZOB Sector definitions
+
+************************
+* CZYZ 2104 22/04/2021 *
+************************
+-Prop STARs/STARs with Common Transitions
+	-Prop STARs are now selectable in the sector exit list. By default EuroScope will display the Jet STAR, but if you scroll and manually select the Prop STAR,
+	 it will show up. Same goes for the TUKIR.IMEBA# and TUKIR.RAGID# arrivals, EuroScope will default to the IMEBA arrival as it comes first alphabetically,
+	 but if you select the RAGID arrival manually it will show up properly in the sector exit list.
+-Updated CJS/Primary Sectors
+	-SH now primary owner of North/North Bay instead of YB
+	-GR now primary owner of Low/West Low instead of SI/KF
+	-WS now primary owner of Airports instead of XU
+	-London Tower CJS changed from LT to XT
+	-City Tower CJS changed from IT to TZ
+-Groundlayout Updates
+	-All airports updated with latest available satellite data
+	-Added options for closures at YYZ/YTZ/YKF (Display settings > Regions > "Closures")
+	-Deice pads can be toggled on/off as required (Display settings > Regions > "Deice Pads")
+	-Added additional labels to all airports for terminals/buildings/deice/fbos (Display settings > Free Text)
+	-Added deice transfer/hold points at YYZ (Display settings > Geo > "Ground Deice")
+	-Added serviceroads to all groundlayouts
+-Proper Toronto/Winnipeg Boundary
+	-Updated aispace boundary to the correct/proper/real life one
+	-Old FIR boundary can still be toggled (Display settings > ARTCC) for whatever ungodly reason you want to use that line
+-Alternate Sector Ownership Profiles
+	-Profiles to temporarily change the ownership of each sector.
+	-When loaded this will only effect your scope (active/inactive sector backgrounds, active/inactive airports, etc.)
+	-To enable temporarily, go to (Other settings > Sector ownership setup > Load "CZYZ AltOwnership") and press OK
+		-MTL: Delegates Rupert, Noranda, Concordia and Ottawa to Montreal
+		-DEP: Delegates East and West Satellite Sectors to Departure (or Arrival if Departure is offline)
+		-OLD: Sets ownership to match with the AeroNav/GNG files
+Miscellaneous Updates
+	-Updated to AIRAC 2104
+	-Added airports under the Sault Low extension & KCIU Control Zone
+	-Updated YQG/YTR Positions
+	-Updated Shoreline
+	-Updated WPG sectors to reflect new positions and ownership
+
+************************
+* CZYZ 2101 28/01/2021 *
+************************
+-New sector file realease
+-New screens including updated radar screens that closely match research CZYZ control images
+-Radar closely mimics minimum and maximum coverages
+-Added ASP (Au Sable VOR/DME)
+-Added restricted airspace
+-New colour pallet
+-AIRAC updates
+-Updated alias file
+-Updated symbology file
