@@ -8,7 +8,7 @@
 .appic $radioname, runway $1 altimeter $altim($arr), info $2 is current.
 .ca turn $1 heading $2 to intercept the localizer, cleared ILS runway $3 approach
 .int on present heading, intercept the localizer, cleared ILS runway $1 approach
-.sight airport is a your $1 o'clock, $2 miles, report in sigh
+.sight airport is a your $1 o'clock, $2 miles, report in sight
 .cva not below $1 until final, cleared visual approach runway $2
 .rs reduce speed to $1 knots
 .cra Proceed direct $1. Cleared RNAV runway $2 approach.
@@ -132,3 +132,4 @@
 .exits Welcome to Toronto, exit $1 onto taxiway $2 and report clear.
 .exitc Welcome to Toronto Exit $1 when able and contact Ground on $ when clear.
 .ga Pull up and go around. Climb 3000, maintain runway heading.
+

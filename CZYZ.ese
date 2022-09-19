@@ -16,7 +16,7 @@
 ; Modified on January 22 2020 by Tyson Phillips <airplane987@gmail.com> for AIRAC 2002
 ; Modified on March 25 2020 by Tyson Phillips <airplane987@gmail.com> for AIRAC 2004
 ; Modified April, June, August, October, December, 2021 by Tyson Phillips and Tristan Mann for AIRAC 2104-2112
-; Modified January, March, May, July, 2022 by Tyson Phillips and Tristan Mann for AIRAC 2201-2207
+; Modified January, March, May, July, September 2022 by Tyson Phillips and Tristan Mann for AIRAC 2201-2209
 
 [RADAR]
 
@@ -3788,6 +3788,11 @@ N043.53.00.000:W078.42.00.000:VFR Callup Labels:ST. MARY'S CEMENT
 N043.06.20.000:W081.08.25.000:VFR Callup Labels:THORNDALE
 N043.00.35.000:W081.16.20.000:VFR Callup Labels:UNIVERSITY
 N042.59.05.000:W081.02.60.000:VFR Callup Labels:DORCHESTER
+N043.17.00.000:W080.00.00.000:VFR Callup Labels:DUNDAS
+N043.29.50.000:W079.40.00.000:VFR Callup Labels:FORD
+N043.36.00.000:W080.15.00.000:VFR Callup Labels:GUELPH LAKE
+N043.27.00.000:W080.07.50.000:VFR Callup Labels:MORRISTON
+N043.39.28.000:W079.35.60.000:VFR Callup Labels:SKI HILL
 N043.51.50.000:W080.04.00.000:VFR Callup Points:+
 N043.52.20.000:W079.52.00.000:VFR Callup Points:+
 N043.46.80.000:W080.04.20.000:VFR Callup Points:+
@@ -3845,6 +3850,11 @@ N043.53.00.000:W078.42.00.000:VFR Callup Points:+
 N043.06.20.000:W081.08.25.000:VFR Callup Points:+
 N043.00.35.000:W081.16.20.000:VFR Callup Points:+
 N042.59.05.000:W081.02.60.000:VFR Callup Points:+
+N043.17.00.000:W080.00.00.000:VFR Callup Points:+
+N043.29.50.000:W079.40.00.000:VFR Callup Points:+
+N043.36.00.000:W080.15.00.000:VFR Callup Points:+
+N043.27.00.000:W080.07.50.000:VFR Callup Points:+
+N043.39.28.000:W079.35.60.000:VFR Callup Points:+
 ; - CYAM
 N046.28.41.670:W084.30.41.747:Taxiways - CYAM:B
 N046.28.50.515:W084.30.24.787:Taxiways - CYAM:B
