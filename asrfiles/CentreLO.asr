@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tristan\Desktop\TorontoFiles\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -73,6 +74,7 @@ Fixes:DUGBU:symbol
 Fixes:DUSOM:symbol
 Fixes:EBKIN:symbol
 Fixes:ELSUB:symbol
+Fixes:EPRES:symbol
 Fixes:EPTOS:symbol
 Fixes:FINGL:symbol
 Fixes:FOXEE:symbol
@@ -140,6 +142,7 @@ Fixes:REZIN:symbol
 Fixes:RIKEM:symbol
 Fixes:SASOB:symbol
 Fixes:SEDOG:symbol
+Fixes:SETVO:symbol
 Fixes:SILVU:symbol
 Fixes:SLLAP:symbol
 Fixes:SMARE:symbol
@@ -180,12 +183,10 @@ Low airways:V45:line
 Low airways:V487:line
 Low airways:V8:line
 NDBs:YLD:symbol
-NDBs:YMW:symbol
 NDBs:YPQ:symbol
 NDBs:YTA:symbol
 NDBs:YTR:symbol
 NDBs:YUY:symbol
-NDBs:ZKF:symbol
 Runways:CYAM 04-22:centerline
 Runways:CYAM 12-30:centerline
 Runways:CYHM 06-24:centerline

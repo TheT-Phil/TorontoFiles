@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tristan\Desktop\TorontoFiles\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -179,6 +180,7 @@ Stars:STARs LINNG/VERKO (33):
 Stars:STARs NUBER/NAKBO (33):
 Stars:STARs RAGID/UNDOX (33):
 Stars:Terminal Config 33:
+Stars:YYZ Tower Control Area:
 SHOWC:0
 SHOWSB:0
 BELOW:0
