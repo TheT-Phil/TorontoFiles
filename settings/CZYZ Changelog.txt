@@ -3,6 +3,7 @@
 ************************
 -Updated to AIRAC 2209
 -Updated VFR Checkpoints
+-Added CYYZ departure splits
 
 ************************
 * CZYZ 2207 14/07/2022 *
