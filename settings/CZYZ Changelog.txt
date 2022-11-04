@@ -1,4 +1,11 @@
 ************************
+* CZYZ 2211 03/11/2022 *
+************************
+-Update to AIRAC 2011 
+-Update BOXUM, DUVOS, NUBER, NAKBO, IMEBA, VILBI STARs
+-Added RNP approaches to RWY 05 and RWY 23
+
+************************
 * CZYZ 2209 08/09/2022 *
 ************************
 -Updated to AIRAC 2209
