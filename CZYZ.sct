@@ -100,7 +100,7 @@
 #define final 16777215
 
 [INFO]
-CZYZ 2209 18/09/2022 ;DD/MM/YYYY
+CZYZ 2211 03/11/2022 ;DD/MM/YYYY
 CZYZ_CTR
 CYYZ
 N043.39.29.000
@@ -28678,6 +28678,7 @@ CYSB RNAV (GNSS) 30       OMSOK          OMSOK          MEGDU          MEGDU    
 CYSN RNAV (GNSS) 06       UMAVU          UMAVU          PELPA          PELPA          APPR
                           OTSIN          OTSIN          PELPA          PELPA          APPR
                           PELPA          PELPA          UDNEM          UDNEM          APPR
+                          UDNEM          UDNEM          XUGSU          XUGSU          APPR
 ;
 CYSN RNAV (GNSS) 24       DUXIG          DUXIG          LIRLU          LIRLU          APPR
                           VOGES          VOGES          LIRLU          LIRLU          APPR
@@ -28907,7 +28908,6 @@ CYZE RNAV (GNSS) 29       GOTON          GOTON          ELEVI          ELEVI    
                           IMUBA          IMUBA          ELEVI          ELEVI          APPR
                           KINEX          KINEX          ELEVI          ELEVI          APPR
                           ELEVI          ELEVI          EBGIP          EBGIP          APPR
-                          EBGIP          EBGIP          DUVKU          DUVKU          APPR
 ;-
 
 ;***************
