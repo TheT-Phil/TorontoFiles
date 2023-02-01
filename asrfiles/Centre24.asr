@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tristan\Desktop\TorontoFiles\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -41,7 +42,6 @@ Fixes:AGDUT:symbol
 Fixes:AGLIN:symbol
 Fixes:AGNEX:symbol
 Fixes:AHPAH:symbol
-Fixes:AIRCO:symbol
 Fixes:AIRRA:symbol
 Fixes:ALIDO:symbol
 Fixes:ANCOL:symbol
@@ -100,6 +100,7 @@ Fixes:KEBMA:symbol
 Fixes:KEMVI:symbol
 Fixes:KENDI:symbol
 Fixes:KENLU:symbol
+Fixes:KICKS:symbol
 Fixes:LANRK:symbol
 Fixes:LEPOS:symbol
 Fixes:LETAK:symbol
@@ -159,6 +160,7 @@ Fixes:TULEK:symbol
 Fixes:UDMUG:symbol
 Fixes:UKNIX:symbol
 Fixes:UKPAG:symbol
+Fixes:ULBOL:symbol
 Fixes:URSAL:symbol
 Fixes:URSSA:symbol
 Fixes:VERDO:symbol
@@ -167,6 +169,7 @@ Fixes:VILRO:symbol
 Fixes:VITOV:symbol
 Fixes:WOZEE:symbol
 Fixes:XEXUL:symbol
+Fixes:YEE:symbol
 Fixes:YZEMN:symbol
 Fixes:ZOHAN:symbol
 Low airways:B7:line
@@ -254,10 +257,8 @@ VORs:SVM:symbol
 VORs:SYR:symbol
 VORs:UTR:symbol
 VORs:VIE:symbol
-VORs:YEE:symbol
 VORs:YGQ:symbol
 VORs:YMO:symbol
-VORs:YMS:symbol
 VORs:YOW:symbol
 VORs:YQT:symbol
 VORs:YSP:symbol

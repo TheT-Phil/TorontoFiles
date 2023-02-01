@@ -16,7 +16,7 @@
 ; Modified on January 22 2020 by Tyson Phillips <airplane987@gmail.com> for AIRAC 2002
 ; Modified on March 25 2020 by Tyson Phillips <airplane987@gmail.com> for AIRAC 2004
 ; Modified April, June, August, October, December, 2021 by Tyson Phillips and Tristan Mann for AIRAC 2104-2112
-; Modified January, March, May, July, September 2022 by Tyson Phillips and Tristan Mann for AIRAC 2201-2209
+; Modified January, March, May, July, September, December 2022 by Tyson Phillips and Tristan Mann for AIRAC 2201-2209
 
 [RADAR]
 
@@ -155,8 +155,11 @@ COORD:N044.13.30.000:W076.09.11.000
 COORD:N044.36.22.000:W075.37.31.000
 COORD:N044.58.40.000:W074.10.59.000
 COORD:N045.15.45.000:W069.30.05.000
-COORD:N039.00.00.000:W069.30.05.000
-COORD:N039.00.00.000:W094.52.41.000
+COORD:N034.00.00.000:W069.30.05.000
+COORD:N034.00.00.000:W094.52.41.000
+COORD:N034.00.00.000:W100.52.41.000
+COORD:N049.00.00.000:W100.52.41.000
+COORD:N049.09.28.000:W094.52.41.000
 COORD:N049.09.28.000:W094.52.41.000
 
 
