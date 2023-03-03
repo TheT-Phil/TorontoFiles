@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tristan\Desktop\TorontoFiles\CZYZ.sct
+SECTORFILE:C:\Users\Tyson\Documents\EuroScope\CANscope\CZYZ\TorontoFiles-2213\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -65,18 +65,19 @@ Fixes:BUGSY:symbol
 Fixes:CATOG:symbol
 Fixes:CYRIL:symbol
 Fixes:DAVSI:symbol
-Fixes:DEBUM:symbol
 Fixes:DEDKI:symbol
 Fixes:DERLO:symbol
 Fixes:DESKI:symbol
 Fixes:DUGBU:symbol
 Fixes:DUSOM:symbol
+Fixes:EBDOG:symbol
 Fixes:EBKIN:symbol
 Fixes:ELSUB:symbol
 Fixes:EPRES:symbol
 Fixes:EPTOS:symbol
 Fixes:FINGL:symbol
 Fixes:FOXEE:symbol
+Fixes:FRALK:symbol
 Fixes:GGUCE:symbol
 Fixes:GNTRY:symbol
 Fixes:GOTIP:symbol
@@ -92,6 +93,7 @@ Fixes:IMEBA:symbol
 Fixes:IMIXA:symbol
 Fixes:IPTOS:symbol
 Fixes:IRKIM:symbol
+Fixes:JUNIS:symbol
 Fixes:KANUR:symbol
 Fixes:KASED:symbol
 Fixes:KATNO:symbol
@@ -108,15 +110,18 @@ Fixes:LIDAG:symbol
 Fixes:LINNG:symbol
 Fixes:LOKPU:symbol
 Fixes:LORKA:symbol
+Fixes:LOYED:symbol
 Fixes:MARGN:symbol
 Fixes:MENTI:symbol
 Fixes:MEPKA:symbol
 Fixes:MIGLO:symbol
 Fixes:MIVOK:symbol
+Fixes:MIXAK:symbol
 Fixes:MIXUT:symbol
 Fixes:MONEE:symbol
 Fixes:MUSIT:symbol
 Fixes:NADUM:symbol
+Fixes:NAKBU:symbol
 Fixes:NOPOT:symbol
 Fixes:NUBAM:symbol
 Fixes:NUBER:symbol
@@ -130,6 +135,7 @@ Fixes:OTONA:symbol
 Fixes:OVORA:symbol
 Fixes:OXASA:symbol
 Fixes:OXMAN:symbol
+Fixes:PELSU:symbol
 Fixes:PICUP:symbol
 Fixes:POLTY:symbol
 Fixes:QWERI:symbol
@@ -167,6 +173,8 @@ Fixes:VERDO:symbol
 Fixes:VERTI:symbol
 Fixes:VILRO:symbol
 Fixes:VITOV:symbol
+Fixes:WALAC:symbol
+Fixes:WALPP:symbol
 Fixes:WOZEE:symbol
 Fixes:XEXUL:symbol
 Fixes:YEE:symbol
@@ -183,7 +191,6 @@ Low airways:V365:line
 Low airways:V37:line
 Low airways:V45:line
 Low airways:V487:line
-Low airways:V8:line
 NDBs:YLD:symbol
 NDBs:YPQ:symbol
 NDBs:YTA:symbol
@@ -207,7 +214,6 @@ Runways:CYRP 10-28:centerline
 Runways:CYTR 06-24:centerline
 Runways:CYXU 09-27:centerline
 Runways:CYXU 15-33:centerline
-Sids:CYOW (TCA) CLASS B & C:
 Stars:Airport Speciality:
 Stars:Airport Toronto (TCA):
 Stars:Control Zones (All):
@@ -282,7 +288,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
-WINDOWAREA:39.726193:-101.131923:55.872965:-59.060157
+WINDOWAREA:42.818174:-87.845165:49.512229:-70.612570
 PLUGIN:VATCANSitu:altFilterHigh:0
 PLUGIN:VATCANSitu:altFilterLow:7
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

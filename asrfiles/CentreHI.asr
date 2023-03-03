@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tristan\Desktop\TorontoFiles\CZYZ.sct
+SECTORFILE:C:\Users\Tyson\Documents\EuroScope\CANscope\CZYZ\TorontoFiles-2213\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 ARTCC boundary:Border with USA High:
 ARTCC boundary:Canada High:
@@ -16,9 +16,7 @@ ARTCC high boundary:ZUL Splits:
 ARTCC low boundary:TOR YUL:
 ARTCC low boundary:XU Extensions:
 ARTCC low boundary:ZOB High Split:
-ARTCC low boundary:ZUL Low:
 Fixes:AHPAH:symbol
-Fixes:AIRCO:symbol
 Fixes:AIRRA:symbol
 Fixes:ANCOL:symbol
 Fixes:APDAX:symbol
@@ -29,7 +27,6 @@ Fixes:BOXUM:symbol
 Fixes:DEDKI:symbol
 Fixes:DERLO:symbol
 Fixes:DUSOM:symbol
-Fixes:DUXIT:symbol
 Fixes:EBKIN:symbol
 Fixes:ELSUB:symbol
 Fixes:FINGL:symbol
@@ -78,26 +75,7 @@ Fixes:VERDO:symbol
 Fixes:WOZEE:symbol
 Fixes:YZEMN:symbol
 Fixes:ZOHAN:symbol
-Stars:SIDs ANCOL/PERLO (transitions):
-Stars:SIDs AVSEP/NUGOP (transitions):
-Stars:SIDs BETES/OAKVL (transitions):
-Stars:SIDs BOMET (transitions):
-Stars:SIDs DEDKI (transitions):
-Stars:SIDs DUSOM/RIGUS (transitions):
-Stars:SIDs EBKIN/KISEP (transitions):
-Stars:SIDs GOPUP/TULEK (transitions):
-Stars:SIDs IKLEN/MATES (transitions):
-Stars:SIDs KEPTA/MAVAN (transitions):
-Stars:SIDs MIXUT/PEMBA (transitions):
-Stars:SIDs NOSIK/URSAL (transitions):
-Stars:SIDs SEDOG/LAKES (transitions):
-Stars:SIDs TEVAD (transitions):
-Stars:SIDs VERDO (transitions):
-Stars:STARs BOXUM/DUVOS Transitions:
-Stars:STARs IMEBA/VIBLI Transitions:
-Stars:STARs LINNG/VERKO Transitions:
-Stars:STARs NUBER/NAKBO Transitions:
-Stars:STARs RAGID/UNDOX Transitions:
+Stars:Quebec Airways:
 VORs:APN:symbol
 VORs:ART:symbol
 VORs:BUF:symbol
@@ -117,10 +95,8 @@ VORs:SVM:symbol
 VORs:SYR:symbol
 VORs:UTR:symbol
 VORs:VIE:symbol
-VORs:YEE:symbol
 VORs:YGQ:symbol
 VORs:YMO:symbol
-VORs:YMS:symbol
 VORs:YOW:symbol
 VORs:YQT:symbol
 VORs:YSP:symbol
@@ -144,7 +120,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
-WINDOWAREA:39.726193:-101.131923:55.872965:-59.060157
+WINDOWAREA:41.607580:-90.131415:49.975150:-68.590668
 PLUGIN:VATCANSitu:altFilterHigh:0
 PLUGIN:VATCANSitu:altFilterLow:7
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

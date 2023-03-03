@@ -17,6 +17,7 @@
 ; Modified on March 25 2020 by Tyson Phillips <airplane987@gmail.com> for AIRAC 2004
 ; Modified April, June, August, October, December, 2021 by Tyson Phillips and Tristan Mann for AIRAC 2104-2112
 ; Modified January, March, May, July, September, December 2022 by Tyson Phillips and Tristan Mann for AIRAC 2201-2209
+; Modified February 2023 by Tyson Phillips and Tristan Mann for AIRAC 2302
 
 [RADAR]
 
@@ -2160,6 +2161,13 @@ STAR:KCIU:34:PLN意DB:PLN TATOE CUITE
 STAR:KCIU:34:TATOE意DB:TATOE CUITE
 
 ******
+*CDT9*
+******
+STAR:CDT9:10:DUGRO愛NAVY:DUGRO:MIPIG:PUSUV
+STAR:CDT9:10:MIPIG愛NAVY:MIPIG:PUSUV
+STAR:CDT9:28:ROLKU愛NAVY:ROLKU:VIDKI:PUXOM:MIRED
+STAR:CDT9:28:VIDKI愛NAVY:VIDKI:PUXOM:MIRED
+******
 *CNC3*
 ******
 STAR:CNC3:15:OMSAG愛NAV:OMSAG KAPIK ROKRA
@@ -3644,15 +3652,35 @@ SID:CYTA:35:AGNEX3:AGNEX
 ;- END AGNEX SID
 
 ***********************************************************************************************
-*											      *
-*				  	END PEMBROKE SIDS 				      *
-*											      *
+*                                                                                             *
+*				  	END PEMBROKE SIDS                                                         *
+*                                                                                             *
 ***********************************************************************************************
 
 ***********************************************************************************************
-*											      *
-*				       RUNWAY HEADING SIDS  				      *
-*											      *
+*                                                                                             *
+*                    DETOUR LAKE SIDS                                                         *
+*                                                                                             *
+***********************************************************************************************
+
+*************
+* GRAMP SID *
+*************
+SID:CDT9:10:GRAMP1:PUVIP:MIBSU:GRAMP
+SID:CDT9:28:GRAMP1:XOSNU:GRAMP
+;- END GRAMP SID
+
+***********************************************************************************************
+*                                                                                             *
+*                   END DETOUR LAKE SIDS                                                      *
+*                                                                                             *
+***********************************************************************************************
+
+
+***********************************************************************************************
+*                                                                                             *
+*				       RUNWAY HEADING SIDS                                                    *
+*                                                                                             *
 ***********************************************************************************************
 
 *********************

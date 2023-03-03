@@ -1,4 +1,12 @@
 ************************
+* CZYZ 2302 23/02/2023 *
+************************
+-Updated to AIRAC 2302
+-Added Airport CDT9 and procedures
+-Updated format of high airways
+-started to update High screen (WIP)
+
+************************
 * CZYZ 2211 03/11/2022 *
 ************************
 -Updated to AIRAC 2011 

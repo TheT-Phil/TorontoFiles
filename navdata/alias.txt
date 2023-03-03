@@ -1,4 +1,3 @@
-;ALIAS
 
 ;*** ARRIVAL ***
 .d Descend $1.
@@ -27,6 +26,7 @@
 .pdcr Departure Clearance Request RECEIVED - REQUEST BEING PROCESSED - STANDBY.
 .pdc *PRE-DEPARTURE CLEARANCE* FLT $aircraft $dep - $type $alt XPDR $squawk - USE SID $sid DEPARTURE RUNWAY $deprwy DEST $arr - $route. -- CONTACT $radioname on $freq WITHIN 10 MINS BEFORE *PUSHBACK* WITH ATIS, GATE NUMBER and *IDENTIFIER $3* -- END OF ACARS MESSAGE
 .pdcd *PRE-DEPARTURE CLEARANCE* FLT $aircraft $dep - $type $alt XPDR $squawk - USE SID $sid DEPARTURE RUNWAY $deprwy DEST $arr - $route. -- CONTACT Toronto Delivery on 121.300 WITHIN 10 MINS BEFORE *PUSHBACK* WITH ATIS, GATE NUMBER and *IDENTIFIER $3* -- END OF ACARS MESSAGE
+.pdct *PRE-DEPARTURE CLEARANCE* | FLT $aircraft $dep | $type FILED $alt | XPDR $squawk | USE SID $sid | DEPARTURE RUNWAY $deprwy | DESTINATION $arr | CONTACT $uc($radioname) WITH IDENTIFIER *$3* | $route | END
 .pdc1 ADDITIONAL INFORMATION - All INITIAL ALTITUDE and NAVIGATION Restrictions are PUBLISHED on the SID -- END OF ACARS MESSAGE
 .pdcc Departure Clearance Readback RECEIVED ? CLEARANCE CONFIRMED
 .mxcr EXPECT MAX CRUISE FL290 UNTIL OTHERWISE ASSIGNED -- END OF ACARS MESSAGE
@@ -132,4 +132,3 @@
 .exits Welcome to Toronto, exit $1 onto taxiway $2 and report clear.
 .exitc Welcome to Toronto Exit $1 when able and contact Ground on $ when clear.
 .ga Pull up and go around. Climb 3000, maintain runway heading.
-
