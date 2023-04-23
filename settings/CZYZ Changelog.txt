@@ -1,4 +1,12 @@
 ************************
+* CZYZ 2304 20/04/2023 *
+************************
+-Updated to AIRAC 2304
+-Removed CYOW from Low Centre screens
+-Finished updating High Screen
+-Added various high and low airways
+
+************************
 * CZYZ 2302 23/02/2023 *
 ************************
 -Updated to AIRAC 2302

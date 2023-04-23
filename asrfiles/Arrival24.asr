@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tyson\Documents\EuroScope\CANscope\CZYZ\TorontoFiles-2213\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -60,7 +61,6 @@ Fixes:PENGO:symbol
 Fixes:RAGID:symbol
 Fixes:ROKTO:symbol
 Fixes:SATUR:symbol
-Fixes:SEDER:symbol
 Fixes:TASKU:symbol
 Fixes:VERKO:symbol
 Fixes:YOUTH:symbol
@@ -199,7 +199,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
-WINDOWAREA:43.245419:-80.727731:44.148867:-78.420293
+WINDOWAREA:43.434125:-81.119077:44.337573:-78.755782
 PLUGIN:VATCANSitu:altFilterHigh:245
 PLUGIN:VATCANSitu:altFilterLow:7
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

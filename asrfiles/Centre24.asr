@@ -43,13 +43,12 @@ Fixes:AGLIN:symbol
 Fixes:AGNEX:symbol
 Fixes:AHPAH:symbol
 Fixes:AIRRA:symbol
-Fixes:ALIDO:symbol
+Fixes:ALONI:symbol
 Fixes:ANCOL:symbol
 Fixes:APDAX:symbol
 Fixes:AVSEP:symbol
 Fixes:AXOBU:symbol
 Fixes:AXXIS:symbol
-Fixes:BEMOG:symbol
 Fixes:BIGBE:symbol
 Fixes:BILII:symbol
 Fixes:BIMRO:symbol
@@ -61,9 +60,6 @@ Fixes:BOMET:symbol
 Fixes:BOSEP:symbol
 Fixes:BOXUM:symbol
 Fixes:BUDAG:symbol
-Fixes:BUGSY:symbol
-Fixes:CATOG:symbol
-Fixes:CYRIL:symbol
 Fixes:DAVSI:symbol
 Fixes:DEDKI:symbol
 Fixes:DERLO:symbol
@@ -72,6 +68,7 @@ Fixes:DUGBU:symbol
 Fixes:DUSOM:symbol
 Fixes:EBKIN:symbol
 Fixes:ELSUB:symbol
+Fixes:EPMOK:symbol
 Fixes:EPRES:symbol
 Fixes:EPTOS:symbol
 Fixes:FINGL:symbol
@@ -84,6 +81,8 @@ Fixes:HANKY:symbol
 Fixes:HAVOK:symbol
 Fixes:HOCKE:symbol
 Fixes:IGSUB:symbol
+Fixes:IGVUS:symbol
+Fixes:IKLAX:symbol
 Fixes:IKLEN:symbol
 Fixes:IKMOK:symbol
 Fixes:ILUSI:symbol
@@ -101,10 +100,11 @@ Fixes:KEMVI:symbol
 Fixes:KENDI:symbol
 Fixes:KENLU:symbol
 Fixes:KICKS:symbol
+Fixes:KISUK:symbol
 Fixes:LANRK:symbol
 Fixes:LEPOS:symbol
 Fixes:LETAK:symbol
-Fixes:LIDAG:symbol
+Fixes:LETUS:symbol
 Fixes:LINNG:symbol
 Fixes:LOKPU:symbol
 Fixes:LORKA:symbol
@@ -127,13 +127,13 @@ Fixes:OAKVL:symbol
 Fixes:OLABA:symbol
 Fixes:OLAMO:symbol
 Fixes:OLIGO:symbol
-Fixes:ONDOB:symbol
 Fixes:OTNIK:symbol
 Fixes:OTONA:symbol
 Fixes:OVORA:symbol
 Fixes:OXASA:symbol
 Fixes:OXMAN:symbol
 Fixes:PELSU:symbol
+Fixes:PEVNI:symbol
 Fixes:PICUP:symbol
 Fixes:POLTY:symbol
 Fixes:QWERI:symbol
@@ -141,20 +141,22 @@ Fixes:RABAV:symbol
 Fixes:RAGID:symbol
 Fixes:RAKAM:symbol
 Fixes:RAKAP:symbol
+Fixes:REEDO:symbol
 Fixes:REVUD:symbol
 Fixes:REZIN:symbol
 Fixes:RIKEM:symbol
+Fixes:ROSVO:symbol
+Fixes:SASID:symbol
 Fixes:SASOB:symbol
 Fixes:SEDOG:symbol
 Fixes:SETVO:symbol
 Fixes:SILVU:symbol
 Fixes:SLLAP:symbol
-Fixes:SMARE:symbol
+Fixes:SSENA:symbol
 Fixes:TAKOL:symbol
 Fixes:TALEB:symbol
 Fixes:TANGI:symbol
 Fixes:TESUK:symbol
-Fixes:THURO:symbol
 Fixes:TIGET:symbol
 Fixes:TONNY:symbol
 Fixes:TORNI:symbol
@@ -170,7 +172,6 @@ Fixes:URSAL:symbol
 Fixes:URSSA:symbol
 Fixes:VERDO:symbol
 Fixes:VERTI:symbol
-Fixes:VILRO:symbol
 Fixes:VITOV:symbol
 Fixes:WALAC:symbol
 Fixes:WALPP:symbol
@@ -201,15 +202,8 @@ Runways:CYHM 06-24:centerline
 Runways:CYHM 12-30:centerline
 Runways:CYKF 08-26:centerline
 Runways:CYKF 14-32:centerline
-Runways:CYND 09-27:centerline
 Runways:CYOO 05-23:centerline
 Runways:CYOO 12-30:centerline
-Runways:CYOW 04-22:centerline
-Runways:CYOW 07-25:centerline
-Runways:CYOW 14-32:centerline
-Runways:CYRO 09-27:centerline
-Runways:CYRP 04-22:centerline
-Runways:CYRP 10-28:centerline
 Runways:CYTR 06-24:centerline
 Runways:CYXU 09-27:centerline
 Runways:CYXU 15-33:centerline
@@ -232,16 +226,11 @@ Stars:SIDs SEDOG/LAKES (transitions):
 Stars:SIDs TEVAD (transitions):
 Stars:SIDs VERDO (transitions):
 Stars:STARs BOXUM/DUVOS Transitions:
-Stars:STARs CAPTL Transitions:
-Stars:STARs DEANS Transitions:
 Stars:STARs ILIXU Transitions:
 Stars:STARs IMEBA/VIBLI Transitions:
-Stars:STARs LEAMY Transitions:
 Stars:STARs LINNG/VERKO Transitions:
-Stars:STARs MEECH Transitions:
 Stars:STARs NUBER/NAKBO Transitions:
 Stars:STARs RAGID/UNDOX Transitions:
-Stars:STARs RIVER Transitions:
 Stars:Tango Airways:
 VORs:APN:symbol
 VORs:ART:symbol
@@ -287,7 +276,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
-WINDOWAREA:47.272882:-86.547317:53.188004:-72.761239
+WINDOWAREA:39.837779:-85.555240:49.080159:-61.762460
 PLUGIN:VATCANSitu:altFilterHigh:0
 PLUGIN:VATCANSitu:altFilterLow:7
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

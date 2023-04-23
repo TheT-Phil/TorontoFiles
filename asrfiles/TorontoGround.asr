@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tyson\Documents\EuroScope\CANscope\CZYZ\TorontoFiles-2213\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Free Text:Apron Taxilanes - CYYZ\1:freetext
 Free Text:Apron Taxilanes - CYYZ\10:freetext
@@ -384,6 +385,40 @@ Free Text:Labels - CYXU\Flight Exec:freetext
 Free Text:Labels - CYXU\Flite Line:freetext
 Free Text:Labels - CYXU\Terminal:freetext
 Free Text:Labels - CYXU\Tower:freetext
+Free Text:Labels - CYYZ\3-Bay Hangar:freetext
+Free Text:Labels - CYYZ\AC Cargo:freetext
+Free Text:Labels - CYYZ\AC Mtce.:freetext
+Free Text:Labels - CYYZ\Air Canada:freetext
+Free Text:Labels - CYYZ\Air Transat:freetext
+Free Text:Labels - CYYZ\Cargo 2:freetext
+Free Text:Labels - CYYZ\Cargo 3:freetext
+Free Text:Labels - CYYZ\Cargo West:freetext
+Free Text:Labels - CYYZ\Chartright:freetext
+Free Text:Labels - CYYZ\Chartright:freetext
+Free Text:Labels - CYYZ\Esso/Avitat:freetext
+Free Text:Labels - CYYZ\Fedex Cargo:freetext
+Free Text:Labels - CYYZ\Field:freetext
+Free Text:Labels - CYYZ\Firehall 1:freetext
+Free Text:Labels - CYYZ\Firehall 2:freetext
+Free Text:Labels - CYYZ\General Aviation:freetext
+Free Text:Labels - CYYZ\GTAA Busing:freetext
+Free Text:Labels - CYYZ\GTAA Offices:freetext
+Free Text:Labels - CYYZ\GTAA Operations:freetext
+Free Text:Labels - CYYZ\Icehouse:freetext
+Free Text:Labels - CYYZ\Infield Terminal:freetext
+Free Text:Labels - CYYZ\Innotech:freetext
+Free Text:Labels - CYYZ\Signature:freetext
+Free Text:Labels - CYYZ\Signature:freetext
+Free Text:Labels - CYYZ\Skycharter:freetext
+Free Text:Labels - CYYZ\Skyservice:freetext
+Free Text:Labels - CYYZ\Skyservice:freetext
+Free Text:Labels - CYYZ\Skyservice:freetext
+Free Text:Labels - CYYZ\T1:freetext
+Free Text:Labels - CYYZ\T3:freetext
+Free Text:Labels - CYYZ\T3 Satellite:freetext
+Free Text:Labels - CYYZ\Tower:freetext
+Free Text:Labels - CYYZ\Vista Cargo:freetext
+Free Text:Labels - CYYZ\WestJet:freetext
 Free Text:Taxiways - CYAM\B:freetext
 Free Text:Taxiways - CYAM\B:freetext
 Free Text:Taxiways - CYAM\B:freetext
@@ -745,12 +780,12 @@ LEADER:3
 SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
-SIMULATION_MODE:5
+SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:10.40000
+DisplayRotation:313.50000
 TAGFAMILY:NARDS
-WINDOWAREA:43.653816:-79.688314:43.700786:-79.565930
+WINDOWAREA:43.665860:-79.660954:43.699467:-79.582627
 PLUGIN:VATCANSitu:altFilterHigh:1
 PLUGIN:VATCANSitu:altFilterLow:1
 PLUGIN:VATCANSitu:DisplayTypeName:GND
