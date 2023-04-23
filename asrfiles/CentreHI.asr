@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tyson\Documents\EuroScope\CANscope\CZYZ\TorontoFiles-2213\CZYZ.sct
+SECTORFILE:
 SECTORTITLE:CZYZ.sct
 ARTCC boundary:Border with USA High:
 ARTCC boundary:Canada High:
@@ -11,7 +11,6 @@ ARTCC boundary:ZWGZYZ:
 ARTCC high boundary:High Sectors:
 ARTCC high boundary:ZBW Splits:
 ARTCC high boundary:ZMP Splits:
-ARTCC high boundary:ZOB High Splits:
 ARTCC high boundary:ZUL Splits:
 ARTCC low boundary:ZOB High Split:
 Fixes:ADVIK:symbol
@@ -145,6 +144,7 @@ Fixes:ZOHAN:symbol
 NDBs:YUY:symbol
 Stars:Quebec Airways:
 Stars:Sault Corridor:
+Stars:ZOB High Splits:
 VORs:APN:symbol
 VORs:ART:symbol
 VORs:BUF:symbol
@@ -188,7 +188,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
-WINDOWAREA:41.386606:-90.125175:49.754176:-68.584427
+WINDOWAREA:39.957965:-93.769466:50.417428:-66.843531
 PLUGIN:VATCANSitu:altFilterHigh:0
 PLUGIN:VATCANSitu:altFilterLow:7
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tyson\Documents\EuroScope\CANscope\CZYZ\TorontoFiles-2213\CZYZ.sct
+SECTORFILE:
 SECTORTITLE:CZYZ.sct
 Free Text:Apron Taxilanes - CYYZ\1:freetext
 Free Text:Apron Taxilanes - CYYZ\10:freetext
