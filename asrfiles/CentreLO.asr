@@ -121,7 +121,6 @@ Fixes:MIXUT:symbol
 Fixes:MONEE:symbol
 Fixes:MUSIT:symbol
 Fixes:NADUM:symbol
-Fixes:NAKBU:symbol
 Fixes:NOPOT:symbol
 Fixes:NUBAM:symbol
 Fixes:NUBER:symbol
@@ -173,7 +172,6 @@ Fixes:URSSA:symbol
 Fixes:VERDO:symbol
 Fixes:VERTI:symbol
 Fixes:VITOV:symbol
-Fixes:WALAC:symbol
 Fixes:WALPP:symbol
 Fixes:WILRD:symbol
 Fixes:WOZEE:symbol
@@ -197,7 +195,6 @@ Low airways:V45:line
 Low airways:V483:line
 Low airways:V487:line
 Low airways:V84:line
-NDBs:YLD:symbol
 NDBs:YPQ:symbol
 NDBs:YTA:symbol
 NDBs:YTR:symbol
@@ -283,6 +280,6 @@ DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
 WINDOWAREA:38.070102:-97.434650:51.144429:-63.777238
-PLUGIN:VATCANSitu:altFilterHigh:0
-PLUGIN:VATCANSitu:altFilterLow:7
+PLUGIN:VATCANSitu:altFilterHigh:999
+PLUGIN:VATCANSitu:altFilterLow:6
 PLUGIN:VATCANSitu:DisplayTypeName:IFR
