@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -133,6 +132,7 @@ Free Text:SCT2\  •  :freetext
 Free Text:SCT2\  •  :freetext
 Free Text:SCT2\  •  :freetext
 Free Text:SCT2\  •  :freetext
+Free Text:SCT2\¤:freetext
 Geo:Shoreline:
 Runways:CNC3 08-26:centerline
 Runways:CNC3 15-33:centerline
@@ -193,7 +193,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
-WINDOWAREA:42.837795:-81.820585:44.602342:-77.204773
+WINDOWAREA:43.245419:-80.751017:44.148867:-78.397007
 PLUGIN:VATCANSitu:altFilterHigh:245
 PLUGIN:VATCANSitu:altFilterLow:6
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

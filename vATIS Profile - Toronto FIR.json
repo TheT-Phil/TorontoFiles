@@ -1518,7 +1518,7 @@
         {
           "id": "77d538bf-e1e8-4830-94c8-0d529af5612b",
           "name": "RUNWAY 06/12",
-          "airportConditions": "APCH RNAV Z RWY 06. CAUTION, APPROACHES MAY BE IN PROGRESS TO ANY RUNWAY. LDG RWY 06 AND DEP RWY 12.",
+          "airportConditions": "APCH RNAV Z RWY 06. CAUTN, APPROACHES MAY BE IN PROGRESS TO ANY RUNWAY. LDG RWY 06 AND DEP RWY 12.",
           "template": "CYHM ATIS [ID] [TIME] [WX] [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
             "enabled": false
@@ -1527,7 +1527,7 @@
         {
           "id": "253d2439-ef81-4ca8-b74f-f447e478885e",
           "name": "RUNWAY 24/30",
-          "airportConditions": "APCH RNAV Z RWY 24. CAUTION, APPROACHES MAY BE IN PROGRESS TO ANY RUNWAY. LDG RWY 24 AND DEP RWY 30.",
+          "airportConditions": "APCH RNAV Z RWY 24. CAUTN, APPROACHES MAY BE IN PROGRESS TO ANY RUNWAY. LDG RWY 24 AND DEP RWY 30.",
           "template": "CYHM ATIS [ID] [TIME] [WX] [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
             "enabled": false

@@ -1,4 +1,11 @@
 ************************
+* CZYZ 2308 10/08/2023 *
+************************
+-Updated to AIRAC 2308
+-Adjust BA Sector dimentions
+-Add CYYZ vector fixes and ground network for sweatbox compatibility (ZZ)
+
+************************
 * CZYZ 2306 15/06/2023 *
 ************************
 -Updated to AIRAC 2306

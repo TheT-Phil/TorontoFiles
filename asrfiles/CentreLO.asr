@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -41,14 +40,22 @@ Fixes:ADRIE:symbol
 Fixes:AGDUT:symbol
 Fixes:AGLIN:symbol
 Fixes:AGNEX:symbol
+Fixes:AGNOB:symbol
 Fixes:AHPAH:symbol
 Fixes:AIRRA:symbol
 Fixes:ALONI:symbol
+Fixes:ALVUS:symbol
 Fixes:ANCOL:symbol
 Fixes:APDAX:symbol
+Fixes:APNEL:symbol
+Fixes:AVALE:symbol
 Fixes:AVSEP:symbol
 Fixes:AXOBU:symbol
 Fixes:AXXIS:symbol
+Fixes:BBOXX:symbol
+Fixes:BESID:symbol
+Fixes:BETES:symbol
+Fixes:BETUL:symbol
 Fixes:BIGBE:symbol
 Fixes:BILII:symbol
 Fixes:BIMRO:symbol
@@ -60,28 +67,38 @@ Fixes:BOMET:symbol
 Fixes:BOSEP:symbol
 Fixes:BOXUM:symbol
 Fixes:BUDAG:symbol
+Fixes:CATGA:symbol
+Fixes:DARID:symbol
 Fixes:DAVSI:symbol
 Fixes:DEDKI:symbol
 Fixes:DERLO:symbol
 Fixes:DESKI:symbol
 Fixes:DUGBU:symbol
 Fixes:DUSOM:symbol
-Fixes:EBDOG:symbol
+Fixes:EBGAG:symbol
 Fixes:EBKIN:symbol
 Fixes:ELSUB:symbol
+Fixes:EMDEX:symbol
 Fixes:EPMOK:symbol
 Fixes:EPRES:symbol
 Fixes:EPTOS:symbol
+Fixes:ERBEL:symbol
 Fixes:FINGL:symbol
 Fixes:FOXEE:symbol
 Fixes:FRALK:symbol
 Fixes:GGUCE:symbol
 Fixes:GNTRY:symbol
+Fixes:GOPAK:symbol
+Fixes:GOPUP:symbol
 Fixes:GOTIP:symbol
 Fixes:GRIBY:symbol
 Fixes:HANKY:symbol
 Fixes:HAVOK:symbol
+Fixes:HHIPP:symbol
+Fixes:HITAM:symbol
 Fixes:HOCKE:symbol
+Fixes:IGSAP:symbol
+Fixes:IGSEB:symbol
 Fixes:IGSUB:symbol
 Fixes:IGVUD:symbol
 Fixes:IKLAX:symbol
@@ -92,38 +109,53 @@ Fixes:IMEBA:symbol
 Fixes:IMIXA:symbol
 Fixes:IPTOS:symbol
 Fixes:IRKIM:symbol
+Fixes:ISTON:symbol
 Fixes:JUNIS:symbol
 Fixes:KANUR:symbol
+Fixes:KARIT:symbol
 Fixes:KASED:symbol
 Fixes:KATNO:symbol
 Fixes:KATTY:symbol
 Fixes:KEBMA:symbol
-Fixes:KEMVI:symbol
 Fixes:KENDI:symbol
 Fixes:KENLU:symbol
+Fixes:KEPTA:symbol
 Fixes:KICKS:symbol
+Fixes:KISEP:symbol
 Fixes:KISUK:symbol
+Fixes:KNOOK:symbol
 Fixes:LANRK:symbol
 Fixes:LEPOS:symbol
 Fixes:LETAK:symbol
+Fixes:LETOR:symbol
 Fixes:LETUS:symbol
+Fixes:LIBEM:symbol
 Fixes:LINNG:symbol
 Fixes:LOKPU:symbol
 Fixes:LORKA:symbol
 Fixes:LOYED:symbol
+Fixes:LUNGE:symbol
 Fixes:MARGN:symbol
 Fixes:MENTI:symbol
 Fixes:MEPKA:symbol
 Fixes:MIGLO:symbol
+Fixes:MIKKY:symbol
 Fixes:MIVOK:symbol
 Fixes:MIXAK:symbol
 Fixes:MIXUT:symbol
 Fixes:MONEE:symbol
 Fixes:MUSIT:symbol
+Fixes:MYPAL:symbol
+Fixes:NAASH:symbol
 Fixes:NADUM:symbol
+Fixes:NAKAL:symbol
+Fixes:NAKBO:symbol
 Fixes:NOPOT:symbol
+Fixes:NOSIK:symbol
 Fixes:NUBAM:symbol
 Fixes:NUBER:symbol
+Fixes:NUGID:symbol
+Fixes:NUGOP:symbol
 Fixes:OAKVL:symbol
 Fixes:OLABA:symbol
 Fixes:OLAMO:symbol
@@ -134,7 +166,12 @@ Fixes:OVORA:symbol
 Fixes:OXASA:symbol
 Fixes:OXMAN:symbol
 Fixes:PELSU:symbol
+Fixes:PEMBA:symbol
+Fixes:PEPMA:symbol
+Fixes:PERGI:symbol
 Fixes:PICUP:symbol
+Fixes:PINES:symbol
+Fixes:PNLTE:symbol
 Fixes:POLTY:symbol
 Fixes:QWERI:symbol
 Fixes:RABAV:symbol
@@ -142,36 +179,53 @@ Fixes:RAGID:symbol
 Fixes:RAKAM:symbol
 Fixes:RAKAP:symbol
 Fixes:REEDO:symbol
+Fixes:REEFY:symbol
 Fixes:REVUD:symbol
 Fixes:REZIN:symbol
+Fixes:RIBIR:symbol
+Fixes:RIGUS:symbol
 Fixes:RIKEM:symbol
+Fixes:RNAND:symbol
 Fixes:ROSVO:symbol
+Fixes:SAMYL:symbol
+Fixes:SANIN:symbol
 Fixes:SASID:symbol
 Fixes:SASOB:symbol
 Fixes:SEDOG:symbol
+Fixes:SETGO:symbol
 Fixes:SETVO:symbol
+Fixes:SEVBI:symbol
+Fixes:SHHOT:symbol
+Fixes:SIGOE:symbol
 Fixes:SILVU:symbol
 Fixes:SLLAP:symbol
 Fixes:SSENA:symbol
+Fixes:TADMO:symbol
+Fixes:TAGUM:symbol
 Fixes:TAKOL:symbol
 Fixes:TALEB:symbol
 Fixes:TANGI:symbol
 Fixes:TESUK:symbol
+Fixes:TEVAD:symbol
 Fixes:TIGET:symbol
+Fixes:TMILS:symbol
 Fixes:TONNY:symbol
 Fixes:TORNI:symbol
+Fixes:TUDAN:symbol
 Fixes:TUKIR:symbol
 Fixes:TULEG:symbol
 Fixes:TULEK:symbol
 Fixes:UDMUG:symbol
+Fixes:UDNOX:symbol
 Fixes:UKNIX:symbol
-Fixes:UKPAG:symbol
 Fixes:ULBUX:symbol
 Fixes:URSAL:symbol
 Fixes:URSSA:symbol
 Fixes:VERDO:symbol
 Fixes:VERTI:symbol
+Fixes:VIBLI:symbol
 Fixes:VITOV:symbol
+Fixes:WAGGO:symbol
 Fixes:WALPP:symbol
 Fixes:WILRD:symbol
 Fixes:WOZEE:symbol
@@ -179,22 +233,22 @@ Fixes:XEXUL:symbol
 Fixes:YEE:symbol
 Fixes:YZEMN:symbol
 Fixes:ZOHAN:symbol
+Free Text:SCT2\¤:freetext
+Free Text:SCT2\¤:freetext
+Free Text:SCT2\¤:freetext
+Free Text:SCT2\¤:freetext
+Free Text:SCT2\¤:freetext
 Low airways:B7:line
 Low airways:V13:line
-Low airways:V147:line
 Low airways:V193:line
-Low airways:V252:line
 Low airways:V300:line
 Low airways:V332:line
-Low airways:V34:line
 Low airways:V348:line
 Low airways:V36:line
 Low airways:V365:line
 Low airways:V37:line
 Low airways:V45:line
-Low airways:V483:line
 Low airways:V487:line
-Low airways:V84:line
 NDBs:YPQ:symbol
 NDBs:YTA:symbol
 NDBs:YTR:symbol
@@ -229,7 +283,6 @@ Stars:SIDs SEDOG/LAKES (transitions):
 Stars:SIDs TEVAD (transitions):
 Stars:SIDs VERDO (transitions):
 Stars:STARs BOXUM/DUVOS Transitions:
-Stars:STARs ILIXU Transitions:
 Stars:STARs IMEBA/VIBLI Transitions:
 Stars:STARs LINNG/VERKO Transitions:
 Stars:STARs NUBER/NAKBO Transitions:
@@ -258,7 +311,6 @@ VORs:YGQ:symbol
 VORs:YMO:symbol
 VORs:YOW:symbol
 VORs:YQT:symbol
-VORs:YSP:symbol
 VORs:YTS:symbol
 VORs:YUL:symbol
 VORs:YVO:symbol
@@ -279,7 +331,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
-WINDOWAREA:38.070102:-97.434650:51.144429:-63.777238
+WINDOWAREA:39.726193:-101.131923:55.872965:-59.060157
 PLUGIN:VATCANSitu:altFilterHigh:999
 PLUGIN:VATCANSitu:altFilterLow:6
 PLUGIN:VATCANSitu:DisplayTypeName:IFR
