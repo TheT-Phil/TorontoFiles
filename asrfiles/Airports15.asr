@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -48,13 +47,11 @@ Fixes:BILII:symbol
 Fixes:BIMRO:symbol
 Fixes:BLUEZ:symbol
 Fixes:BMPAH:symbol
-Fixes:BOBRA:symbol
 Fixes:BOBSU:symbol
 Fixes:BOLMO:symbol
 Fixes:BOMET:symbol
 Fixes:BOSEP:symbol
 Fixes:BOXUM:symbol
-Fixes:DEBUM:symbol
 Fixes:DEDKI:symbol
 Fixes:DERLO:symbol
 Fixes:DESKI:symbol
@@ -88,7 +85,6 @@ Fixes:KATTY:symbol
 Fixes:KENLU:symbol
 Fixes:LEPOS:symbol
 Fixes:LETAK:symbol
-Fixes:LIDAG:symbol
 Fixes:LINNG:symbol
 Fixes:LORKA:symbol
 Fixes:MARGN:symbol
@@ -214,6 +210,7 @@ Free Text:SCT2\  •  :freetext
 Free Text:SCT2\  •  :freetext
 Free Text:SCT2\  •  :freetext
 Free Text:SCT2\  •  :freetext
+Free Text:SCT2\¤:freetext
 Geo:Shoreline:
 Low airways:B7:line
 Low airways:V13:line
@@ -226,8 +223,6 @@ Low airways:V365:line
 Low airways:V37:line
 Low airways:V45:line
 Low airways:V487:line
-Low airways:V8:line
-NDBs:YLD:symbol
 NDBs:YPQ:symbol
 NDBs:YTA:symbol
 NDBs:YTR:symbol
@@ -312,13 +307,10 @@ VORs:SSM:symbol
 VORs:SYR:symbol
 VORs:UTR:symbol
 VORs:VIE:symbol
-VORs:YEE:symbol
 VORs:YGQ:symbol
 VORs:YMO:symbol
-VORs:YMS:symbol
 VORs:YOW:symbol
 VORs:YQT:symbol
-VORs:YSP:symbol
 VORs:YTS:symbol
 VORs:YUL:symbol
 VORs:YVO:symbol
