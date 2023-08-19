@@ -1,9 +1,15 @@
 ************************
 * CZYZ 2308 10/08/2023 *
 ************************
+-v1:
 -Updated to AIRAC 2308
 -Adjust BA Sector dimentions
 -Add CYYZ vector fixes and ground network for sweatbox compatibility (ZZ)
+-v2:
+-Add TZ tower split
+-Update WG, UL, BW sectors
+-UL owner of all designated airspace
+-Remove OW logon positions
 
 ************************
 * CZYZ 2306 15/06/2023 *
