@@ -179,31 +179,39 @@ PROFILE:CYYZ_S_TWR:50:4
 ATIS2:Toronto Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYYZ_GND:25:3
+PROFILE:CYYZ_GND:20:3
 ATIS2:Toronto Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYYZ_N_GND:25:3
+PROFILE:CYYZ_N_GND:20:3
 ATIS2:Toronto Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYYZ_S_GND:25:3
+PROFILE:CYYZ_S_GND:20:3
 ATIS2:Toronto Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYYZ_DEL:10:2
+PROFILE:CYYZ_DEL:20:2
 ATIS2:Toronto Clearance
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:YYZ_AP_GND:25:3
+PROFILE:YYZ_NA_GND:20:3
 ATIS2:Toronto Apron
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:YYZ_NA_GND:25:3
+PROFILE:YYZ_SA_GND:20:3
 ATIS2:Toronto Apron
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:YYZ_SA_GND:25:3
+PROFILE:CYYZ_RMP:20:3
+ATIS2:Toronto Apron
+ATIS3:Charts and Info - www.torontofir.ca
+ATIS4:
+PROFILE:CYYZ_N_RMP:20:3
+ATIS2:Toronto Apron
+ATIS3:Charts and Info - www.torontofir.ca
+ATIS4:
+PROFILE:CYYZ_S_RMP:20:3
 ATIS2:Toronto Apron
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
@@ -219,7 +227,7 @@ PROFILE:CYTZ_S_TWR:50:4
 ATIS2:City Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYTZ_GND:25:3
+PROFILE:CYTZ_GND:20:3
 ATIS2:City Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
@@ -227,7 +235,7 @@ PROFILE:CYKF_TWR:50:4
 ATIS2:Waterloo Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYKF_GND:25:3
+PROFILE:CYKF_GND:20:3
 ATIS2:Waterloo Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
@@ -235,7 +243,7 @@ PROFILE:CYXU_TWR:50:4
 ATIS2:London Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYXU_GND:25:3
+PROFILE:CYXU_GND:20:3
 ATIS2:London Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
@@ -243,7 +251,7 @@ PROFILE:CYOO_TWR:50:4
 ATIS2:Oshawa Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYOO_GND:25:3
+PROFILE:CYOO_GND:20:3
 ATIS2:Oshawa Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
@@ -251,7 +259,7 @@ PROFILE:CYHM_TWR:50:4
 ATIS2:Hamilton Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYHM_GND:25:3
+PROFILE:CYHM_GND:20:3
 ATIS2:Hamilton Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
@@ -263,11 +271,11 @@ PROFILE:CYTR_TWR:50:4
 ATIS2:Trenton Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYTR_GND:25:3
+PROFILE:CYTR_GND:20:3
 ATIS2:Trenton Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYTR_DEL:10:2
+PROFILE:CYTR_DEL:20:2
 ATIS2:Trenton Clearance
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
@@ -275,7 +283,7 @@ PROFILE:CYAM_TWR:50:4
 ATIS2:Sault Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYAM_GND:25:3
+PROFILE:CYAM_GND:20:3
 ATIS2:Sault Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
@@ -283,7 +291,7 @@ PROFILE:CYQG_TWR:50:4
 ATIS2:Windsor Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:CYQG_GND:25:3
+PROFILE:CYQG_GND:20:3
 ATIS2:Windsor Ground
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
