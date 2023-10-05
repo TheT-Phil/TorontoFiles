@@ -101,7 +101,7 @@
 #define final 16777215
 
 [INFO]
-CZYZ 2308 10/08/2023 ;DD/MM/YYYY
+CZYZ 2310 05/10/2023 ;DD/MM/YYYY
 CZYZ_CTR
 CYYZ
 N043.39.29.000
@@ -1882,6 +1882,7 @@ ILEBU	N045.21.10.250 W075.34.59.680 ;CYOW
 ILEGI	N043.38.25.320 W079.13.54.080 ;CYTZ
 ILEMU	N045.15.15.000 W076.52.44.000 
 ILEPU	N045.09.42.760 W076.11.40.390 ;CYRP
+ILERI   N042.18.46.200 W082.52.04.000 ;CYQG
 ILIKI	N045.26.13.650 W075.45.08.540 ;CYOW
 ILIMO	N043.21.18.590 W079.12.20.790 ;CYYZ
 ILIVO	N044.20.48.900 W081.03.01.170 ;CYHS
@@ -2940,6 +2941,7 @@ VIDRO	N043.59.05.000 W079.11.18.000 ;CYYZ
 VIDVI	N049.08.40.700 W081.07.03.260 ;CYCN
 VIGPO	N042.55.05.410 W079.34.32.120 ;CNQ3
 VIGSA	N043.43.16.810 W079.13.16.840 ;CYKZ
+VIGVA   N042.22.54.100 W082.41.17.000 ;CYQG
 VIKBA	N045.51.02.250 W082.11.51.560 ;CYZE
 VIKDA	N047.39.49.990 W079.56.46.710 ;CYXR
 VIKLA	N044.49.47.260 W075.43.43.410 ;CNL3
@@ -32343,8 +32345,7 @@ STARs NUBER/NAKBO Transitions YZEMN      YZEMN          SHHOT          SHHOT    
                           MONEE          MONEE          SHHOT          SHHOT          Star
                           SHHOT          SHHOT          PNLTE          PNLTE          Star
                           PNLTE          PNLTE          BBOXX          BBOXX          Star
-                          BBOXX          BBOXX          EBGAG          EBGAG          Star
-                          EBGAG          EBGAG          NAKBO          NAKBO          Star
+                          BBOXX          BBOXX          NAKBO          NAKBO          Star
                           NAKBO          NAKBO          NUBER          NUBER          Star
                           APDAX          APDAX          NUBER          NUBER          Star
                           QWERI          QWERI          KNOOK          KNOOK          Star

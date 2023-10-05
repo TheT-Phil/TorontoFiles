@@ -1,4 +1,16 @@
 ************************
+* CZYZ 2310 05/10/2023 *
+************************
+-Updated to AIRAC 2310
+-Fixed the position and updated squawk range
+-Deactivate TR radar
+-Fixed CLE Splits?? (maybe)
+-Added RMP position
+-Removed all dupe .xx0 freqs
+-CYYZ
+	- Updated to NUBER/NAKBO6 and removed EBGAG waypoint 
+
+************************
 * CZYZ 2308 10/08/2023 *
 ************************
 -v1:
