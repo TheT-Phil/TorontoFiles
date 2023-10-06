@@ -232,6 +232,7 @@ Fixes:XEXUL:symbol
 Fixes:YEE:symbol
 Fixes:YZEMN:symbol
 Fixes:ZOHAN:symbol
+Free Text:SCT2\  •  :freetext
 Free Text:SCT2\¤:freetext
 Free Text:SCT2\¤:freetext
 Free Text:SCT2\¤:freetext
@@ -264,7 +265,6 @@ Runways:CYTR 06-24:centerline
 Runways:CYXU 09-27:centerline
 Runways:CYXU 15-33:centerline
 Stars:Airport Speciality:
-Stars:Airport Toronto (TCA):
 Stars:Control Zones (All):
 Stars:SIDs ANCOL/PERLO (transitions):
 Stars:SIDs AVSEP/NUGOP (transitions):
