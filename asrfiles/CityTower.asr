@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
+SECTORFILE:C:\Users\Tristan\Desktop\TorontoFiles\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -21,20 +21,14 @@ Airports:CYZE:symbol
 Airports:CYZR:symbol
 ARTCC boundary:Control Zones:
 ARTCC low boundary:Restricted Airspace:
-Fixes:ALGUR:name
-Fixes:ALGUR:symbol
-Fixes:ALKEG:name
-Fixes:ALKEG:symbol
-Fixes:OMTEX:name
-Fixes:OMTEX:symbol
-Fixes:RABIX:name
-Fixes:RABIX:symbol
-Fixes:VIPRI:name
-Fixes:VIPRI:symbol
 Free Text:SCT2\/\:freetext
 Free Text:SCT2\/\:freetext
 Free Text:SCT2\/\:freetext
 Free Text:SCT2\/\:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\H:freetext
 Free Text:SCT2\H:freetext
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
@@ -158,6 +152,49 @@ Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
 Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:SCT2\•:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
+Free Text:VFR Callup Points\+:freetext
 Free Text:VFR Callup Points\+:freetext
 Free Text:VFR Callup Points\+:freetext
 Free Text:VFR Callup Points\+:freetext
@@ -215,7 +252,6 @@ Free Text:VFR Callup Points\+:freetext
 Geo:City Box:
 Geo:Toronto Highways:
 Geo:Toronto Shoreline:
-NDBs:TZ:symbol
 Runways:CNC3 08-26:centerline
 Runways:CNC3 15-33:centerline
 Runways:CYAM 04-22:centerline
@@ -257,7 +293,6 @@ Stars:Control Zones (All):
 Stars:Control Zones (CYQG):
 Stars:Control Zones (KCIU):
 Stars:Control Zones (Toronto):
-Stars:CYTZ LOC 26:
 Stars:YYZ Zone Exclusion:
 SHOWC:1
 SHOWSB:0
