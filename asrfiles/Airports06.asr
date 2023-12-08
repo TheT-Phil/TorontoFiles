@@ -211,6 +211,10 @@ Free Text:SCT2\  •  :freetext
 Free Text:SCT2\  •  :freetext
 Free Text:SCT2\  •  :freetext
 Free Text:SCT2\¤:freetext
+Free Text:SCT2\¤:freetext
+Free Text:SCT2\¤:freetext
+Free Text:SCT2\¤:freetext
+Free Text:SCT2\¤:freetext
 Geo:Shoreline:
 Low airways:B7:line
 Low airways:V13:line
@@ -219,14 +223,16 @@ Low airways:V300:line
 Low airways:V332:line
 Low airways:V348:line
 Low airways:V36:line
-Low airways:V365:line
 Low airways:V37:line
 Low airways:V45:line
 Low airways:V487:line
+NDBs:HM:symbol
 NDBs:YPQ:symbol
 NDBs:YTA:symbol
 NDBs:YTR:symbol
 NDBs:YUY:symbol
+NDBs:ZHA:symbol
+NDBs:ZHM:symbol
 Runways:CNC3 08-26:centerline
 Runways:CNC3 15-33:centerline
 Runways:CNC4 05-23:centerline
@@ -248,8 +254,6 @@ Runways:CYHM 06-24:centerline
 Runways:CYHM 12-30:centerline
 Runways:CYKF 08-26:centerline
 Runways:CYKF 14-32:centerline
-Runways:CYKZ 03-21:centerline
-Runways:CYKZ 15-33:centerline
 Runways:CYND 09-27:centerline
 Runways:CYOO 05-23:centerline
 Runways:CYOO 12-30:centerline
@@ -295,7 +299,6 @@ Stars:Tango Airways:
 Stars:Terminal Config 05/06:
 VORs:APN:symbol
 VORs:ART:symbol
-VORs:BUF:symbol
 VORs:ECK:symbol
 VORs:ERI:symbol
 VORs:FNT:symbol
@@ -306,7 +309,6 @@ VORs:SAW:symbol
 VORs:SSM:symbol
 VORs:SYR:symbol
 VORs:UTR:symbol
-VORs:VIE:symbol
 VORs:YGQ:symbol
 VORs:YMO:symbol
 VORs:YOW:symbol
@@ -316,8 +318,6 @@ VORs:YUL:symbol
 VORs:YVO:symbol
 VORs:YVV:symbol
 VORs:YXU:symbol
-VORs:YXZ:symbol
-VORs:YYB:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
