@@ -140,7 +140,6 @@ Fixes:MEPKA:symbol
 Fixes:MIGLO:symbol
 Fixes:MIKKY:symbol
 Fixes:MIVOK:symbol
-Fixes:MIXAK:symbol
 Fixes:MIXUT:symbol
 Fixes:MONEE:symbol
 Fixes:MUSIT:symbol
@@ -149,6 +148,7 @@ Fixes:NAASH:symbol
 Fixes:NADUM:symbol
 Fixes:NAKAL:symbol
 Fixes:NAKBO:symbol
+Fixes:NAKBU:symbol
 Fixes:NOPOT:symbol
 Fixes:NOSIK:symbol
 Fixes:NUBAM:symbol
@@ -199,6 +199,7 @@ Fixes:SIGOE:symbol
 Fixes:SILVU:symbol
 Fixes:SLLAP:symbol
 Fixes:SSENA:symbol
+Fixes:SUXEB:symbol
 Fixes:TADMO:symbol
 Fixes:TAGUM:symbol
 Fixes:TAKOL:symbol
@@ -217,7 +218,6 @@ Fixes:TULEK:symbol
 Fixes:UDMUG:symbol
 Fixes:UDNOX:symbol
 Fixes:UKNIX:symbol
-Fixes:ULBUX:symbol
 Fixes:URSAL:symbol
 Fixes:URSSA:symbol
 Fixes:VERDO:symbol
@@ -232,7 +232,6 @@ Fixes:XEXUL:symbol
 Fixes:YEE:symbol
 Fixes:YZEMN:symbol
 Fixes:ZOHAN:symbol
-Free Text:SCT2\  •  :freetext
 Free Text:SCT2\¤:freetext
 Free Text:SCT2\¤:freetext
 Free Text:SCT2\¤:freetext
@@ -245,7 +244,6 @@ Low airways:V300:line
 Low airways:V332:line
 Low airways:V348:line
 Low airways:V36:line
-Low airways:V365:line
 Low airways:V37:line
 Low airways:V45:line
 Low airways:V487:line
@@ -264,8 +262,15 @@ Runways:CYOO 12-30:centerline
 Runways:CYTR 06-24:centerline
 Runways:CYXU 09-27:centerline
 Runways:CYXU 15-33:centerline
+Runways:CYYZ 05-23:centerline
+Runways:CYYZ 06L-24R:centerline
+Runways:CYYZ 06R-24L:centerline
+Runways:CYYZ 15L-33R:centerline
+Runways:CYYZ 15R-33L:centerline
 Stars:Airport Speciality:
+Stars:Airport Toronto (TCA):
 Stars:Control Zones (All):
+Stars:Sault Corridor:
 Stars:SIDs ANCOL/PERLO (transitions):
 Stars:SIDs AVSEP/NUGOP (transitions):
 Stars:SIDs BETES/OAKVL (transitions):
@@ -290,7 +295,6 @@ Stars:STARs RAGID/UNDOX Transitions:
 Stars:Tango Airways:
 VORs:APN:symbol
 VORs:ART:symbol
-VORs:BUF:symbol
 VORs:CMX:symbol
 VORs:ECK:symbol
 VORs:ERI:symbol
@@ -306,7 +310,6 @@ VORs:SSM:symbol
 VORs:SVM:symbol
 VORs:SYR:symbol
 VORs:UTR:symbol
-VORs:VIE:symbol
 VORs:YGQ:symbol
 VORs:YMO:symbol
 VORs:YOW:symbol
@@ -316,8 +319,6 @@ VORs:YUL:symbol
 VORs:YVO:symbol
 VORs:YVV:symbol
 VORs:YXU:symbol
-VORs:YXZ:symbol
-VORs:YYB:symbol
 SHOWC:0
 SHOWSB:0
 BELOW:0

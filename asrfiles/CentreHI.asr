@@ -22,7 +22,6 @@ Fixes:AXXIS:symbol
 Fixes:BEMOG:symbol
 Fixes:BERYS:symbol
 Fixes:BESEL:symbol
-Fixes:BMPAH:symbol
 Fixes:BOBTA:symbol
 Fixes:BOMET:symbol
 Fixes:BOOTT:symbol
@@ -76,6 +75,7 @@ Fixes:KARIT:symbol
 Fixes:KATEK:symbol
 Fixes:KELTI:symbol
 Fixes:KENLU:symbol
+Fixes:KENPA:symbol
 Fixes:KISUK:symbol
 Fixes:KITOK:symbol
 Fixes:LETAK:symbol
@@ -91,11 +91,13 @@ Fixes:MUSIT:symbol
 Fixes:NAGNO:symbol
 Fixes:NOPOT:symbol
 Fixes:NOSIK:symbol
+Fixes:NOTAP:symbol
 Fixes:OLABA:symbol
 Fixes:OLIGO:symbol
 Fixes:OMRAK:symbol
 Fixes:OTONA:symbol
 Fixes:OVORA:symbol
+Fixes:OXASA:symbol
 Fixes:PADDE:symbol
 Fixes:PELSU:symbol
 Fixes:PEPLA:symbol
@@ -127,14 +129,15 @@ Fixes:TALEB:symbol
 Fixes:TANGI:symbol
 Fixes:TANKO:symbol
 Fixes:TIGET:symbol
+Fixes:TORNI:symbol
 Fixes:TUKIR:symbol
 Fixes:TULEG:symbol
 Fixes:TWIGS:symbol
 Fixes:UDGAK:symbol
 Fixes:UDMUG:symbol
 Fixes:ULBUX:symbol
+Fixes:ULUTO:symbol
 Fixes:VERTI:symbol
-Fixes:VESRU:symbol
 Fixes:VIBRU:symbol
 Fixes:WAYGO:symbol
 Fixes:WOZEE:symbol
@@ -146,7 +149,6 @@ Stars:Sault Corridor:
 Stars:ZOB High Splits:
 VORs:APN:symbol
 VORs:ART:symbol
-VORs:BUF:symbol
 VORs:CMX:symbol
 VORs:ECK:symbol
 VORs:ERI:symbol
@@ -162,7 +164,6 @@ VORs:SSM:symbol
 VORs:SVM:symbol
 VORs:SYR:symbol
 VORs:UTR:symbol
-VORs:VIE:symbol
 VORs:YGQ:symbol
 VORs:YMO:symbol
 VORs:YOW:symbol
@@ -172,8 +173,6 @@ VORs:YUL:symbol
 VORs:YVO:symbol
 VORs:YVV:symbol
 VORs:YXU:symbol
-VORs:YXZ:symbol
-VORs:YYB:symbol
 SHOWC:0
 SHOWSB:0
 BELOW:0
