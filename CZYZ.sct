@@ -1409,7 +1409,6 @@ BEVEB	N045.49.10.060 W082.50.06.370 ;CYZE
 BEWEL	N042.17.20.300 W080.44.42.500 ;J70
 BEXUX	N047.26.57.500 W079.26.03.930 ;CTA4
 BGHRT	N040.38.60.000 W087.55.60.000 ;CYQG
-BIGBE	N044.08.00.000 W080.36.58.000 
 BILII	N049.01.15.400 W088.15.42.100 ;V13
 BIMKI	N043.16.00.090 W079.57.06.380 ;CYHM
 BIMPO	N043.32.39.160 W079.30.36.450 ;CYYZ
@@ -2691,6 +2690,7 @@ SELAP	N043.37.07.140 W079.54.39.260 ;CYYZ
 SELAM	N050.02.39.100 W079.44.07.300 ;CDT9
 SELBO	N049.10.00.000 W078.00.00.000 ;N712A
 SELEP	N049.06.18.760 W079.07.39.650 ;CSR8
+SELES   N045.26.30.300 W075.53.48.700 ;Q824
 SELUK	N044.23.52.680 W078.52.42.860 ;CNF4
 SEMRO	N046.16.42.000 W074.12.36.000 ;T660
 SEMTI	N043.47.10.000 W079.21.39.000 ;CYYZ
@@ -3112,7 +3112,6 @@ B7 YUY YUY EBDOG EBDOG
 B7 EBDOG EBDOG REZIN REZIN
 V13 YQT YQT REVUB REVUB
 V13 REVUB REVUB BILII BILII
-V36 YVV YVV BIGBE BIGBE
 V37 YTS YTS YMO YMO
 V45 SSM SSM APN APN
 V193 SSM SSM PLN PLN
@@ -20643,9 +20642,9 @@ Quebec Airways            N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.0
                           DUVEP          DUVEP          HOZIR          HOZIR          HighAirway
                           HOZIR          HOZIR          GONZZ          GONZZ          HighAirway
 ;Q824 
-                          YUL            YUL            YOW            YOW            HighAirway
+                          YUL            YUL            SELES          SELES          HighAirway
 ;Q824-848 
-                          YOW            YOW            LETAK          LETAK          HighAirway
+                          SELES          SELES          LETAK          LETAK          HighAirway
                           LETAK          LETAK          ILEMU          ILEMU          HighAirway
                           ILEMU          ILEMU          MENKO          MENKO          HighAirway
 ;Q824 
@@ -20792,8 +20791,8 @@ Tango Airways N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000
                           BOLMO          BOLMO          N043.32.01.146 W080.19.22.692 LowAirway
                           N043.24.30.987 W080.28.03.618 N043.11.02.766 W080.52.45.834 LowAirway
 ;T616
-                          YUL            YUL            YOW            YOW            LowAirway
-                          YOW            YOW            LETAK          LETAK          LowAirway
+                          YUL            YUL            SELES          SELES          LowAirway
+                          SELES          SELES          LETAK          LETAK          LowAirway
                           LETAK          LETAK          DESKI          DESKI          LowAirway
                           DESKI          DESKI          DUGBU          DUGBU          LowAirway
                           DUGBU          DUGBU          KENLU          KENLU          LowAirway
@@ -20865,6 +20864,9 @@ Tango Airways N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000
                           MIGLO          MIGLO          REEDO          REEDO          LowAirway
                           REEDO          REEDO          IGVUD          IGVUD          LowAirway
                           IGVUD          IGVUD          EPMOK          EPMOK          LowAirway
+;T739
+                          OLABA          OLABA          ALONI          ALONI          LowAirway
+                          ALONI          ALONI          KATEK          KATEK          LowAirway
 ;T744
                           OXASA          OXASA          OTONA          OTONA          LowAirway
                           OTONA          OTONA          ROSVO          ROSVO          LowAirway
@@ -20897,8 +20899,6 @@ Tango Airways N000.00.00.000 W000.00.00.000 N000.00.00.000 W000.00.00.000
                           NOPOT          NOPOT          TIGET          TIGET          LowAirway
                           TIGET          TIGER          IPTOS          IPTOS          LowAirway
                           IPTOS          IPTOS          VERTI          VERTI          LowAirway
-;T791
-                          OLABA          OLABA          ALONI          ALONI          LowAirway
 ;T803
                           OXASA          OXASA          REZIN          REZIN          LowAirway
 ;T820
@@ -26009,8 +26009,6 @@ STARs CAPTL (32)          LANRK          LANRK          VISOL          VISOL    
                           VOLAG          VOLAG          DUKTI          DUKTI          star
 ;
 STARs DEANS Transitions   ART            ART            CYRIL          CYRIL          star
-                          BUGSY          BUGSY          SAVAL          SAVAL          star
-                          SAVAL          SAVAL          TAPVO          TAPVO          star
                           TAPVO          TAPVO          CYRIL          CYRIL          star
 ;
 STARs DEANS (07)          CYRIL          CYRIL          CAVUR          CAVUR          star
