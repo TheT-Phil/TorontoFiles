@@ -1,4 +1,9 @@
 ************************
+* CZYZ 2401 25/01/2024 *
+************************
+-Updated to AIRAC 2401
+
+************************
 * CZYZ 2312 30/11/2023 *
 ************************
 -Updated to AIRAC 2312
@@ -14,8 +19,7 @@
 -Fixed CLE Splits?? (maybe)
 -Added RMP position
 -Removed all dupe .xx0 freqs
--CYYZ
-	- Updated to NUBER/NAKBO6 and removed EBGAG waypoint 
+-CYYZ: Updated to NUBER/NAKBO6 and removed EBGAG waypoint 
 
 ************************
 * CZYZ 2308 10/08/2023 *
@@ -25,7 +29,6 @@
 -Adjust BA Sector dimentions
 -Add CYYZ vector fixes and ground network for sweatbox compatibility (ZZ)
 -v2:
--Add TZ tower split
 -Update WG, UL, BW sectors
 -UL owner of all designated airspace
 -Remove OW logon positions
