@@ -191,6 +191,7 @@ Fixes:SANIN:symbol
 Fixes:SASID:symbol
 Fixes:SASOB:symbol
 Fixes:SEDOG:symbol
+Fixes:SELES:symbol
 Fixes:SETGO:symbol
 Fixes:SETVO:symbol
 Fixes:SEVBI:symbol
@@ -311,7 +312,6 @@ VORs:SYR:symbol
 VORs:UTR:symbol
 VORs:YGQ:symbol
 VORs:YMO:symbol
-VORs:YOW:symbol
 VORs:YQT:symbol
 VORs:YTS:symbol
 VORs:YUL:symbol

@@ -195,14 +195,6 @@ PROFILE:CYYZ_DEL:20:2
 ATIS2:Toronto Clearance
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
-PROFILE:YYZ_NA_GND:20:3
-ATIS2:Toronto Apron
-ATIS3:Charts and Info - www.torontofir.ca
-ATIS4:
-PROFILE:YYZ_SA_GND:20:3
-ATIS2:Toronto Apron
-ATIS3:Charts and Info - www.torontofir.ca
-ATIS4:
 PROFILE:CYYZ_RMP:20:3
 ATIS2:Toronto Apron
 ATIS3:Charts and Info - www.torontofir.ca
@@ -216,14 +208,6 @@ ATIS2:Toronto Apron
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:
 PROFILE:CYTZ_TWR:50:4
-ATIS2:City Tower
-ATIS3:Charts and Info - www.torontofir.ca
-ATIS4:
-PROFILE:CYTZ_N_TWR:50:4
-ATIS2:City Tower
-ATIS3:Charts and Info - www.torontofir.ca
-ATIS4:
-PROFILE:CYTZ_S_TWR:50:4
 ATIS2:City Tower
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:

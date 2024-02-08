@@ -120,6 +120,7 @@ Fixes:SASID:symbol
 Fixes:SAVAL:symbol
 Fixes:SAVEX:symbol
 Fixes:SEDOG:symbol
+Fixes:SELES:symbol
 Fixes:SENLU:symbol
 Fixes:SIKBO:symbol
 Fixes:SLLAP:symbol
@@ -166,7 +167,6 @@ VORs:SYR:symbol
 VORs:UTR:symbol
 VORs:YGQ:symbol
 VORs:YMO:symbol
-VORs:YOW:symbol
 VORs:YQT:symbol
 VORs:YTS:symbol
 VORs:YUL:symbol
