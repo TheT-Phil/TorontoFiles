@@ -1,4 +1,11 @@
 ************************
+* CZYZ 2401 21/03/2024 *
+************************
+-Updated to AIRAC 2403
+-Updated sector ownership for APP
+-Add new callsigns for TOR_AA_APP implementation
+
+************************
 * CZYZ 2401 25/01/2024 *
 ************************
 -Updated to AIRAC 2401

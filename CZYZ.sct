@@ -101,7 +101,7 @@
 #define final 16777215
 
 [INFO]
-CZYZ 2401 25/01/2024 ;DD/MM/YYYY
+CZYZ 2403 21/03/2024 ;DD/MM/YYYY
 CZYZ_CTR
 CYYZ
 N043.39.29.000
@@ -25826,6 +25826,8 @@ STARs CAPTL (32)          LANRK          LANRK          VISOL          VISOL    
                           VOLAG          VOLAG          DUKTI          DUKTI          star
 ;
 STARs DEANS Transitions   ART            ART            CYRIL          CYRIL          star
+                          BUGSY          BUGSY          SSENA          SSENA          star
+                          SSENA          SSENA          TAPVO          TAPVO          star
                           TAPVO          TAPVO          CYRIL          CYRIL          star
 ;
 STARs DEANS (07)          CYRIL          CYRIL          CAVUR          CAVUR          star

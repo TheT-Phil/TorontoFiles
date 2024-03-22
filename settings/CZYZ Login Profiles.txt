@@ -131,6 +131,22 @@ PROFILE:TOR_XU_APP:150:5
 ATIS2:Toronto Terminal
 ATIS3:Charts and Info - www.torontofir.ca
 ATIS4:Covering CYZR, CYXU, CYKF
+PROFILE:TOR_AA_APP:150:5
+ATIS2:Toronto Arrival
+ATIS3:Charts and Info - www.torontofir.ca
+ATIS4:
+PROFILE:TOR_AB_APP:150:5
+ATIS2:Toronto Arrival
+ATIS3:Charts and Info - www.torontofir.ca
+ATIS4:
+PROFILE:TOR_AC_APP:150:5
+ATIS2:Toronto Arrival
+ATIS3:Charts and Info - www.torontofir.ca
+ATIS4:
+PROFILE:TOR_SD_APP:150:5
+ATIS2:Toronto Departure
+ATIS3:Charts and Info - www.torontofir.ca
+ATIS4:
 PROFILE:TOR_APP:150:5
 ATIS2:Toronto Terminal
 ATIS3:Charts and Info - www.torontofir.ca
