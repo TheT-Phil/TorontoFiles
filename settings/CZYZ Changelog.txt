@@ -1,5 +1,12 @@
 ************************
-* CZYZ 2401 21/03/2024 *
+* CZYZ 2407 07/11/2024 *
+************************
+-Update Nav Data to AIRAC 2407
+-Added new RNAV Approaches to CEN4
+-Updated RNAV Approaches at CTA4
+-Update fixes
+************************
+* CZYZ 2403 21/03/2024 *
 ************************
 -Updated to AIRAC 2403
 -Updated sector ownership for APP
