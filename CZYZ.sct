@@ -1877,7 +1877,7 @@ IMEMO	N043.59.17.330 W078.49.52.530 ;CYOO
 IMIPA	N045.16.43.460 W075.31.38.870 ;CYOW
 IMIRU	N044.50.45.950 W076.06.15.350 ;CYSH
 IMIXA	N049.46.41.000 W084.35.28.000
-IMOBA	N046.30.38.400 W084.37.55.850 ;CYAM
+IMOBA	N046.30.38.548 W084.37.56.139 ;CYAM
 IMUBA	N045.46.40.710 W082.19.49.090 ;CYZE
 IMUMO	N044.10.00.660 W081.31.06.070 ;CYKM
 IMURA	N043.52.54.310 W080.10.14.050 ;CNC3
@@ -1900,6 +1900,7 @@ IRKIM	N044.49.55.000 W080.22.18.000
 IRKIN	N045.30.11.630 W075.39.51.500 ;CYND
 IRKUD	N043.16.51.380 W081.24.35.950 ;CYCE
 IRLIP	N042.07.08.200 W082.47.49.100 ;CYQG
+IRLOL   N046.21.19.771 W079.13.46.718 ;CYYB
 ISTON	N043.07.47.000 W079.03.52.000 ;CYYZ
 ITBIG	N042.16.08.800 W082.41.58.400 ;CYQG
 ITGAN	N046.33.03.580 W079.21.40.910 ;CYYB
@@ -2040,7 +2041,7 @@ LEPOS	N043.35.01.000 W081.38.48.000
 LEPUX	N044.04.15.000 W079.19.26.000 ;CYYZ
 LERAN	N043.22.14.590 W079.52.14.660 ;CYYZ
 LERAT	N043.56.02.000 W079.02.28.000 ;CYYZ
-LEREG	N046.32.27.170 W084.46.09.450 ;CYAM
+LEREG	N046.32.28.028 W084.46.12.799 ;CYAM
 LERER	N042.55.42.380 W080.44.15.560 ;CYTB
 LERUB	N048.01.49.360 W084.41.49.270 ;CYXZ
 LERUR	N045.22.18.520 W075.51.26.030 ;CYOW
@@ -2442,6 +2443,7 @@ PEMLU	N050.47.00.000 W080.00.00.000
 PEMPI	N045.45.56.480 W081.52.51.790 ;CYEM
 PENGO	N043.35.40.480 W079.52.21.020 ;CYYZ
 PENVI	N044.25.37.930 W076.46.17.920 ;CYGK
+PEPDO   N046.26.09.329 W084.40.59.030 ;CYAM
 PEPKU	N048.57.41.250 W086.01.51.350 ;CYMG
 PEPLA	N043.47.50.980 W080.00.53.560
 PEPMA	N045.00.32.000 W081.48.36.000 ;CYYZ
@@ -2601,6 +2603,7 @@ SAVOS	N043.36.26.250 W079.41.45.390 ;CYYZ
 SAVUB	N043.43.28.910 W081.26.51.470 ;CYGD
 SAVUR	N043.30.09.000 W079.35.14.000 ;CYYZ
 SAXIL	N043.18.14.120 W080.07.01.200 ;CYHM
+SAXIS   N046.24.00.089 W084.36.06.299 ;CYAM
 SAXUD	N045.19.33.610 W075.29.36.050 ;CYOW
 SEABS	N040.59.28.300 W085.17.27.300 ;CYQG
 SEAFO	N044.58.52.640 W075.52.53.380 ;CYSH
@@ -2725,6 +2728,7 @@ TEVAD	N043.26.47.000 W078.45.00.000
 TEXEN	N045.12.32.050 W075.27.33.310 ;CYOW
 TEXID	N043.35.00.000 W078.58.00.000
 TEXIG	N042.53.37.120 W080.50.44.950 ;CYTB
+TEXOG   N046.16.57.399 W079.14.27.830 ;CYYB
 TFTUN	N040.50.46.200 W083.47.53.900 ;CYQG
 THOME	N042.07.48.400 W078.46.44.900 ;KCLE
 THORL	N042.59.03.770 W079.45.38.270
@@ -20842,7 +20846,7 @@ CYKF RNAV (RNP) Y 26      ALKAP          ALKAP          XUDLO          XUDLO    
                           N043.30.14.928 W080.16.15.976 N043.29.54.913 W080.16.39.113 APPR
                           N043.29.54.913 W080.16.39.113 N043.29.38.120 W080.17.06.688 APPR
                           N043.29.38.120 W080.17.06.688 DAXUN          DAXUN          APPR
-                          KETPU          KETPU          SUGUB          SUGUB          APPR
+                          KAREV          KAREV          SUGUB          SUGUB          APPR
                           TAVRI          TAVRI          XOSIG          XOSIG          APPR       
                           SUGUB          SUGUB          N043.25.05.875 W080.14.14.000 APPR
                           N043.25.05.875 W080.14.14.000 N043.25.22.617 W080.13.46.495 APPR
@@ -21405,13 +21409,34 @@ CYAM ILS 12               EBNAN          EBNAN          VETKO          VETKO    
                           DURLU          DURLU          NUKAV          NUKAV          APPR
                           NUKAV          NUKAV          N046.29.09.600 W084.31.15.190 APPR
 ;
-CYAM RNAV (GNSS) 12       RAGIV          RAGIV          LEREG          LEREG          APPR
+CYAM RNAV (GNSS) Z 12     RAGIV          RAGIV          LEREG          LEREG          APPR
                           UDLIM          UDLIM          LEREG          LEREG          APPR
+                          LEREG          LEREG          IMOBA          IMOBA          APPR
+
+CYAM RNAV (RNP) Y 12      SAXIS          SAXIS          PEPDO          PEPDO          APPR
+                          PEPDO          PEPDO          N046.26.17.661 W084.41.16.334 APPR
+                          N046.26.17.661 W084.41.16.334 N046.26.35.475 W084.41.44.077 APPR
+                          N046.26.35.475 W084.41.44.077 N046.26.56.335 W084.42.06.907 APPR
+                          N046.26.56.335 W084.42.06.907 N046.27.19.607 W084.42.24.129 APPR
+                          N046.27.19.607 W084.42.24.129 N046.27.44.586 W084.42.35.220 APPR
+                          N046.27.44.586 W084.42.35.220 N046.28.10.510 W084.42.39.843 APPR
+                          N046.28.10.510 W084.42.39.843 N046.28.36.594 W084.42.37.857 APPR
+                          N046.28.36.594 W084.42.37.857 N046.29.02.044 W084.42.29.324 APPR
+                          N046.29.02.044 W084.42.29.324 N046.29.26.087 W084.42.14.502 APPR
+                          N046.29.26.087 W084.42.14.502 N046.29.47.993 W084.41.53.841 APPR
+                          N046.29.47.993 W084.41.53.841 N046.30.07.096 W084.41.27.970 APPR
+                          N046.30.07.096 W084.41.27.970 N046.30.22.815 W084.40.57.674 APPR
+                          N046.30.22.815 W084.40.57.674 N046.30.34.673 W084.40.23.874 APPR
+                          N046.30.34.673 W084.40.23.874 N046.30.42.310 W084.39.47.597 APPR
+                          N046.30.42.310 W084.39.47.597 N046.30.45.493 W084.39.09.945 APPR
+                          N046.30.45.493 W084.39.09.945 N046.30.44.126 W084.38.32.063 APPR
+                          N046.30.44.126 W084.38.32.063 IMOBA          IMOBA          APPR
                           LEREG          LEREG          IMOBA          IMOBA          APPR
 ;
 CYAM RNAV (GNSS) 22       EMUXA          EMUXA          ITLUB          ITLUB          APPR
                           AVTOM          AVTOM          ITLUB          ITLUB          APPR
                           ITLUB          ITLUB          MUTOD          MUTOD          APPR
+                          MUTOD          MUTOD          XONTI          XONTI          APPR
 ;
 CYAM RNAV (GNSS) 30       VIXEG          VIXEG          ESVED          ESVED          APPR
                           OTMUN          OTMUN          ESVED          ESVED          APPR
@@ -21424,19 +21449,23 @@ CYAM VOR 30               HALEV          HALEV          SSM            SSM      
 ;***************
 ;     CYHM     *
 ;***************
-CYHM ILS/NDB 12           APGOM          APGOM          ZHA            ZHA            APPR
-                          ZHA            ZHA            N043.10.45.380 W079.56.50.050 APPR
+CYHM ILS 12               SAXIL          SAXIL          APGOM          APGOM          APPR
+                          SEFBY          SEFBY          APGOM          APGOM          APPR
+                          VIXOM          VIXOM          APGOM          APCOM          APPR
+                          APGOM          APGOM          XULRI          XULRI          APPR
 ;
-CYHM LOC/NDB 30           DELVA          DELVA          ZHM            ZHM            APPR
-                          ZHM            ZHM            N043.10.21.980 W079.55.06.860 APPR
+CYHM LOC 30               OTROX          OTROX          DELVA          DELVA          APPR
+                          KEDBU          KEDBU          DELVA          DELVA          APPR
+                          DELVA          DELVA          XUGSO          XUGSO          APPR                      
 ;
 CYHM RNAV (GNSS) Z 06     LEVEX          LEVEX          DAXAT          DAXAT          APPR
                           DAXAT          DAXAT          IGTUT          IGTUT          APPR
                           DAXAT          DAXAT          VIBKA          VIBKA          APPR
 ;
-CYHM RNAV (GNSS) Z 12     REXUG          REXUG          LOGLI          LOGLI          APPR
-                          PUSAM          PUSAM          LOGLI          LOGLI          APPR
-                          LOGLI          LOGLI          IGTIG          IGTIG          APPR
+CYHM RNAV (GNSS) Z 12     SAXIL          SAXIL          APGOM          APGOM          APPR
+                          SEFBY          SEFBY          APGOM          APGOM          APPR
+                          VIXOM          VIXOM          APGOM          APCOM          APPR
+                          APGOM          APGOM          IGTIG          IGTIG          APPR
 ;
 CYHM RNAV (GNSS) Z 24     UDMIK          UDMIK          MUXIG          MUXIG          APPR
                           MUXIG          MUXIG          NOPOP          NOPOP          APPR
@@ -21774,18 +21803,44 @@ CYYB ILS 08               GUDIK          GUDIK          LEPIK          LEPIK    
                           DEGDA          DEGDA          LEPIK          LEPIK          APPR
                           DUSEK          DUSEK          LEPIK          LEPIK          APPR
 ;
-CYYB RNAV (GNSS) 08       GUDIK          GUDIK          LEPIK          LEPIK          APPR
+CYYB RNAV (GNSS) Z 08     GUDIK          GUDIK          LEPIK          LEPIK          APPR
                           DEGDA          DEGDA          LEPIK          LEPIK          APPR
-                          EBDAN          EBDAN          LEPIK          LEPIK          APPR
+                          EBDAN          EBDAN          LEPIK          LEPIK          APPR                          
 ;
+CYYB RNAV (RNP) Y 08      IKDAT          IKDAT          KASUB          KASUB          APPR
+                          KASUB          KASUB          N046.17.15.428 W079.34.46.498 APPR
+                          N046.17.15.428 W079.34.46.498 N046.17.41.786 W079.34.42.961 APPR
+                          N046.17.41.786 W079.34.42.961 N046.18.06.845 W079.34.32.548 APPR
+                          N046.18.06.845 W079.34.32.548 N046.18.30.276 W079.34.15.988 APPR
+                          N046.18.30.276 W079.34.15.988 N046.18.51.366 W079.33.53.783 APPR
+                          N046.18.51.366 W079.33.53.783 N046.19.09.476 W079.33.26.608 APPR
+                          N046.19.09.476 W079.33.26.608 N046.19.24.053 W079.32.55.290 APPR
+                          N046.19.24.053 W079.32.55.290 EBDAN          EBDAN          APPR
+                          LEPIK          LEPIK          EBDAN          EBDAN          APPR
+;                      
 CYYB RNAV (GNSS) 18       ODKOB          ODKOB          KEVBA          KEVBA          APPR
                           ITGAN          IGTAN          KEVBA          KEVBA          APPR
                           NORUX          NORUX          KEVBA          KEVBA          APPR
 ;
-CYYB RNAV (GNSS) 26       EMASI          EMASI          SEBAB          SEBAB          APPR
+CYYB RNAV (GNSS) Z 26     EMASI          EMASI          SEBAB          SEBAB          APPR
                           TIBEM          TIBEM          SEBAB          SEBAB          APPR
                           MUSIX          MUSIX          SEBAB          SEBAB          APPR
 ;
+CYYB RNAV (RNP) Y 26      SEBAB          SEBAB          MUSIX          MUSIX          APPR
+                          TEXOG          TEXOG          IRLOL          IRLOL          APPR
+                          IRLOL          IRLOL          N046.21.43.850 W079.13.45.459 APPR
+                          N046.21.43.850 W079.13.45.459 N046.22.09.914 W079.13.50.828 APPR
+                          N046.22.09.914 W079.13.50.828 N046.22.34.925 W079.14.02.732 APPR
+                          N046.22.34.925 W079.14.02.732 N046.22.58.110 W079.14.20.802 APPR
+                          N046.22.58.110 W079.14.20.802 N046.23.18.752 W079.14.44.479 APPR
+                          N046.23.18.752 W079.14.44.479 N046.23.36.212 W079.15.13.031 APPR
+                          N046.23.36.212 W079.15.13.031 N046.23.49.949 W079.15.45.574 APPR
+                          N046.23.49.949 W079.15.45.574 N046.23.59.539 W079.16.21.102 APPR
+                          N046.23.59.539 W079.16.21.102 N046.24.04.685 W079.16.58.515 APPR
+                          N046.24.04.685 W079.16.58.515 N046.24.05.228 W079.17.36.655 APPR
+                          N046.24.05.228 W079.17.36.655 N046.24.01.151 W079.18.14.344 APPR
+                          N046.24.01.151 W079.18.14.344 MUSIX          MUSIX          APPR
+
 CYYB RNAV (GNSS) 36       OBTOP          OBTOP          PUTAD          PUTAB          APPR
                           IMELI          IMELI          PUTAD          PUTAB          APPR
                           KEGSA          KEGSA          PUTAD          PUTAB          APPR

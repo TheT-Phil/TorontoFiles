@@ -1,5 +1,18 @@
 ************************
-* CZYZ 2407 07/11/2024 *
+* CZYZ 2412 28/14/2024 *
+************************
+-Update Nav Data to AIRAC 2412
+-Added RNAV Z and Y 12 Approaches @ CYAM 
+-Removed NDB 12 @ CYHM
+-Updated ILS and RNAV Z 12 @ CYHM
+-Updated VOR 30 @ CYHM
+-Updated RNAV Y 26 @ CYKF
+-Added RNAV Z and Y 08 Approaches @ CYYB
+-Added RNAV Z and Y 26 Approaches @ CYYB
+-Update fixes
+
+************************
+* CZYZ 2407 11/07/2024 *
 ************************
 -Update Nav Data to AIRAC 2407
 -Added new RNAV Approaches to CEN4
