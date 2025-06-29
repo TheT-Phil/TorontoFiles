@@ -1,5 +1,39 @@
 ************************
-* CZYZ 2412 28/14/2024 *
+* CZYZ 2506 12/06/2025 *
+************************
+-Update Nav Data to AIRAC 2506 (and all missing updates)
+-Update Low Airways
+-Update CYCN RNAV (GNSS) 31
+-Remove CYLD NDB 05 APPR
+-Rename CYOS to MAJOR-GENERAL RICHARD ROHMER
+-Remove CYRO procedures
+-Update CYSH RNAV (GNSS) 06
+-Remove CYTZ RNAV (GNSS) Z 26
+-Update CYOW ILS 07
+-Update CYAM ILS 12
+-Update CYHM RNAV (GNSS) Z 24
+-Update CYHM STARS (AVSOX, COLTS, TICUM)
+-Update CYHM STAR UDMIK to TICAT
+-ADD CYHM STAR TETOS
+-Add CYHM RNAV (RNP) Y 12
+-Add CYHM RNAV (RNP) Y 30
+-Update CYHM SIDs to remove NDB references
+-Update CYTR ILS 06
+-Add CYQG ILS 25
+-Update CYGK RNAV (GNSS) 19
+-Update CYGK RNAV (GNSS) 07
+-Update CYSB all RNAV (GNSS) appr to RNAV (GNSS) Z appr
+-Add CYSB RNAV (RNP) Y 04, 12, 22, 30
+-Update CYTS RNAV (GNSS) 10, 21, 28 to RNAV (GNSS) Z 10, 21, 28
+-Add CYTS RNAV (RNP) Y 10, 21, 28
+-Add CYTS RNAV (GNSS) 03
+-Update CYTS ILS Z and Y 03
+-Update CYTS VOR/DME 03, 10, 21, 28
+-Remove CYZD procedures
+
+
+************************
+* CZYZ 2412 28/11/2024 *
 ************************
 -Update Nav Data to AIRAC 2412
 -Added RNAV Z and Y 12 Approaches @ CYAM 

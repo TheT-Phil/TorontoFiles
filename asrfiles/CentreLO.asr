@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tyson\Documents\EuroScope\CANscope\CZYZ\TorontoFiles-2407\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
@@ -53,6 +54,8 @@ Fixes:AVSEP:symbol
 Fixes:AXOBU:symbol
 Fixes:AXXIS:symbol
 Fixes:BBOXX:symbol
+Fixes:BEMOG:symbol
+Fixes:BERDD:symbol
 Fixes:BESID:symbol
 Fixes:BETES:symbol
 Fixes:BETUL:symbol
@@ -71,6 +74,7 @@ Fixes:CATGA:symbol
 Fixes:DARID:symbol
 Fixes:DAVSI:symbol
 Fixes:DEDKI:symbol
+Fixes:DEMOG:symbol
 Fixes:DERLO:symbol
 Fixes:DESKI:symbol
 Fixes:DUGBU:symbol
@@ -102,6 +106,7 @@ Fixes:IGSUB:symbol
 Fixes:IGVUD:symbol
 Fixes:IKLAX:symbol
 Fixes:IKLEN:symbol
+Fixes:IKLUX:symbol
 Fixes:IKMOK:symbol
 Fixes:ILUSI:symbol
 Fixes:IMEBA:symbol
@@ -109,12 +114,15 @@ Fixes:IMIXA:symbol
 Fixes:IPTOS:symbol
 Fixes:IRKIM:symbol
 Fixes:ISTON:symbol
+Fixes:JEORG:symbol
 Fixes:JUNIS:symbol
 Fixes:KANUR:symbol
 Fixes:KARIT:symbol
 Fixes:KASED:symbol
+Fixes:KATEK:symbol
 Fixes:KATNO:symbol
 Fixes:KATTY:symbol
+Fixes:KAYCY:symbol
 Fixes:KEBMA:symbol
 Fixes:KENDI:symbol
 Fixes:KENLU:symbol
@@ -122,6 +130,7 @@ Fixes:KEPTA:symbol
 Fixes:KICKS:symbol
 Fixes:KISEP:symbol
 Fixes:KISUK:symbol
+Fixes:KMNGO:symbol
 Fixes:KNOOK:symbol
 Fixes:LANRK:symbol
 Fixes:LEPOS:symbol
@@ -140,6 +149,7 @@ Fixes:MEPKA:symbol
 Fixes:MIGLO:symbol
 Fixes:MIKKY:symbol
 Fixes:MIVOK:symbol
+Fixes:MIXAK:symbol
 Fixes:MIXUT:symbol
 Fixes:MONEE:symbol
 Fixes:MUSIT:symbol
@@ -149,6 +159,7 @@ Fixes:NADUM:symbol
 Fixes:NAKAL:symbol
 Fixes:NAKBO:symbol
 Fixes:NAKBU:symbol
+Fixes:NOJJE:symbol
 Fixes:NOPOT:symbol
 Fixes:NOSIK:symbol
 Fixes:NUBAM:symbol
@@ -185,7 +196,10 @@ Fixes:RIBIR:symbol
 Fixes:RIGUS:symbol
 Fixes:RIKEM:symbol
 Fixes:RNAND:symbol
+Fixes:RONDO:symbol
 Fixes:ROSVO:symbol
+Fixes:RRBEE:symbol
+Fixes:RUXDU:symbol
 Fixes:SAMYL:symbol
 Fixes:SANIN:symbol
 Fixes:SASID:symbol
@@ -198,7 +212,9 @@ Fixes:SEVBI:symbol
 Fixes:SHHOT:symbol
 Fixes:SIGOE:symbol
 Fixes:SILVU:symbol
+Fixes:SKOWT:symbol
 Fixes:SLLAP:symbol
+Fixes:SRADE:symbol
 Fixes:SSENA:symbol
 Fixes:SUXEB:symbol
 Fixes:TADMO:symbol
@@ -216,6 +232,7 @@ Fixes:TUDAN:symbol
 Fixes:TUKIR:symbol
 Fixes:TULEG:symbol
 Fixes:TULEK:symbol
+Fixes:UDGAK:symbol
 Fixes:UDMUG:symbol
 Fixes:UDNOX:symbol
 Fixes:UKNIX:symbol
@@ -224,6 +241,7 @@ Fixes:URSSA:symbol
 Fixes:VERDO:symbol
 Fixes:VERTI:symbol
 Fixes:VIBLI:symbol
+Fixes:VIDGO:symbol
 Fixes:VITOV:symbol
 Fixes:WAGGO:symbol
 Fixes:WALPP:symbol
@@ -331,7 +349,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:10.40000
 TAGFAMILY:CSiT
-WINDOWAREA:39.726193:-101.131923:55.872965:-59.060157
+WINDOWAREA:46.276548:-90.946462:49.703904:-82.123374
 PLUGIN:VATCANSitu:altFilterHigh:999
 PLUGIN:VATCANSitu:altFilterLow:6
 PLUGIN:VATCANSitu:DisplayTypeName:IFR
