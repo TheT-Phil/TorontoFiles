@@ -552,11 +552,11 @@ ZDC:Washington Center:133.725:DC:DC:DC:CTR:DC:CTR
 
 [SIDSSTARS]
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
 *                                        PEARSON STARS                                          *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
 **********************************
 * JET STAR: BOXUM W/ BOXUM TRANS *
@@ -1197,17 +1197,17 @@ STAR:CYYZ:33L:IMEBA VIBLI6:VIBLI6 IMEBA VIDRO ELVUT NUBAV MIRUG GUBOV OKOKU MAVI
 STAR:CYYZ:33R:IMEBA VIBLI6:VIBLI6 IMEBA VIDRO ELVUT NUBAV MIRUG GUBOV OKOKU MAVID KEDSU AGBEK LETAG
 ;- END VIBLI STAR
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
 *                                        END PEARSON STARS                                      *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
-*                                         HAMILTON STARS				        *
+*                                         HAMILTON STARS                                        *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
 **************
 * AVSOX STAR *
@@ -1261,17 +1261,17 @@ STAR:CYHM:12:TETOS1:TETOS EMOKU APGOM
 STAR:CYHM:24:TETOS1:TETOS EMOKU APGOM BIMKI TICAT MUXIG
 STAR:CYHM:30:TETOS1:TETOS EMOKU DAXAT KEDBU OTPOK DELVA
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
-*                                      END HAMILTON STARS					*
+*                                      END HAMILTON STARS                                       *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
-*                                      BILLY BISHOP STARS					*
+*                                      BILLY BISHOP STARS                                       *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
 *****************************
 * ILIXU STAR W/ KEMVI TRANS *
@@ -1305,17 +1305,17 @@ STAR:CYTZ:08:KAXOL KAXOL2:KAXOL LARDR LENOG ROTRU LEPAB
 STAR:CYTZ:26:KAXOL KAXOL2:KAXOL LARDR ALGUR OBTUR
 ;- END KAXOL STAR
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
-*                                      END BILLY BISHOP STARS 					*
+*                                      END BILLY BISHOP STARS                                   *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
 *                                 OTTAWA MACDONALD CARTIER STARS                                *
-*											        *
-*************************************************************************************************
+*                                                                                               *
+***************************************************************************************************
 
 *******************************
 * CAPITAL STAR W/ MIVOK TRANS *
@@ -1426,18 +1426,18 @@ STAR:CYOW:25:ALSET RIVER4:RIVER4 ALSET THURO TEFLY
 STAR:CYOW:32:ALSET RIVER4:RIVER4 ALSET THURO URLAG ADVOS WATTO TIDUL TEXEN
 ;- END RIVER STAR
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
 *                                END OTTAWA MACDONALD CARTIER STARS                             *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
-*                                  PIERRE ELLIOTT TRUDEAU STARS					*
-*              (ONLY GOING TO THE POINT WHERE THEY TRANSITION TO SPECIFIC RUNWAYS)		*
+*                                  PIERRE ELLIOTT TRUDEAU STARS                                 *
+*              (ONLY GOING TO THE POINT WHERE THEY TRANSITION TO SPECIFIC RUNWAYS)              *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
 *****************************
 * ALOET STAR W/ AVVON TRANS *
@@ -1467,18 +1467,18 @@ STAR:CYUL::VIDGO LFLER7:LFLER7 VIDGO EMPEK SATOT PIGNA
 STAR:CYUL::EMPEK LFLER7:LFLER7 EMPEK SATOT PIGNA
 ;- END LAFLEUR STAR
 
-*************************************************************************************************
-*											        *
-*                                END PIERRE ELLIOTT TRUDEAU STARS				*
-*											        *
-*************************************************************************************************
+***************************************************************************************************
+*                                                                                               *
+*                                END PIERRE ELLIOTT TRUDEAU STARS                               *
+*                                                                                               *
+***************************************************************************************************
 
-*************************************************************************************************
+***************************************************************************************************
 *                                                                                               *
-*                                  CLEVELAND AREA STARS					*
-*              (ONLY GOING TO THE POINT WHERE THEY TRANSITION TO SPECIFIC RUNWAYS)		*
+*                                  CLEVELAND AREA STARS                                         *
+*              (ONLY GOING TO THE POINT WHERE THEY TRANSITION TO SPECIFIC RUNWAYS)              *
 *                                                                                               *
-*************************************************************************************************
+***************************************************************************************************
 
 ********************************************
 * BRWNZ RNAV STAR W/ DOZRR AND BRWNZ TRANS *
@@ -1519,18 +1519,18 @@ STAR:KLNN::LFTON TRYBE4:TRYBE4 LFTON HFNER TRYBE
 STAR:KLNN::TRYBE TRYBE4:TRYBE4 TRYBE
 ;- END TRYBE STAR
 
-*************************************************************************************************
-*											        *
-*                                	END CLEVELAND HOPKINS STARS				*
-*											        *
-*************************************************************************************************
+***************************************************************************************************
+*                                                                                               *
+*                                	END CLEVELAND HOPKINS STARS                                 *
+*                                                                                               *
+***************************************************************************************************
 
-*************************************************************************************************
-*											        *
-*                              DETROIT METRO WAYNE CO STARS/SIDS				*
-*              (ONLY GOING TO THE POINT WHERE THEY TRANSITION TO SPECIFIC RUNWAYS)		*
-*											        *
-*************************************************************************************************
+***************************************************************************************************
+*                                                                                               *
+*                              DETROIT METRO WAYNE CO STARS/SIDS                                *
+*              (ONLY GOING TO THE POINT WHERE THEY TRANSITION TO SPECIFIC RUNWAYS)              *
+*                                                                                               *
+***************************************************************************************************
 
 ********************************************************
 * CUUGR RNAV STAR W/ BOBTA DONEO GGUCE AND TPGUN TRANS *
@@ -1553,26 +1553,26 @@ STAR:KDTW::TPGUN TPGUN2:TPGUN2 TPGUN
 *******************************************************************
 * ZETTR RNAV SID W/ DUTEL ETBOX SIKBO KELTI TAKNO AND ZETTR TRANS *
 *******************************************************************
-SID:KDTW::ZETTR3DUTEL:FLOKA ZETTR KARIT DUTEL
-SID:KDTW::ZETTR3ETBOX:FLOKA ZETTR KARIT ETBOX
-SID:KDTW::ZETTR3SIKBO:FLOKA ZETTR TANKO SIKBO
-SID:KDTW::ZETTR3KELTI:FLOKA ZETTR TANKO KELTI
-SID:KDTW::ZETTR3TANKO:FLOKA ZETTR TANKO
-SID:KDTW::ZETTR3ZETTR:FLOKA ZETTR
+SID:KDTW::ZETTR4DUTEL:FLOKA ZETTR KARIT DUTEL
+SID:KDTW::ZETTR4ETBOX:FLOKA ZETTR KARIT ETBOX
+SID:KDTW::ZETTR4SIKBO:FLOKA ZETTR TANKO SIKBO
+SID:KDTW::ZETTR4KELTI:FLOKA ZETTR TANKO KELTI
+SID:KDTW::ZETTR4TANKO:FLOKA ZETTR TANKO
+SID:KDTW::ZETTR4ZETTR:FLOKA ZETTR
 ;- END ZETTR SID
 
-*************************************************************************************************
-*											        *
-*                             END DETROIT METRO WAYNE CO STARS/SIDS				*
-*											        *
-*************************************************************************************************
+***************************************************************************************************
+*                                                                                               *
+*                             END DETROIT METRO WAYNE CO STARS/SIDS                             *
+*                                                                                               *
+***************************************************************************************************
 
-*************************************************************************************************
-*											        *
-*               		       THUNDER BAY STARS/SIDS					*
-*              (ONLY GOING TO THE POINT WHERE THEY TRANSITION TO SPECIFIC RUNWAYS)		*
-*											        *
-*************************************************************************************************
+***************************************************************************************************
+*                                                                                               *
+*               		       THUNDER BAY STARS/SIDS                                           *
+*              (ONLY GOING TO THE POINT WHERE THEY TRANSITION TO SPECIFIC RUNWAYS)              *
+*                                                                                               *
+***************************************************************************************************
 
 *****************************************
 * NOTER STAR W/ URSUM DUPUL NOTER TRANS *
@@ -1589,18 +1589,18 @@ SID:CYQT::LESIS2:LESIS BOTIT
 SID:CYQT::NUBOM2:NUBOM ALNAN
 ;- END LESIS AND NUBOM SID
 
-*************************************************************************************************
-*											        *
-*                           		END THUNDER BAY STARS/SIDS				*
-*											        *
-*************************************************************************************************
-
-*************************************************************************************************
-*											        *
-*                                 DETROIT SAT AIRPORTS STARS/SIDS				*
-*        		         (ONLY THE STARS THAT EFFECT CZYZ)				*
+***************************************************************************************************
 *                                                                                               *
-*************************************************************************************************
+*                           		END THUNDER BAY STARS/SIDS                                  *
+*                                                                                               *
+***************************************************************************************************
+
+***************************************************************************************************
+*                                                                                               *
+*                                 DETROIT SAT AIRPORTS STARS/SIDS                               *
+*                                (ONLY THE STARS THAT EFFECT CZYZ)                              *
+*                                                                                               *
+***************************************************************************************************
 
 ***************************************
 * GIGGY STAR W/ COLTS AND PICUP TRANS *
@@ -1613,10 +1613,15 @@ STAR:KTTF::PICUP GIGGY2:GIGGY2 PICUP AXXIS AUTTO GIGGY
 
 STAR:KONZ::COLTS GIGGY2:GIGGY2 COLTS BOREK LOPVO ITPEG PICUP AXXIS AUTTO GIGGY
 STAR:KONZ::PICUP GIGGY2:GIGGY2 PICUP AXXIS AUTTO GIGGY
-
-STAR:CYQG::COLTS GIGGY2:GIGGY2 COLTS BOREK LOPVO ITPEG PICUP AXXIS AUTTO GIGGY
-STAR:CYQG::PICUP GIGGY2:GIGGY2 PICUP AXXIS AUTTO GIGGY
 ;- END GIGGY STAR
+
+***************************************
+* AUTTO STAR W/ COLTS AND PICUP TRANS *
+***************************************
+
+STAR:CYQG::COLTS AUTTO1:AUTTO1 COLTS BOREK LOPVO ITPEG PICUP AXXIS AUTTO GIGGY
+STAR:CYQG::PICUP AUTTO1:AUTTO1 PICUP AXXIS AUTTO GIGGY
+;- END AUTTO STAR
 
 ***************************************
 * OKLND STAR W/ COLTS AND PICUP TRANS *
@@ -1636,47 +1641,47 @@ STAR:KPTK::PICUP OKLND1:OKLND1 PICUP AXXIS FAEGO RIPPY OKLND
 *************
 * ZETTR SID *
 *************
-SID:KDET::ZETTR3DUTEL:FLOKA ZETTR KARIT DUTEL
-SID:KDET::ZETTR3ETBOX:FLOKA ZETTR KARIT ETBOX
-SID:KDET::ZETTR3SIKBO:FLOKA ZETTR TANKO SIKBO
-SID:KDET::ZETTR3KELTI:FLOKA ZETTR TANKO KELTI
-SID:KDET::ZETTR3TANKO:FLOKA ZETTR TANKO
+SID:KDET::ZETTR4DUTEL:FLOKA ZETTR KARIT DUTEL
+SID:KDET::ZETTR4ETBOX:FLOKA ZETTR KARIT ETBOX
+SID:KDET::ZETTR4SIKBO:FLOKA ZETTR TANKO SIKBO
+SID:KDET::ZETTR4KELTI:FLOKA ZETTR TANKO KELTI
+SID:KDET::ZETTR4TANKO:FLOKA ZETTR TANKO
 
-SID:KVLL::ZETTR3DUTEL:FLOKA ZETTR KARIT DUTEL
-SID:KVLL::ZETTR3ETBOX:FLOKA ZETTR KARIT ETBOX
-SID:KVLL::ZETTR3SIKBO:FLOKA ZETTR TANKO SIKBO
-SID:KVLL::ZETTR3KELTI:FLOKA ZETTR TANKO KELTI
-SID:KVLL::ZETTR3TANKO:FLOKA ZETTR TANKO
+SID:KVLL::ZETTR4DUTEL:FLOKA ZETTR KARIT DUTEL
+SID:KVLL::ZETTR4ETBOX:FLOKA ZETTR KARIT ETBOX
+SID:KVLL::ZETTR4SIKBO:FLOKA ZETTR TANKO SIKBO
+SID:KVLL::ZETTR4KELTI:FLOKA ZETTR TANKO KELTI
+SID:KVLL::ZETTR4TANKO:FLOKA ZETTR TANKO
 
-SID:KARB::ZETTR3DUTEL:FLOKA ZETTR KARIT DUTEL
-SID:KARB::ZETTR3ETBOX:FLOKA ZETTR KARIT ETBOX
-SID:KARB::ZETTR3SIKBO:FLOKA ZETTR TANKO SIKBO
-SID:KARB::ZETTR3KELTI:FLOKA ZETTR TANKO KELTI
-SID:KARB::ZETTR3TANKO:FLOKA ZETTR TANKO
+SID:KARB::ZETTR4DUTEL:FLOKA ZETTR KARIT DUTEL
+SID:KARB::ZETTR4ETBOX:FLOKA ZETTR KARIT ETBOX
+SID:KARB::ZETTR4SIKBO:FLOKA ZETTR TANKO SIKBO
+SID:KARB::ZETTR4KELTI:FLOKA ZETTR TANKO KELTI
+SID:KARB::ZETTR4TANKO:FLOKA ZETTR TANKO
 
-SID:KYIP::ZETTR3DUTEL:FLOKA ZETTR KARIT DUTEL
-SID:KYIP::ZETTR3ETBOX:FLOKA ZETTR KARIT ETBOX
-SID:KYIP::ZETTR3SIKBO:FLOKA ZETTR TANKO SIKBO
-SID:KYIP::ZETTR3KELTI:FLOKA ZETTR TANKO KELTI
-SID:KYIP::ZETTR3TANKO:FLOKA ZETTR TANKO
+SID:KYIP::ZETTR4DUTEL:FLOKA ZETTR KARIT DUTEL
+SID:KYIP::ZETTR4ETBOX:FLOKA ZETTR KARIT ETBOX
+SID:KYIP::ZETTR4SIKBO:FLOKA ZETTR TANKO SIKBO
+SID:KYIP::ZETTR4KELTI:FLOKA ZETTR TANKO KELTI
+SID:KYIP::ZETTR4TANKO:FLOKA ZETTR TANKO
 
-SID:KTTF::ZETTR3DUTEL:FLOKA ZETTR KARIT DUTEL
-SID:KTTF::ZETTR3ETBOX:FLOKA ZETTR KARIT ETBOX
-SID:KTTF::ZETTR3SIKBO:FLOKA ZETTR TANKO SIKBO
-SID:KTTF::ZETTR3KELTI:FLOKA ZETTR TANKO KELTI
-SID:KTTF::ZETTR3TANKO:FLOKA ZETTR TANKO
+SID:KTTF::ZETTR4DUTEL:FLOKA ZETTR KARIT DUTEL
+SID:KTTF::ZETTR4ETBOX:FLOKA ZETTR KARIT ETBOX
+SID:KTTF::ZETTR4SIKBO:FLOKA ZETTR TANKO SIKBO
+SID:KTTF::ZETTR4KELTI:FLOKA ZETTR TANKO KELTI
+SID:KTTF::ZETTR4TANKO:FLOKA ZETTR TANKO
 
-SID:KONZ::ZETTR3DUTEL:FLOKA ZETTR KARIT DUTEL
-SID:KONZ::ZETTR3ETBOX:FLOKA ZETTR KARIT ETBOX
-SID:KONZ::ZETTR3SIKBO:FLOKA ZETTR TANKO SIKBO
-SID:KONZ::ZETTR3KELTI:FLOKA ZETTR TANKO KELTI
-SID:KONZ::ZETTR3TANKO:FLOKA ZETTR TANKO
+SID:KONZ::ZETTR4DUTEL:FLOKA ZETTR KARIT DUTEL
+SID:KONZ::ZETTR4ETBOX:FLOKA ZETTR KARIT ETBOX
+SID:KONZ::ZETTR4SIKBO:FLOKA ZETTR TANKO SIKBO
+SID:KONZ::ZETTR4KELTI:FLOKA ZETTR TANKO KELTI
+SID:KONZ::ZETTR4TANKO:FLOKA ZETTR TANKO
 
-SID:KPTK::ZETTR3DUTEL:FLOKA ZETTR KARIT DUTEL
-SID:KPTK::ZETTR3ETBOX:FLOKA ZETTR KARIT ETBOX
-SID:KPTK::ZETTR3SIKBO:FLOKA ZETTR TANKO SIKBO
-SID:KPTK::ZETTR3KELTI:FLOKA ZETTR TANKO KELTI
-SID:KPTK::ZETTR3TANKO:FLOKA ZETTR TANKO
+SID:KPTK::ZETTR4DUTEL:FLOKA ZETTR KARIT DUTEL
+SID:KPTK::ZETTR4ETBOX:FLOKA ZETTR KARIT ETBOX
+SID:KPTK::ZETTR4SIKBO:FLOKA ZETTR TANKO SIKBO
+SID:KPTK::ZETTR4KELTI:FLOKA ZETTR TANKO KELTI
+SID:KPTK::ZETTR4TANKO:FLOKA ZETTR TANKO
 
 *****************
 * ALL CYQG SIDS *
@@ -1691,17 +1696,17 @@ SID:CYQG::MALTB1LNCON:MALTB HHOWE LNCON
 SID:CYQG::CYQG5:CYQG
 ;- END CYQG SIDS
 
-*************************************************************************************************
-*											        *
-*                                      END WINDSOR STARS/SIDS					*
-*											        *
-*************************************************************************************************
+***************************************************************************************************
+*                                                                                               *
+*                                      END WINDSOR STARS/SIDS                                   *
+*                                                                                               *
+***************************************************************************************************
 
-*************************************************************************************************
-*											        *
-*                            	            NAV APPROACHES					*
-*											        *
-*************************************************************************************************
+***************************************************************************************************
+*                                                                                               *
+*                            	            NAV APPROACHES                                      *
+*                                                                                               *
+***************************************************************************************************
 
 ******
 *CYKF*
@@ -2637,18 +2642,18 @@ STAR:KANJ:32:HITAM·RNAV:HITAM ZIDVI YIRUC CUXIG
 STAR:KANJ:32:ZIDVI·RNAV:ZIDVI YIRUC CUXIG
 
 
-*************************************************************************************************
-*											        *
-*                            	          END NAV APPROACHES					*
-*											        *
-*************************************************************************************************
+***************************************************************************************************
+*                                                                                               *
+*                            	          END NAV APPROACHES                                    *
+*                                                                                               *
+***************************************************************************************************
 
-*************************************************************************************************
-*											        *
-*                                           PEARSON SIDS					*
+***************************************************************************************************
+*                                                                                               *
+*                                           PEARSON SIDS                                        *
 * (THE TRANSITION WILL HAVE TO BE BUILT INTO THE SID ITSELF IN ORDER FOR THEM TO WORK PROPERLY) *
-*											        *
-*************************************************************************************************
+*                                                                                               *
+***************************************************************************************************
 
 *********************************
 * JET SID: ANCOL W/ GGUCE TRANS *
@@ -3392,17 +3397,20 @@ SID:CYYZ:33L:TULEK4SLLAP:TULEK GOPUP KARIT HHIPP SLLAP
 SID:CYYZ:33R:TULEK4SLLAP:TULEK GOPUP KARIT HHIPP SLLAP
 ;- END TULEK SID
 
-************************************************************************************************
-*											       *
-*                                         END PEARSON SIDS 				       *
-*											       *
-************************************************************************************************
 
-***********************************************************************************************
-*											      *
-*					 BILLY BISHOP SIDS  			              *
-*											      *
-***********************************************************************************************
+
+
+***************************************************************************************************
+*                                                                                               *
+*                                         END PEARSON SIDS                                      *
+*                                                                                               *
+***************************************************************************************************
+
+***************************************************************************************************
+*                                                                                               *
+*                                     BILLY BISHOP SIDS                                         *
+*                                                                                               *
+***************************************************************************************************
 
 ****************************
 * BOMET SID W/ IPTOS TRANS *
@@ -3502,17 +3510,17 @@ SID:CYTZ:08:TEVAD2AHPAH:NADUM TEVAD AHPAH
 SID:CYTZ:26:TEVAD2AHPAH:NADUM TEVAD AHPAH
 ;- END TEVAD SID
 
-***********************************************************************************************
-*											      *
-*				        END BILLY BISHOP SIDS  			              *
-*											      *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                    END BILLY BISHOP SIDS                                      *
+*                                                                                               *
+*************************************************************************************************
 
-***********************************************************************************************
-*											      *
-*				      BURLINGTON EXECUTIVE SIDS 	                      *
-*											      *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                  BURLINGTON EXECUTIVE SIDS                                    *
+*                                                                                               *
+*************************************************************************************************
 
 ***********************************
 * DUSOM SID W/ PHILLIPSBURG TRANS *
@@ -3572,17 +3580,17 @@ SID:CZBA:14:PEMBA6GGUCE:MIXUT LETOR GGUCE
 SID:CZBA:32:PEMBA6GGUCE:MIXUT LETOR GGUCE
 ;- END PEMBA SID
 
-***********************************************************************************************
-*											      *
-*				END BURLINGTON EXECUTIVE SIDS 	                              *
-*											      *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                 END BURLINGTON EXECUTIVE SIDS                                 *
+*                                                                                               *
+*************************************************************************************************
 
-***********************************************************************************************
-*											      *
-*					PEMBROKE SIDS  				      	      *
-*											      *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                         PEMBROKE SIDS                                         *
+*                                                                                               *
+*************************************************************************************************
 
 *************
 * AGNEX SID *
@@ -3591,17 +3599,17 @@ SID:CYTA:17:AGNEX3:AGNEX
 SID:CYTA:35:AGNEX3:AGNEX
 ;- END AGNEX SID
 
-***********************************************************************************************
-*                                                                                             *
-*				  	END PEMBROKE SIDS                                                         *
-*                                                                                             *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                       END PEMBROKE SIDS                                       *
+*                                                                                               *
+*************************************************************************************************
 
-***********************************************************************************************
-*                                                                                             *
-*                    DETOUR LAKE SIDS                                                         *
-*                                                                                             *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                       DETOUR LAKE SIDS                                        *
+*                                                                                               *
+*************************************************************************************************
 
 *************
 * GRAMP SID *
@@ -3610,18 +3618,18 @@ SID:CDT9:10:GRAMP1:PUVIP:MIBSU:GRAMP
 SID:CDT9:28:GRAMP1:XOSNU:GRAMP
 ;- END GRAMP SID
 
-***********************************************************************************************
-*                                                                                             *
-*                   END DETOUR LAKE SIDS                                                      *
-*                                                                                             *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                     END DETOUR LAKE SIDS                                      *
+*                                                                                               *
+*************************************************************************************************
 
 
-***********************************************************************************************
-*                                                                                             *
-*				       RUNWAY HEADING SIDS                                                    *
-*                                                                                             *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                      RUNWAY HEADING SIDS                                      *
+*                                                                                               *
+*************************************************************************************************
 
 *********************
 * MACDONALD-CARTIER *
@@ -3706,11 +3714,11 @@ SID:CYSB:22:CYSB2:CYSB
 SID:CYSB:30:CYSB2:CYSB
 ;- END SUDBURY
 
-***********************************************************************************************
-*											      *
-*				     END RUNWAY HEADING SIDS 				      *
-*											      *
-***********************************************************************************************
+*************************************************************************************************
+*                                                                                               *
+*                                    END RUNWAY HEADING SIDS                                    *
+*                                                                                               *
+*************************************************************************************************
 
 
 [FREETEXT]
