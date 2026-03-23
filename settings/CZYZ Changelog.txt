@@ -1,4 +1,18 @@
 ************************
+* CZYZ 2603 19/03/2026 *
+************************
+-Update Nav Data to AIRAC 2603 (and all missing updates)
+-Fix CYHM RNP Y 30 Bug
+-Update CYGK RWY 19 approaches
+-Update KDTW SID ZETTR 
+-Add CYQG STAR AUTTO
+-Add approaches to CFR5 (RNAV RWY 01, 10, 19, 28)
+-General file formatting of .ese
+-Update airways (V300)
+-Update CYTB RNAV 26
+-Remove CPR7 Approaches
+
+************************
 * CZYZ 2506 12/06/2025 *
 ************************
 -Update Nav Data to AIRAC 2506 (and all missing updates)

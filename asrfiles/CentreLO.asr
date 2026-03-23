@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Tyson\Documents\EuroScope\CANscope\CZYZ\TorontoFiles-2407\CZYZ.sct
 SECTORTITLE:CZYZ.sct
 Airports:CYBN:symbol
 Airports:CYEL:symbol
