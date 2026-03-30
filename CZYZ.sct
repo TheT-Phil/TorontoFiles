@@ -26103,7 +26103,8 @@ STARs COLTS (06)    	  COLTS          COLTS          IGTUT          IGTUT       
                           IGTUT          IGTUT          AVTEG          AVTEG          Star
 ;
 STARs COLTS (12)    	  COLTS          COLTS          BOVUG          BOVUG          Star
-                          BOVUG          BOVUG          VIXOM          VIXOM          Star
+                          BOVUG          BOVUG          VIMRO          VIMRO          Star
+                          VIMRO          VIMRO          VIXOM          VIXOM          Star
 ;
 STARs COLTS (30)   	      COLTS          COLTS          DELVA          DELVA          Star
 ;
